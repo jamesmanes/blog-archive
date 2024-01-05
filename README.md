@@ -1,2 +1,2 @@
-# jmanes.blog-archive
-An archive of all of my blog posts.
+# Blog Archive
+An archive of jmanes.blog.
