@@ -1,0 +1,1052 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "jmanes.blog",
+	"icon": "https://micro.blog/jmanes/avatar.jpg",
+	"home_page_url": "https://jmanes.blog/",
+	"feed_url": "https://jmanes.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://jmanes.micro.blog/2024/01/04/installed-a-new.html",
+				
+				"content_html": "<p>Installed a new 2.5gbe drop over Christmas break. Looking pretty good. The 2.5gb Ethernet to USB-C adapter came in today and it is amazing.</p>\n<p><img src=\"uploads/2024/3e6bdc254e.jpg\" width=\"600\" height=\"450\" alt=\"Photo of my wall where it meets my floor under my desk. There are various tools on the floor. On the wall there is a power outlet to the left. To the right there are markings on the drywall to indicate where the new wall gang should be installed.\"><img src=\"uploads/2024/2cf22534d9.jpg\" width=\"600\" height=\"450\" alt=\"The after photo depicting the same wall area. The wall gang is now installed and an Ethernet faceplate is installed and ready for use. \"></p>\n",
+				"content_text": "Installed a new 2.5gbe drop over Christmas break. Looking pretty good. The 2.5gb Ethernet to USB-C adapter came in today and it is amazing. \n\n<img src=\"uploads/2024/3e6bdc254e.jpg\" width=\"600\" height=\"450\" alt=\"Photo of my wall where it meets my floor under my desk. There are various tools on the floor. On the wall there is a power outlet to the left. To the right there are markings on the drywall to indicate where the new wall gang should be installed.\"><img src=\"uploads/2024/2cf22534d9.jpg\" width=\"600\" height=\"450\" alt=\"The after photo depicting the same wall area. The wall gang is now installed and an Ethernet faceplate is installed and ready for use. \">\n",
+				"date_published": "2024-01-04T00:39:44-06:00",
+				"url": "https://jmanes.blog/2024/01/04/installed-a-new.html",
+				"tags": ["Tech","DIY"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/01/03/looking-into-transitioning.html",
+				
+				"content_html": "<p>Looking into transitioning banks again&hellip; kinda. I love my local credit union but they are so far behind in terms of interoperability. I&rsquo;ll keep them around for savings and loans, but I need a more modern banking experience that works with services like Zelle.</p>\n",
+				"content_text": "Looking into transitioning banks again... kinda. I love my local credit union but they are so far behind in terms of interoperability. I'll keep them around for savings and loans, but I need a more modern banking experience that works with services like Zelle.\n",
+				"date_published": "2024-01-03T17:47:44-06:00",
+				"url": "https://jmanes.blog/2024/01/03/looking-into-transitioning.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/01/01/happy-new-years.html",
+				
+				"content_html": "<p>Happy new years, folks! I’m two hours late but parties will do that. 🎉</p>\n",
+				"content_text": "Happy new years, folks! I’m two hours late but parties will do that. 🎉\n",
+				"date_published": "2024-01-01T02:18:12-06:00",
+				"url": "https://jmanes.blog/2024/01/01/happy-new-years.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/12/30/roccat-kone-air.html",
+				"title": "Roccat Kone Air + macOS",
+				"content_html": "<p>With a little thinking, I was able to get the <a href=\"https://www.roccat.com/products/kone-air?variant=42180133093534\">Roccat Kone Air</a> mouse to behave as a good macOS citizen. I chose to buy this mouse due to its usage of AA batteries, somewhat muted design, and ergonomics. Configuration did require me to fire up a Parellels Windows 11 VM and install the Roccat software, but after a one-time setup, it is good to go. This is largely doable thanks to the “Easy-Shift[+]” modifier button near the thumb rest in combination with the on-board profile system.</p>\n<p>Here are the mappings I chose in the Roccat software:<br /><br />[Easy-Shift-Button + Left Click] maps to [CTRL + Left Arrow Key]</p>\n<pre>Moves one desktop to the left</pre>\n<p>[Easy-Shift-Button + Right Click] maps to [CTRL + Right Arrow Key]</p>\n<pre>Moves one desktop to the right</pre>\n<p>[Easy-Shift-Button + Middle Click] maps to [CTRL + Up Arrow Key]</p>\n<pre>Mission Control</pre>\n<p>[Easy-Shift-Button + Scroll Up] maps to [Tilt Right]</p>\n<pre>Scrolls right</pre>\n<p>[Easy-Shift-Button + Scroll Down] maps to [Tilt Left]</p>\n<pre>Scrolls left</pre>\n<p>For the forward and backward thumb buttons, I used a piece of software called <a href=\"https://better-mouse.com\">BetterMouse</a> on macOS to map them to forward and backward swipe respectively.</p>\n",
+				"content_text": "<p>With a little thinking, I was able to get the <a href=\"https://www.roccat.com/products/kone-air?variant=42180133093534\">Roccat Kone Air</a> mouse to behave as a good macOS citizen. I chose to buy this mouse due to its usage of AA batteries, somewhat muted design, and ergonomics. Configuration did require me to fire up a Parellels Windows 11 VM and install the Roccat software, but after a one-time setup, it is good to go. This is largely doable thanks to the “Easy-Shift[+]” modifier button near the thumb rest in combination with the on-board profile system.</p>\n<p>Here are the mappings I chose in the Roccat software:<br /><br />[Easy-Shift-Button + Left Click] maps to [CTRL + Left Arrow Key]</p>\n<pre>Moves one desktop to the left</pre>\n<p>[Easy-Shift-Button + Right Click] maps to [CTRL + Right Arrow Key]</p>\n<pre>Moves one desktop to the right</pre>\n<p>[Easy-Shift-Button + Middle Click] maps to [CTRL + Up Arrow Key]</p>\n<pre>Mission Control</pre>\n<p>[Easy-Shift-Button + Scroll Up] maps to [Tilt Right]</p>\n<pre>Scrolls right</pre>\n<p>[Easy-Shift-Button + Scroll Down] maps to [Tilt Left]</p>\n<pre>Scrolls left</pre>\n<p>For the forward and backward thumb buttons, I used a piece of software called <a href=\"https://better-mouse.com\">BetterMouse</a> on macOS to map them to forward and backward swipe respectively.</p>\n",
+				"date_published": "2023-12-30T16:36:02-06:00",
+				"url": "https://jmanes.blog/2023/12/30/roccat-kone-air.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/12/23/this-is-an.html",
+				
+				"content_html": "<p>This is an older photo. Taken on a Pixel 3 in 2019. It’s still one of my favorite photos.</p>\n<img src=\"uploads/2023/1c51e2c9af.jpg\" width=\"600\" height=\"450\" alt=\"A very early morning photo of my work campus. Long green/yellow grass is in the foreground. The moon is visible in the dark sky. There are buildings further back to the left and right, both constructed with a metallic finish. The building to the left is reflecting the sunrise and appears to glow.\">\n",
+				"content_text": "This is an older photo. Taken on a Pixel 3 in 2019. It’s still one of my favorite photos. \n\n<img src=\"uploads/2023/1c51e2c9af.jpg\" width=\"600\" height=\"450\" alt=\"A very early morning photo of my work campus. Long green/yellow grass is in the foreground. The moon is visible in the dark sky. There are buildings further back to the left and right, both constructed with a metallic finish. The building to the left is reflecting the sunrise and appears to glow.\">\n",
+				"date_published": "2023-12-23T01:12:39-06:00",
+				"url": "https://jmanes.blog/2023/12/23/this-is-an.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/12/22/noticing-that-there.html",
+				
+				"content_html": "<p>Noticing that there is very good music that only exists on streaming platforms. There is no way to purchase it on Bandcamp or otherwise. That really sucks.</p>\n",
+				"content_text": "Noticing that there is very good music that only exists on streaming platforms. There is no way to purchase it on Bandcamp or otherwise. That really sucks.\n",
+				"date_published": "2023-12-22T23:27:06-06:00",
+				"url": "https://jmanes.blog/2023/12/22/noticing-that-there.html",
+				"tags": ["Thoughts"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/12/20/beware-the-pig.html",
+				
+				"content_html": "<p>Beware the pig.</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2023/ed29ae4cdb.jpg\" width=\"600\" height=\"450\" alt=\"My pet guinea pig Lambda laying down with one paw visible. She is staring directly at the camera menacingly. \">\n",
+				"content_text": "Beware the pig.\n\n<img src=\"https://cdn.uploads.micro.blog/3480/2023/ed29ae4cdb.jpg\" width=\"600\" height=\"450\" alt=\"My pet guinea pig Lambda laying down with one paw visible. She is staring directly at the camera menacingly. \">\n",
+				"date_published": "2023-12-20T23:50:18-06:00",
+				"url": "https://jmanes.blog/2023/12/20/beware-the-pig.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/12/19/went-through-a.html",
+				
+				"content_html": "<p>Went through a large email address change today, and it is astounding how many companies cannot do email correctly. A good chunk of the sites I use did not have a way to update an email record.</p>\n",
+				"content_text": "Went through a large email address change today, and it is astounding how many companies cannot do email correctly. A good chunk of the sites I use did not have a way to update an email record. \n",
+				"date_published": "2023-12-19T23:48:22-06:00",
+				"url": "https://jmanes.blog/2023/12/19/went-through-a.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/12/14/decided-to-purchase.html",
+				
+				"content_html": "<p>Decided to purchase Sublime Text. I&rsquo;m very late to the game&hellip; so damn late.. but it is once again an attractive option now that VS Code is getting so bloated.</p>\n",
+				"content_text": "Decided to purchase Sublime Text. I'm very late to the game... so damn late.. but it is once again an attractive option now that VS Code is getting so bloated.\n",
+				"date_published": "2023-12-14T22:21:00-06:00",
+				"url": "https://jmanes.blog/2023/12/14/decided-to-purchase.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/12/14/another-stressful-week.html",
+				
+				"content_html": "<p>Another stressful week.. I need a break.</p>\n",
+				"content_text": "Another stressful week.. I need a break.\n",
+				"date_published": "2023-12-14T22:02:22-06:00",
+				"url": "https://jmanes.blog/2023/12/14/another-stressful-week.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/12/09/today-was-new.html",
+				
+				"content_html": "<p>Today was “new monitor day” for me. A substantial upgrade from my Dell UltraSharp of 2018. I opted to go for the LG UltraFine 5k. Thanks to its power delivery, I was able to ditch my Dell docking station and three entire cables! Everything is far cleaner now and it is working great.</p>\n<p><img title=\"IMG_5741.jpeg\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5741.jpeg\" alt=\"A photo of my desk from the perspective of the natural sitting position. To the left are my two vertically aligned MacBook Pros (one was provided by my employer). In the middle of the desk is the UltraFine 5K display mounted on a monitor arm. On each side of the monitor are two mid-sized AudioEngine speakers. To the right is a dedicated microphone. HHKB Hybrid keyboard and Logitech G305 mouse are front and center.\" width=\"600\" height=\"450\" border=\"0\" /></p>\n",
+				"content_text": "<p>Today was “new monitor day” for me. A substantial upgrade from my Dell UltraSharp of 2018. I opted to go for the LG UltraFine 5k. Thanks to its power delivery, I was able to ditch my Dell docking station and three entire cables! Everything is far cleaner now and it is working great.</p>\n<p><img title=\"IMG_5741.jpeg\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5741.jpeg\" alt=\"A photo of my desk from the perspective of the natural sitting position. To the left are my two vertically aligned MacBook Pros (one was provided by my employer). In the middle of the desk is the UltraFine 5K display mounted on a monitor arm. On each side of the monitor are two mid-sized AudioEngine speakers. To the right is a dedicated microphone. HHKB Hybrid keyboard and Logitech G305 mouse are front and center.\" width=\"600\" height=\"450\" border=\"0\" /></p>\n",
+				"date_published": "2023-12-09T23:16:33-06:00",
+				"url": "https://jmanes.blog/2023/12/09/today-was-new.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/12/05/ive-decided-to.html",
+				
+				"content_html": "<p>I’ve decided to start adopting AA and AAA battery powered perhipheral devices. Specifically so I can leverage Panasonic’s Enloop rechargeable batteries. I am hoping this is a good bet, as I like to keep my peripheral devices for a very long time.</p>\n",
+				"content_text": "I’ve decided to start adopting AA and AAA battery powered perhipheral devices. Specifically so I can leverage Panasonic’s Enloop rechargeable batteries. I am hoping this is a good bet, as I like to keep my peripheral devices for a very long time.\n",
+				"date_published": "2023-12-05T21:51:53-06:00",
+				"url": "https://jmanes.blog/2023/12/05/ive-decided-to.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/12/04/declaring-this-work.html",
+				
+				"content_html": "<p>Declaring this work week the week of chill. No late nights, no busting ass, no 12 hour work days, no COVID.  I’m going to do about five hours of work per day and call it good.</p>\n",
+				"content_text": "Declaring this work week the week of chill. No late nights, no busting ass, no 12 hour work days, no COVID.  I’m going to do about five hours of work per day and call it good.\n",
+				"date_published": "2023-12-04T00:14:17-06:00",
+				"url": "https://jmanes.blog/2023/12/04/declaring-this-work.html",
+				"tags": ["Life","Corporate"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/12/03/where-are-the.html",
+				"title": "Where are the good mice for Mac?",
+				"content_html": "<p>I have become endlessly frustrated with the lack of good mice options for the Mac. Most options are immediately off the table due to a requirement on Windows-only drivers and adware. The options that do exist for Mac have a ton of problems.</p>\n<p>For example, some of my favorite choices are the Logitech MX Master / MX Vertical mice, but they have this terrible problem with deteriorating after a few years. The rubber coating decays so quickly and ends up feeling sticky. That is not okay for a $100.00 product. Logitech mice also require the use of their “LogiOptions” application, which requests a ton of system permissions on install. Permission to start on log-in, permission to monitor input from your keyboard (!?).. this is not sane. What has happened to sane perhipheral products?</p>\n",
+				"content_text": "<p>I have become endlessly frustrated with the lack of good mice options for the Mac. Most options are immediately off the table due to a requirement on Windows-only drivers and adware. The options that do exist for Mac have a ton of problems.</p>\n<p>For example, some of my favorite choices are the Logitech MX Master / MX Vertical mice, but they have this terrible problem with deteriorating after a few years. The rubber coating decays so quickly and ends up feeling sticky. That is not okay for a $100.00 product. Logitech mice also require the use of their “LogiOptions” application, which requests a ton of system permissions on install. Permission to start on log-in, permission to monitor input from your keyboard (!?).. this is not sane. What has happened to sane perhipheral products?</p>\n",
+				"date_published": "2023-12-03T16:20:06-06:00",
+				"url": "https://jmanes.blog/2023/12/03/where-are-the.html",
+				"tags": ["Tech","Thoughts"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/12/02/got-the-christmas.html",
+				
+				"content_html": "<p>Got the Christmas tree up and looking good! 🎄<img title=\"IMG_5712.jpeg\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5712.jpeg\" alt=\"\" width=\"450\" height=\"600\" border=\"0\" /></p>\n",
+				"content_text": "<p>Got the Christmas tree up and looking good! 🎄<img title=\"IMG_5712.jpeg\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5712.jpeg\" alt=\"\" width=\"450\" height=\"600\" border=\"0\" /></p>\n",
+				"date_published": "2023-12-02T23:16:54-06:00",
+				"url": "https://jmanes.blog/2023/12/02/got-the-christmas.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/11/30/it-has-been.html",
+				
+				"content_html": "<p>It has been an insanely long week. I tested positive for COVID on Monday… and have had to work until midnight every evening. Sooo close to company-wide Christmas break, though.</p>\n",
+				"content_text": "<p>It has been an insanely long week. I tested positive for COVID on Monday… and have had to work until midnight every evening. Sooo close to company-wide Christmas break, though.</p>\n",
+				"date_published": "2023-11-30T18:05:11-06:00",
+				"url": "https://jmanes.blog/2023/11/30/it-has-been.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/11/20/the-openai-controversy.html",
+				
+				"content_html": "<p>The OpenAI controversy is endlessly entertaining. This will be remembered for years to come.</p>\n",
+				"content_text": "<p>The OpenAI controversy is endlessly entertaining. This will be remembered for years to come.</p>\n",
+				"date_published": "2023-11-20T11:45:45-06:00",
+				"url": "https://jmanes.blog/2023/11/20/the-openai-controversy.html",
+				"tags": ["Tech","Thoughts"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/11/05/it-is-shaping.html",
+				
+				"content_html": "<p>It is shaping up to be one of those 80 hour work weeks. Hopefully the only one I’ll have to do this year.</p>\n",
+				"content_text": "It is shaping up to be one of those 80 hour work weeks. Hopefully the only one I’ll have to do this year.\n",
+				"date_published": "2023-11-05T00:23:56-06:00",
+				"url": "https://jmanes.blog/2023/11/05/it-is-shaping.html",
+				"tags": ["Life","Corporate"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/10/23/im-performing-a.html",
+				
+				"content_html": "<p>I’m performing a bit of a pivot in my exercise routine. Typically I forgo light exercise due to it not reflecting much on my health tracker. I’m going to change this. I’ll still do my big exercises, but an hour of low-resistance elliptical biking every evening is still worth doing.</p>\n",
+				"content_text": "<p>I’m performing a bit of a pivot in my exercise routine. Typically I forgo light exercise due to it not reflecting much on my health tracker. I’m going to change this. I’ll still do my big exercises, but an hour of low-resistance elliptical biking every evening is still worth doing.</p>\n",
+				"date_published": "2023-10-23T21:02:25-06:00",
+				"url": "https://jmanes.blog/2023/10/23/im-performing-a.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/10/22/went-to-the.html",
+				
+				"content_html": "<p>Went to the “Dark Forest” near Kansas City today. It’s an event that a local gardening / landscaping company hosts every Halloween. It was awesome.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/248458737b.jpg\" alt=\"A forest at night, lit by bright red lightning. There is a group of hand crafted witch props that look like slabs of stone. The stone has glowing symbols and lettering. \" width=\"600\" height=\"450\" /><img src=\"https://cdn.uploads.micro.blog/3480/2023/6b167b5584.jpg\" alt=\"A forest at night backlit by bright green and blue lighting. There are hanging light strips that swoop among the trees. In the middle of the photo there is a hanging flat circular symbol. In person, this symbol changed dynamically via light projector. \" width=\"600\" height=\"450\" /><img src=\"https://cdn.uploads.micro.blog/3480/2023/3cbd12227f.jpg\" alt=\"The forest trees as viewed by looking straight up from the trail. The tree leaves are reflecting tons of different colors from the various light protectors.  It’s a very trippy sight! \" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "<p>Went to the “Dark Forest” near Kansas City today. It’s an event that a local gardening / landscaping company hosts every Halloween. It was awesome.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/248458737b.jpg\" alt=\"A forest at night, lit by bright red lightning. There is a group of hand crafted witch props that look like slabs of stone. The stone has glowing symbols and lettering. \" width=\"600\" height=\"450\" /><img src=\"https://cdn.uploads.micro.blog/3480/2023/6b167b5584.jpg\" alt=\"A forest at night backlit by bright green and blue lighting. There are hanging light strips that swoop among the trees. In the middle of the photo there is a hanging flat circular symbol. In person, this symbol changed dynamically via light projector. \" width=\"600\" height=\"450\" /><img src=\"https://cdn.uploads.micro.blog/3480/2023/3cbd12227f.jpg\" alt=\"The forest trees as viewed by looking straight up from the trail. The tree leaves are reflecting tons of different colors from the various light protectors.  It’s a very trippy sight! \" width=\"600\" height=\"450\" /></p>\n",
+				"date_published": "2023-10-21T23:27:11-06:00",
+				"url": "https://jmanes.blog/2023/10/22/went-to-the.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/10/14/i-got-the.html",
+				
+				"content_html": "<p>I got the Type S registered with the state this weekend. Had to pay the hefty sales tax at the DMV (it’s a Missouri thing), but now it is officially mine. I need to get it ceramic coated soon!</p>\n<p><img title=\"IMG_5595.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5595.png\" alt=\"My Acura Integra Type S parked in my driveway. It is a misty fall day.\" width=\"4032\" height=\"3024\" border=\"0\" /></p>\n",
+				"content_text": "<p>I got the Type S registered with the state this weekend. Had to pay the hefty sales tax at the DMV (it’s a Missouri thing), but now it is officially mine. I need to get it ceramic coated soon!</p>\n<p><img title=\"IMG_5595.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5595.png\" alt=\"My Acura Integra Type S parked in my driveway. It is a misty fall day.\" width=\"4032\" height=\"3024\" border=\"0\" /></p>\n",
+				"date_published": "2023-10-14T22:53:27-06:00",
+				"url": "https://jmanes.blog/2023/10/14/i-got-the.html",
+				"tags": ["Automotive"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/10/08/pretty-difficult-to.html",
+				
+				"content_html": "<p>Pretty difficult to tell this one “no” when she wheets for food.</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2023/282cd96107.jpg\" width=\"448\" height=\"495\" alt=\"\">\n",
+				"content_text": "Pretty difficult to tell this one “no” when she wheets for food. \n\n<img src=\"https://cdn.uploads.micro.blog/3480/2023/282cd96107.jpg\" width=\"448\" height=\"495\" alt=\"\">\n",
+				"date_published": "2023-10-08T20:06:21-06:00",
+				"url": "https://jmanes.blog/2023/10/08/pretty-difficult-to.html",
+				"tags": ["Guinea Pigs"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/10/07/went-to-applefest.html",
+				
+				"content_html": "<p>Went to Applefest in Weston, MO today. Lots of good food and craft booths as usual. Also spotted a nice day moon.</p>\n<p><img title=\"IMG_5575.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5575.png\" alt=\"An upward-angled photograph taken in the day of two connected brick buildings. They are old buildings from potentially the late 1800s or early 1900s. The left building is blue stained brick while the right building is natural brick color. The right building is shorter, and above it the sky can be seen. It is a clear sky, with a partial moon being visible.\" width=\"4032\" height=\"3024\" border=\"0\" /></p>\n",
+				"content_text": "<p>Went to Applefest in Weston, MO today. Lots of good food and craft booths as usual. Also spotted a nice day moon.</p>\n<p><img title=\"IMG_5575.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5575.png\" alt=\"An upward-angled photograph taken in the day of two connected brick buildings. They are old buildings from potentially the late 1800s or early 1900s. The left building is blue stained brick while the right building is natural brick color. The right building is shorter, and above it the sky can be seen. It is a clear sky, with a partial moon being visible.\" width=\"4032\" height=\"3024\" border=\"0\" /></p>\n",
+				"date_published": "2023-10-07T20:43:34-06:00",
+				"url": "https://jmanes.blog/2023/10/07/went-to-applefest.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/10/02/today-was-the.html",
+				
+				"content_html": "<p>Today was the day! I received my replacement work laptop and now I have two twin MacBook Pros. One for work and one for everything else. The best part about this setup is the shared docking station. Very consistent experience back and forth.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/1eb5cea589.jpg\" alt=\"Two 14 inch M2 MacBook Pros on my desk. Both laptops are closed and are held vertically in place side by side with a special dual stand. One is in the space gray color (work) while the other is in the natural aluminum color (personal). \" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "<p>Today was the day! I received my replacement work laptop and now I have two twin MacBook Pros. One for work and one for everything else. The best part about this setup is the shared docking station. Very consistent experience back and forth.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/1eb5cea589.jpg\" alt=\"Two 14 inch M2 MacBook Pros on my desk. Both laptops are closed and are held vertically in place side by side with a special dual stand. One is in the space gray color (work) while the other is in the natural aluminum color (personal). \" width=\"600\" height=\"450\" /></p>\n",
+				"date_published": "2023-10-02T20:35:01-06:00",
+				"url": "https://jmanes.blog/2023/10/02/today-was-the.html",
+				"tags": ["Corporate","Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/09/30/it-was-time.html",
+				
+				"content_html": "<p>It was time for me to request a technology upgrade at work. Moving from a 10th gen Intel Dell Precision 5550 to an M2 Pro MacBook Pro. It should be here on Monday and I am very excited to get more than two hours of battery life. 🍎</p>\n",
+				"content_text": "<p>It was time for me to request a technology upgrade at work. Moving from a 10th gen Intel Dell Precision 5550 to an M2 Pro MacBook Pro. It should be here on Monday and I am very excited to get more than two hours of battery life. 🍎</p>\n",
+				"date_published": "2023-09-30T11:36:44-06:00",
+				"url": "https://jmanes.blog/2023/09/30/it-was-time.html",
+				"tags": ["Corporate"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/09/23/i-went-to.html",
+				
+				"content_html": "<p>I went to see Chipman pass in Lees Summit today and saw it has been destroyed. They are putting in a three lane. I am totally crushed. I would come here late at night to do runs on summer evenings. <a href=\"https://maps.app.goo.gl/qc53TWqiNA2XUf3aA?g_st=ic\">maps.app.goo.gl/qc53TWqiN…</a></p>\n",
+				"content_text": "<p>I went to see Chipman pass in Lees Summit today and saw it has been destroyed. They are putting in a three lane. I am totally crushed. I would come here late at night to do runs on summer evenings. <a href=\"https://maps.app.goo.gl/qc53TWqiNA2XUf3aA?g_st=ic\">maps.app.goo.gl/qc53TWqiN…</a></p>\n",
+				"date_published": "2023-09-23T18:50:36-06:00",
+				"url": "https://jmanes.blog/2023/09/23/i-went-to.html",
+				"tags": ["Automotive"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/09/23/from-type-r.html",
+				"title": "From Type R to Type S",
+				"content_html": "<p>It was a special day today.</p>\n<p>I went into the Acura dealer to take a look at the Integra Type S. I had been interested in it for a while now, but it was nothing more than a passing interest. However, after talking with a few of the sales reps, they gave me a deal I could not refuse. They offered me the MSRP sale price of my 2019 Civic Type R as trade in value. In other words, they offered me a trade in credit equal to what I paid for the car brand new in 2019. 🤯 I took the deal and quickly got into a gorgeous “platinum white pearl” Type S.</p>\n<p>This is not a typical “day in the life” type of event for me (clearly), but it<em> is</em> something I must write about. I’ll miss my Civic Type R; that car did a lot for me. It was a purchase of passion that followed my renewed interest in the automotive field. This interest pulled me out of a sadness that had followed me for years prior. It’s hard to explain, and it sounds very silly and materialistic. It wasn’t the car itself that put me into a better place, thankfully I can take the credit for that. The Type R did, however, symbolicly represent that special moment in my life where I felt a new passion for the first time in years. It represents the bloom of my 20s, even if that bloom came quite late (27). </p>\n<p><img title=\"\" src=\"https://cdn.uploads.micro.blog/3480/2023/ae57471e60.jpg\" alt=\"\" width=\"\" height=\"\" border=\"0\" /><img title=\"IMG_20190906_193432_Original.jpeg\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-20190906-193432-original.jpeg\" alt=\"My 2019 Civic Type R parked in the parking lot of a Micro Center. Behind the Type R is someone's Nissan 370z Nismo in black with all the upgraded trim. It's sunset and both cars are looking good!\" width=\"4032\" height=\"3024\" border=\"0\" />\n<img title=\"IMG_20200619_105907_785_Original.jpeg\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-20200619-105907-785-original.jpeg\" alt=\"A photo of my Type R with the front bumper taken off. The photo was taken in my tiny rental garage in my old apartment. I was installing an aftermarket PRL intercooler. This was my first ever adventure into modfiying a car for myself.\" width=\"599\" height=\"337\" border=\"0\" />\n<img title=\"IMG_5532.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5532.png\" alt=\"The last ride. A photo of my Type R at the dealership after a car wash. It has been emptied out and it is ready to be traded in.\" width=\"4032\" height=\"3024\" border=\"0\" /></p>\n<p>I don’t have many new photos of my new Type S as of writing, as it was pouring rain today. Fitting for a bitter sweet day; the beginning of fall in the USA. There will be more photos to come once the weather improves, but for now here are a few from my garage.</p>\n<p><img title=\"IMG_5533.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5533.png\" alt=\"My new Perl White Acura Integra Type S. It is fitted with all the bells and whistles, including brass colored rims and carbon fiber trim. The photo was taken in my garage with the garage door open. Water can be seen dripping from the car due to the rain.\" width=\"5712\" height=\"4284\" border=\"0\" /><img title=\"IMG_5539.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5539.png\" alt=\"An up-close shot of the front end of the Integra Type S for better detail.\" width=\"4032\" height=\"3024\" border=\"0\" /></p>\n<p>Here’s to my 30s, I suppose! I can’t wait to take this car on some new adventures.</p>\n",
+				"content_text": "<p>It was a special day today.</p>\n<p>I went into the Acura dealer to take a look at the Integra Type S. I had been interested in it for a while now, but it was nothing more than a passing interest. However, after talking with a few of the sales reps, they gave me a deal I could not refuse. They offered me the MSRP sale price of my 2019 Civic Type R as trade in value. In other words, they offered me a trade in credit equal to what I paid for the car brand new in 2019. 🤯 I took the deal and quickly got into a gorgeous “platinum white pearl” Type S.</p>\n<p>This is not a typical “day in the life” type of event for me (clearly), but it<em> is</em> something I must write about. I’ll miss my Civic Type R; that car did a lot for me. It was a purchase of passion that followed my renewed interest in the automotive field. This interest pulled me out of a sadness that had followed me for years prior. It’s hard to explain, and it sounds very silly and materialistic. It wasn’t the car itself that put me into a better place, thankfully I can take the credit for that. The Type R did, however, symbolicly represent that special moment in my life where I felt a new passion for the first time in years. It represents the bloom of my 20s, even if that bloom came quite late (27). </p>\n<p><img title=\"\" src=\"https://cdn.uploads.micro.blog/3480/2023/ae57471e60.jpg\" alt=\"\" width=\"\" height=\"\" border=\"0\" /><img title=\"IMG_20190906_193432_Original.jpeg\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-20190906-193432-original.jpeg\" alt=\"My 2019 Civic Type R parked in the parking lot of a Micro Center. Behind the Type R is someone's Nissan 370z Nismo in black with all the upgraded trim. It's sunset and both cars are looking good!\" width=\"4032\" height=\"3024\" border=\"0\" />\n<img title=\"IMG_20200619_105907_785_Original.jpeg\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-20200619-105907-785-original.jpeg\" alt=\"A photo of my Type R with the front bumper taken off. The photo was taken in my tiny rental garage in my old apartment. I was installing an aftermarket PRL intercooler. This was my first ever adventure into modfiying a car for myself.\" width=\"599\" height=\"337\" border=\"0\" />\n<img title=\"IMG_5532.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5532.png\" alt=\"The last ride. A photo of my Type R at the dealership after a car wash. It has been emptied out and it is ready to be traded in.\" width=\"4032\" height=\"3024\" border=\"0\" /></p>\n<p>I don’t have many new photos of my new Type S as of writing, as it was pouring rain today. Fitting for a bitter sweet day; the beginning of fall in the USA. There will be more photos to come once the weather improves, but for now here are a few from my garage.</p>\n<p><img title=\"IMG_5533.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5533.png\" alt=\"My new Perl White Acura Integra Type S. It is fitted with all the bells and whistles, including brass colored rims and carbon fiber trim. The photo was taken in my garage with the garage door open. Water can be seen dripping from the car due to the rain.\" width=\"5712\" height=\"4284\" border=\"0\" /><img title=\"IMG_5539.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5539.png\" alt=\"An up-close shot of the front end of the Integra Type S for better detail.\" width=\"4032\" height=\"3024\" border=\"0\" /></p>\n<p>Here’s to my 30s, I suppose! I can’t wait to take this car on some new adventures.</p>\n",
+				"date_published": "2023-09-23T17:46:08-06:00",
+				"url": "https://jmanes.blog/2023/09/23/from-type-r.html",
+				"tags": ["Life","Automotive"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/09/22/its-the-last.html",
+				
+				"content_html": "<p>It’s the last day of summer for 2023. Hope you enjoyed it, folks!</p>\n",
+				"content_text": "<p>It’s the last day of summer for 2023. Hope you enjoyed it, folks!</p>\n",
+				"date_published": "2023-09-22T18:26:19-06:00",
+				"url": "https://jmanes.blog/2023/09/22/its-the-last.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/09/16/a-strict-exercise.html",
+				
+				"content_html": "<p>A strict exercise and diet routine no longer works for me as it did just a few years ago. I am not sure what changed, outside of aging, but it is really frustrating. Somewhat recently, I tried intaking around 1400 KCal / day (on average per-week) along with low-sugar intake and my weight barely budged even after a few months. I really don’t think I can go lower than this, so off to the doctor I go! Hopefully I can get a metabolic study done, or at least get my thyroid looked at. Thankfully my weight has not ballooned, but I should be about 30 pounds (13.5 kg) lighter than I am today.</p>\n",
+				"content_text": "<p>A strict exercise and diet routine no longer works for me as it did just a few years ago. I am not sure what changed, outside of aging, but it is really frustrating. Somewhat recently, I tried intaking around 1400 KCal / day (on average per-week) along with low-sugar intake and my weight barely budged even after a few months. I really don’t think I can go lower than this, so off to the doctor I go! Hopefully I can get a metabolic study done, or at least get my thyroid looked at. Thankfully my weight has not ballooned, but I should be about 30 pounds (13.5 kg) lighter than I am today.</p>\n",
+				"date_published": "2023-09-16T19:35:43-06:00",
+				"url": "https://jmanes.blog/2023/09/16/a-strict-exercise.html",
+				"tags": ["Health"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/09/12/lambda-looking-a.html",
+				
+				"content_html": "<p>Lambda looking a little frightened… a normal response to being picked up by a giant. </p>\n<p><img title=\"IMG_5455.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5455.png\" alt=\"Lambda (a guinea pig) sitting on a yellow towel with a bit of fear in her eye. She's totally fine, just being a prey animal.\" width=\"3362\" height=\"3024\" border=\"0\" /></p>\n",
+				"content_text": "<p>Lambda looking a little frightened… a normal response to being picked up by a giant. </p>\n<p><img title=\"IMG_5455.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5455.png\" alt=\"Lambda (a guinea pig) sitting on a yellow towel with a bit of fear in her eye. She's totally fine, just being a prey animal.\" width=\"3362\" height=\"3024\" border=\"0\" /></p>\n",
+				"date_published": "2023-09-12T19:36:18-06:00",
+				"url": "https://jmanes.blog/2023/09/12/lambda-looking-a.html",
+				"tags": ["Guinea Pigs"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/09/09/i-had-an.html",
+				
+				"content_html": "<p>I had an awesome day at the Kansas City Zoo! I wish I took more photos but I get pretty swept up with the sights. </p>\n<p><img title=\"IMG_5490.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5490.png\" alt=\"A photo of a stingray underwater with a sandy floor. The photo was taken through the wall of glass for observers.\" width=\"4032\" height=\"3024\" border=\"0\" /><img title=\"IMG_5499.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5499.png\" alt=\"A photo of a moss-covered lake. In the distance a grassy field can be seen. Above the grassy field, there is a ski-lift for guests who want an airial tour of the wildlife.\" width=\"4032\" height=\"3024\" border=\"0\" /><img title=\"IMG_5492.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5492.png\" alt=\"A photo of the underground aquarium viewing area. There is a small crowd of people viewing many different fish that are visible behind very thick glass. The room is dark, and the water which the fish are in is illuminated.\" width=\"4032\" height=\"3024\" border=\"0\" /><img title=\"IMG_5498.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5498.png\" alt=\"A photo of a very large crab scaling a wall. It is in a pressurized deep-sea container. The photo was taken through a glass port with some illumination. \" width=\"4032\" height=\"3024\" border=\"0\" /></p>\n",
+				"content_text": "<p>I had an awesome day at the Kansas City Zoo! I wish I took more photos but I get pretty swept up with the sights. </p>\n<p><img title=\"IMG_5490.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5490.png\" alt=\"A photo of a stingray underwater with a sandy floor. The photo was taken through the wall of glass for observers.\" width=\"4032\" height=\"3024\" border=\"0\" /><img title=\"IMG_5499.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5499.png\" alt=\"A photo of a moss-covered lake. In the distance a grassy field can be seen. Above the grassy field, there is a ski-lift for guests who want an airial tour of the wildlife.\" width=\"4032\" height=\"3024\" border=\"0\" /><img title=\"IMG_5492.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5492.png\" alt=\"A photo of the underground aquarium viewing area. There is a small crowd of people viewing many different fish that are visible behind very thick glass. The room is dark, and the water which the fish are in is illuminated.\" width=\"4032\" height=\"3024\" border=\"0\" /><img title=\"IMG_5498.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5498.png\" alt=\"A photo of a very large crab scaling a wall. It is in a pressurized deep-sea container. The photo was taken through a glass port with some illumination. \" width=\"4032\" height=\"3024\" border=\"0\" /></p>\n",
+				"date_published": "2023-09-09T20:40:20-06:00",
+				"url": "https://jmanes.blog/2023/09/09/i-had-an.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/09/07/so-psyched-that.html",
+				
+				"content_html": "<p>So psyched that football is back. Go Chiefs! 🏈</p>\n",
+				"content_text": "So psyched that football is back. Go Chiefs! 🏈\n",
+				"date_published": "2023-09-07T19:15:17-06:00",
+				"url": "https://jmanes.blog/2023/09/07/so-psyched-that.html",
+				"tags": ["Sports"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/09/02/where-dyson-fans.html",
+				"title": "Where Dyson Fans Work",
+				"content_html": "<p>For many years now, I have used Dyson products: two <em>Pure Hot+Cool HP04</em>, one <em>Pure Humidify+Cool PH01</em> and a few of their vacuums. When it comes to the vacuums, I couldn’t be happier with the performance and experience provided. As for the humidfier and heaters, though… it is complicated.</p>\n<p><img title=\"IMG_5476.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5476.png\" alt=\"My nickle/black Dyson Pure Hot+Cool HP04 next to my office wall.\" width=\"450\" height=\"600\" border=\"0\" /></p>\n<p>Originally, I purchased a pair of Pure Hot+Cool HP04 heaters for the winter time. I keep one in my bedroom and one in my office where my pet guinea pigs live. I made a quick assumption during my purchase that you “get what you pay for.” Dyson’s products are attractive and expensive, so I figured they would offer the highest performance. As it turns out, in this case, it isn’t true.</p>\n<h2>These devices are noisey as hell.</h2>\n<p>My first and chief complaint about these devices: they all suffer from build quality defects that lead to noise pollution. I don’t use that term lightly. It is seriously unbearable at times, to the point that I *must* turn the device off for my own sanity. Typically, the issue happens at the lowest speeds. There is some sort of fan oscillation going on that leads to the highest pitch squeeling imagineable. This happens with three of my Dyson fans; this is no fluke. When the fan is set to run above level 4 (out of 10) the squeeling will subside. Still, not ideal. Nearly a deal breaker for the product as a whole, in fact.</p>\n<h2>These devices are not good for air filtration.</h2>\n<p>My second complaint is that the air filtration offered by these machines is horrifically poor. The CADR (clean air delivery rate) rating is laughably low, and cheaper products exist that do the job far better. In fact, strapping MERV 8 rated HVAC filter on to a box fan does a better job. No, I’m not kidding. Check out this <a href=\"https://www.youtube.com/watch?v=0uZKBlwLEFs\">CBC News video</a> for details on that one.</p>\n<p>Not only is the filtration unbearably slow, the filters within the unit cost around $80 to replace as of writing (2023), and they only last about one year before the Dyson app warns about ordering a replacement. In contrast, BlueAir offers a 211+ auto model with a filter that lasts WAY longer with over 4x the CADR. The replacement filter for the BlueAir? It is only $50. As of the time of writing, the BlueAir machine costs a whopping $250 less than what I paid for my Dyson, and it costs less in filter replacements, too. All of this is why my dining room / kitchen area is proudly accompanied by a BlueAir 211+ Auto.</p>\n<h2>The humidfier takes a long time to humidify.</h2>\n<p>My final complaint (whew, as if I could be any more negative) is that the <em>Pure Humidify+Cool PH01</em> takes what feels like forever to humidfy a room of any size. I believe this problem is very much aligned with the CADR problem. These fans simply do not move a lot of air, and that is by design. They are very nice to use as a personal fan, as they are (supposed to be) quiet and focused.</p>\n<p>However, the <em>Pure Humidify+Cool PH01</em> has a benefit I haven’t seen in other humidifiers in that it actually cleans the water before it puts it out into the room. It does this with UV light, which rocks, because typical humidfiers you see on Amazon are utter garbage in this respect. Don’t believe me? Buy a random Amazon humidifier and let it run while it sits next to a smart air filter such as a Dyson or BlueAir. Your air filters will fight for their lives trying to pull the gunk out of the air. With the Dyson PH01, no problems, the air is clean.</p>\n<h2>Somehow, these devices are still better than the alternative.</h2>\n<p>Now here is where things get complicated. These machines all perform a very specific subset of features that you will not find elsewhere. After getting fed up with the compromises, I started looking for alternatives only to find myself at an impasse. I wanted the best possible result in each of the respective areas (do one thing and do it well).</p>\n<p>If I wanted the best possible air filtration system, I could get a BlueAir for my bedroom and for my office. However, these are not heaters. Because of this, I’d also need to buy a set of heaters, and as it turns out, really good space heaters cost really good money. For example, De’Longhi offers a very nice oil-filled radiator style heater for around $170. Ouch! But wait… the BlueAir filter is not a heater, and it is also not a fan. So now a pair of high-quality fans are required. At this point, I’m up to a total of six devices (three for each room) to replace the two Dyson machines that I have. That means three total electrical outlets instead of one, and three times the space (which I do not have). The total cost of these machines added together would be in the same ballpark range as a Dyson. Whoops! No money saving to be found here (this wasn’t the goal, but it would have been nice).</p>\n<p>All of what I have touched on so far doesn’t address the problem of finding a good humidifier that outputs clean air (good luck with that shit, I tried). The integrated IoT (internet-of-things) capability was also not accounted for in my quest for the best, though you likely won’t find anything that works together as seemlessly as Dyson.</p>\n<p>I guess this is essentially where Dyson has the market. It’s a bit strange, but this is a case where the market leader is a jack of all trades, and master of none: It’s not the best fan, it’s not the best heater (or humidifier), and it’s not the best air filter… but it does all three of these things while using very little space, and for a competitive price.</p>\n<p>For now, I’ll be coughing up $80 for an air filter.</p>\n",
+				"content_text": "<p>For many years now, I have used Dyson products: two <em>Pure Hot+Cool HP04</em>, one <em>Pure Humidify+Cool PH01</em> and a few of their vacuums. When it comes to the vacuums, I couldn’t be happier with the performance and experience provided. As for the humidfier and heaters, though… it is complicated.</p>\n<p><img title=\"IMG_5476.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5476.png\" alt=\"My nickle/black Dyson Pure Hot+Cool HP04 next to my office wall.\" width=\"450\" height=\"600\" border=\"0\" /></p>\n<p>Originally, I purchased a pair of Pure Hot+Cool HP04 heaters for the winter time. I keep one in my bedroom and one in my office where my pet guinea pigs live. I made a quick assumption during my purchase that you “get what you pay for.” Dyson’s products are attractive and expensive, so I figured they would offer the highest performance. As it turns out, in this case, it isn’t true.</p>\n<h2>These devices are noisey as hell.</h2>\n<p>My first and chief complaint about these devices: they all suffer from build quality defects that lead to noise pollution. I don’t use that term lightly. It is seriously unbearable at times, to the point that I *must* turn the device off for my own sanity. Typically, the issue happens at the lowest speeds. There is some sort of fan oscillation going on that leads to the highest pitch squeeling imagineable. This happens with three of my Dyson fans; this is no fluke. When the fan is set to run above level 4 (out of 10) the squeeling will subside. Still, not ideal. Nearly a deal breaker for the product as a whole, in fact.</p>\n<h2>These devices are not good for air filtration.</h2>\n<p>My second complaint is that the air filtration offered by these machines is horrifically poor. The CADR (clean air delivery rate) rating is laughably low, and cheaper products exist that do the job far better. In fact, strapping MERV 8 rated HVAC filter on to a box fan does a better job. No, I’m not kidding. Check out this <a href=\"https://www.youtube.com/watch?v=0uZKBlwLEFs\">CBC News video</a> for details on that one.</p>\n<p>Not only is the filtration unbearably slow, the filters within the unit cost around $80 to replace as of writing (2023), and they only last about one year before the Dyson app warns about ordering a replacement. In contrast, BlueAir offers a 211+ auto model with a filter that lasts WAY longer with over 4x the CADR. The replacement filter for the BlueAir? It is only $50. As of the time of writing, the BlueAir machine costs a whopping $250 less than what I paid for my Dyson, and it costs less in filter replacements, too. All of this is why my dining room / kitchen area is proudly accompanied by a BlueAir 211+ Auto.</p>\n<h2>The humidfier takes a long time to humidify.</h2>\n<p>My final complaint (whew, as if I could be any more negative) is that the <em>Pure Humidify+Cool PH01</em> takes what feels like forever to humidfy a room of any size. I believe this problem is very much aligned with the CADR problem. These fans simply do not move a lot of air, and that is by design. They are very nice to use as a personal fan, as they are (supposed to be) quiet and focused.</p>\n<p>However, the <em>Pure Humidify+Cool PH01</em> has a benefit I haven’t seen in other humidifiers in that it actually cleans the water before it puts it out into the room. It does this with UV light, which rocks, because typical humidfiers you see on Amazon are utter garbage in this respect. Don’t believe me? Buy a random Amazon humidifier and let it run while it sits next to a smart air filter such as a Dyson or BlueAir. Your air filters will fight for their lives trying to pull the gunk out of the air. With the Dyson PH01, no problems, the air is clean.</p>\n<h2>Somehow, these devices are still better than the alternative.</h2>\n<p>Now here is where things get complicated. These machines all perform a very specific subset of features that you will not find elsewhere. After getting fed up with the compromises, I started looking for alternatives only to find myself at an impasse. I wanted the best possible result in each of the respective areas (do one thing and do it well).</p>\n<p>If I wanted the best possible air filtration system, I could get a BlueAir for my bedroom and for my office. However, these are not heaters. Because of this, I’d also need to buy a set of heaters, and as it turns out, really good space heaters cost really good money. For example, De’Longhi offers a very nice oil-filled radiator style heater for around $170. Ouch! But wait… the BlueAir filter is not a heater, and it is also not a fan. So now a pair of high-quality fans are required. At this point, I’m up to a total of six devices (three for each room) to replace the two Dyson machines that I have. That means three total electrical outlets instead of one, and three times the space (which I do not have). The total cost of these machines added together would be in the same ballpark range as a Dyson. Whoops! No money saving to be found here (this wasn’t the goal, but it would have been nice).</p>\n<p>All of what I have touched on so far doesn’t address the problem of finding a good humidifier that outputs clean air (good luck with that shit, I tried). The integrated IoT (internet-of-things) capability was also not accounted for in my quest for the best, though you likely won’t find anything that works together as seemlessly as Dyson.</p>\n<p>I guess this is essentially where Dyson has the market. It’s a bit strange, but this is a case where the market leader is a jack of all trades, and master of none: It’s not the best fan, it’s not the best heater (or humidifier), and it’s not the best air filter… but it does all three of these things while using very little space, and for a competitive price.</p>\n<p>For now, I’ll be coughing up $80 for an air filter.</p>\n",
+				"date_published": "2023-09-02T20:23:38-06:00",
+				"url": "https://jmanes.blog/2023/09/02/where-dyson-fans.html",
+				"tags": ["Tech","Thoughts"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/09/01/september-is-here.html",
+				
+				"content_html": "<p>September is here once again… it has quickly become one of my favorite months. For whatever reason, around this time in the year, I start to reflect on where I am in life and where I want to be.</p>\n",
+				"content_text": "<p>September is here once again… it has quickly become one of my favorite months. For whatever reason, around this time in the year, I start to reflect on where I am in life and where I want to be.</p>\n",
+				"date_published": "2023-09-01T21:31:53-06:00",
+				"url": "https://jmanes.blog/2023/09/01/september-is-here.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/08/27/when-to-pay.html",
+				"title": "When To Pay For Software",
+				"content_html": "<p>I recently let my Discord Nitro subscription expire, and this is a tough one for me. I use Discord quite often, but find paying for it very hard to justify due to its privacy policy and investment structure. It has become a rather ubiquitous tool in recent years, which makes me wonder if it is going to result in yet another Twitter fiasco.</p>\n<p>Generally, I am ok with paying (and donating) for software services. They have to meet some level criteria for me to feel comfortable, though. For example, if the software and/or service is:</p>\n<ul>\n<li>Open Source / Open Platform</li>\n<ul>\n<li>Lemmy (and selective instances)</li>\n<li>Mastodon (and selective instances)</li>\n</ul>\n<li>Proprietary and/or Centralized, but operated in good faith, with a history and face</li>\n<ul>\n<li>Kagi</li>\n<li>MarsEdit</li>\n<li>Micro.blog</li>\n<li>Ivory</li>\n</ul>\n<li>Privacy respecting by design, with mixed open source / proprietary status</li>\n<ul>\n<li>1Password</li>\n<li>Proton Mail</li>\n<li>iCloud (select services with advanced security enabled)</li>\n</ul>\n</ul>\n<p>Discord is a prime example of something that does not quite fit into any of these categories. Discord does not respect privacy. Discort is not Open Source. Discord is not decentralized. Instead, it is held up by a combination of paid users and investors. This is enough to chase me away. I’m waiting for the inevitable sale of the platform and its data to a big tech conglomerate. The other shoe has yet to drop. Let’s just hope it isn’t placed into the hands of another Elon Musk. </p>\n",
+				"content_text": "<p>I recently let my Discord Nitro subscription expire, and this is a tough one for me. I use Discord quite often, but find paying for it very hard to justify due to its privacy policy and investment structure. It has become a rather ubiquitous tool in recent years, which makes me wonder if it is going to result in yet another Twitter fiasco.</p>\n<p>Generally, I am ok with paying (and donating) for software services. They have to meet some level criteria for me to feel comfortable, though. For example, if the software and/or service is:</p>\n<ul>\n<li>Open Source / Open Platform</li>\n<ul>\n<li>Lemmy (and selective instances)</li>\n<li>Mastodon (and selective instances)</li>\n</ul>\n<li>Proprietary and/or Centralized, but operated in good faith, with a history and face</li>\n<ul>\n<li>Kagi</li>\n<li>MarsEdit</li>\n<li>Micro.blog</li>\n<li>Ivory</li>\n</ul>\n<li>Privacy respecting by design, with mixed open source / proprietary status</li>\n<ul>\n<li>1Password</li>\n<li>Proton Mail</li>\n<li>iCloud (select services with advanced security enabled)</li>\n</ul>\n</ul>\n<p>Discord is a prime example of something that does not quite fit into any of these categories. Discord does not respect privacy. Discort is not Open Source. Discord is not decentralized. Instead, it is held up by a combination of paid users and investors. This is enough to chase me away. I’m waiting for the inevitable sale of the platform and its data to a big tech conglomerate. The other shoe has yet to drop. Let’s just hope it isn’t placed into the hands of another Elon Musk. </p>\n",
+				"date_published": "2023-08-27T15:57:59-06:00",
+				"url": "https://jmanes.blog/2023/08/27/when-to-pay.html",
+				"tags": ["MB","Tech","Thoughts"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/08/25/i-seem-to.html",
+				
+				"content_html": "<p>I seem to bounce back-and-forth between keeping social media in a browser via tab groups versus accessing them through dedicated apps. Dedicated apps offer a higher level of comfort for interaction, but I think that comfort comes with a time cost (i.e., routinely checking the various apps). Having all of the social media sites in a single location (tab groups) allows me to get everything out of the way at once.</p>\n",
+				"content_text": "<p>I seem to bounce back-and-forth between keeping social media in a browser via tab groups versus accessing them through dedicated apps. Dedicated apps offer a higher level of comfort for interaction, but I think that comfort comes with a time cost (i.e., routinely checking the various apps). Having all of the social media sites in a single location (tab groups) allows me to get everything out of the way at once.</p>\n",
+				"date_published": "2023-08-25T13:45:10-06:00",
+				"url": "https://jmanes.blog/2023/08/25/i-seem-to.html",
+				"tags": ["Life","Tech","Thoughts"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/08/24/i-noticed-today.html",
+				
+				"content_html": "<p>I noticed today that my blog theme looks good everywhere except&hellip; Chrome. Great. It appears that the backdrop-filter CSS property does not account for / support multiple-levels.</p>\n",
+				"content_text": "I noticed today that my blog theme looks good everywhere except... Chrome. Great. It appears that the backdrop-filter CSS property does not account for / support multiple-levels. \n",
+				"date_published": "2023-08-24T19:53:58-06:00",
+				"url": "https://jmanes.blog/2023/08/24/i-noticed-today.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/08/20/it-is-here.html",
+				
+				"content_html": "<p>It is 108℉ (42℃) here today&hellip; the &ldquo;feels like&rdquo; temperature is 122℉ (50℃). This is absurd.</p>\n",
+				"content_text": "It is 108℉ (42℃) here today... the \"feels like\" temperature is 122℉ (50℃). This is absurd.\n",
+				"date_published": "2023-08-20T14:08:43-06:00",
+				"url": "https://jmanes.blog/2023/08/20/it-is-here.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/08/20/now-that-i.html",
+				
+				"content_html": "<p>Now that I have explored multiple fediverse options, I think it is time I start deleting a few accounts that I no longer care to upkeep. Calckey (Firefish) is a no-go for me. Also going to be leaving a Lemmy community that was more closed-off and safe-space driven.</p>\n",
+				"content_text": "Now that I have explored multiple fediverse options, I think it is time I start deleting a few accounts that I no longer care to upkeep. Calckey (Firefish) is a no-go for me. Also going to be leaving a Lemmy community that was more closed-off and safe-space driven.\n",
+				"date_published": "2023-08-20T13:43:23-06:00",
+				"url": "https://jmanes.blog/2023/08/20/now-that-i.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/08/15/a-new-shelf.html",
+				
+				"content_html": "<p>A new shelf for the wall. Thanks to <a href=\"https://micro.blog/jean\">@jean</a> for the MB stickers!</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/41a625bf53.jpg\" alt=\"A newly mounted and stylized shelf on a plain white wall. There are three levels to the shelf and it appears to be held up by an old rustic-style pipe that mounts to the wall. On the top shelf: A plush from the Interface series. An model Acura Integra. A snow globe with a golf ball inside. A tiny painting of a Civic Type R. On the middle shelf: A thank you note from Jean at Micro.blog. A Ferrari F40 Hotweels toy in the original packaging. A thank you note from a friend with a doodle of a capybara. A transparent resin block with a model car inside of it. On the bottom shelf: “Cracking the Coding Interview” book. “The mythical Man Month” book. “Introduction to Algorithims” book. A nice complete set of the four “The Art of Computer Programming” books.\" width=\"483\" height=\"600\" /></p>\n",
+				"content_text": "<p>A new shelf for the wall. Thanks to <a href=\"https://micro.blog/jean\">@jean</a> for the MB stickers!</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/41a625bf53.jpg\" alt=\"A newly mounted and stylized shelf on a plain white wall. There are three levels to the shelf and it appears to be held up by an old rustic-style pipe that mounts to the wall. On the top shelf: A plush from the Interface series. An model Acura Integra. A snow globe with a golf ball inside. A tiny painting of a Civic Type R. On the middle shelf: A thank you note from Jean at Micro.blog. A Ferrari F40 Hotweels toy in the original packaging. A thank you note from a friend with a doodle of a capybara. A transparent resin block with a model car inside of it. On the bottom shelf: “Cracking the Coding Interview” book. “The mythical Man Month” book. “Introduction to Algorithims” book. A nice complete set of the four “The Art of Computer Programming” books.\" width=\"483\" height=\"600\" /></p>\n",
+				"date_published": "2023-08-15T21:55:29-06:00",
+				"url": "https://jmanes.blog/2023/08/15/a-new-shelf.html",
+				"tags": ["MB","Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/08/15/we-are-finally.html",
+				
+				"content_html": "<p>We are finally getting a break from the heat here in Kansas City. It&rsquo;s nice to have all of the windows open around the house. Fall can&rsquo;t get here soon enough&hellip;</p>\n",
+				"content_text": "We are finally getting a break from the heat here in Kansas City. It's nice to have all of the windows open around the house. Fall can't get here soon enough...\n",
+				"date_published": "2023-08-15T12:42:54-06:00",
+				"url": "https://jmanes.blog/2023/08/15/we-are-finally.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/08/04/ive-been-practicing.html",
+				
+				"content_html": "<p>I&rsquo;ve been practicing quite a bit more on LeetCode and although these problems are fun little brain teasers, it is ridiculous to think these problems are used in real interviews.</p>\n",
+				"content_text": "I've been practicing quite a bit more on LeetCode and although these problems are fun little brain teasers, it is ridiculous to think these problems are used in real interviews. \n",
+				"date_published": "2023-08-04T21:07:44-06:00",
+				"url": "https://jmanes.blog/2023/08/04/ive-been-practicing.html",
+				"tags": ["Corporate","Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/07/27/it-has-been.html",
+				
+				"content_html": "<p>It has been very stressful at work lately. Not much time to blog in the past few days! I&rsquo;m currently going through multiple background investigations to obtain clearance for specific subject areas at work. It is a <strong>LOT</strong> of work.</p>\n",
+				"content_text": "It has been very stressful at work lately. Not much time to blog in the past few days! I'm currently going through multiple background investigations to obtain clearance for specific subject areas at work. It is a **LOT** of work.\n",
+				"date_published": "2023-07-27T12:36:17-06:00",
+				"url": "https://jmanes.blog/2023/07/27/it-has-been.html",
+				"tags": ["Life","Corporate"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/07/22/its-am-and.html",
+				
+				"content_html": "<p>It’s 4:00 A.M. and the 16 hour journey back home begins.</p>\n",
+				"content_text": "<p>It’s 4:00 A.M. and the 16 hour journey back home begins.</p>\n",
+				"date_published": "2023-07-22T03:14:34-06:00",
+				"url": "https://jmanes.blog/2023/07/22/its-am-and.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/07/21/finishing-up-my.html",
+				
+				"content_html": "<p>Finishing up my vacation in Navarre, Florida. I figured I shoud post some of the best photos I got. Until next time, Florida!</p>\n<p><img title=\"IMG_5341.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5341.png\" alt=\"A photo taken of Navarre beach in Florida from the 17th floor of a condo building. The sky is moody with a large cloud-line blowing in. The sun is hidden and the beach is completely empty with no people around. The ocean is a deep blue in the distance and slowly fades into an emerald green near the shore. \" width=\"4032\" height=\"3024\" border=\"0\" /><img title=\"IMG_5342.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5342.png\" alt=\"Another photo of Navarre Beach. A large rain cloud has blown in and is pouring down in the near distance over the ocean. The rest of the beach is clear but windy. The sky is cloudy and there are no people on the beach.\" width=\"4032\" height=\"3024\" border=\"0\" /><img title=\"IMG_5351.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5351.png\" alt=\"A photo taken while standing chest-deep in the Navarre beach water. In the distance the Navarre pier can be seen. Many people are around enjoyig the clear emerald green water. To the far left of the photo, beach-side condos can be seen. The sky is foggy/cloudy.\" width=\"4032\" height=\"3024\" border=\"0\" /><img title=\"IMG_5359.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5359.png\" alt=\"A panoramic photo of the front-balcony of the condo I was staying at. It is in the evening with the sun setting. Below many parking lots and small housing units can be seen under orange street lighting. In the distance, part of the ocean can be seen along with the bridge that leads to the Florida mainland form the Navarre island.\" width=\"9288\" height=\"3852\" border=\"0\" /><img title=\"IMG_5363.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/f032a6f2df.png\" alt=\"A photo taken in Navarre FL from the 17th floor balcony of a beach side condo. The photo was taken facing straight down to the ground. The condo's outdoor pool is seen illuminated by orange lights. The pool area is surrounded by wild fauna. The beach can be seen near the top of the photo.\" width=\"4032\" height=\"3024\" border=\"0\" /></p>\n",
+				"content_text": "<p>Finishing up my vacation in Navarre, Florida. I figured I shoud post some of the best photos I got. Until next time, Florida!</p>\n<p><img title=\"IMG_5341.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5341.png\" alt=\"A photo taken of Navarre beach in Florida from the 17th floor of a condo building. The sky is moody with a large cloud-line blowing in. The sun is hidden and the beach is completely empty with no people around. The ocean is a deep blue in the distance and slowly fades into an emerald green near the shore. \" width=\"4032\" height=\"3024\" border=\"0\" /><img title=\"IMG_5342.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5342.png\" alt=\"Another photo of Navarre Beach. A large rain cloud has blown in and is pouring down in the near distance over the ocean. The rest of the beach is clear but windy. The sky is cloudy and there are no people on the beach.\" width=\"4032\" height=\"3024\" border=\"0\" /><img title=\"IMG_5351.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5351.png\" alt=\"A photo taken while standing chest-deep in the Navarre beach water. In the distance the Navarre pier can be seen. Many people are around enjoyig the clear emerald green water. To the far left of the photo, beach-side condos can be seen. The sky is foggy/cloudy.\" width=\"4032\" height=\"3024\" border=\"0\" /><img title=\"IMG_5359.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5359.png\" alt=\"A panoramic photo of the front-balcony of the condo I was staying at. It is in the evening with the sun setting. Below many parking lots and small housing units can be seen under orange street lighting. In the distance, part of the ocean can be seen along with the bridge that leads to the Florida mainland form the Navarre island.\" width=\"9288\" height=\"3852\" border=\"0\" /><img title=\"IMG_5363.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/f032a6f2df.png\" alt=\"A photo taken in Navarre FL from the 17th floor balcony of a beach side condo. The photo was taken facing straight down to the ground. The condo's outdoor pool is seen illuminated by orange lights. The pool area is surrounded by wild fauna. The beach can be seen near the top of the photo.\" width=\"4032\" height=\"3024\" border=\"0\" /></p>\n",
+				"date_published": "2023-07-21T20:23:27-06:00",
+				"url": "https://jmanes.blog/2023/07/21/finishing-up-my.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/07/18/ive-been-using.html",
+				
+				"content_html": "<p>I&rsquo;ve been using <a href=\"https://www.pixelmator.com/photomator/\">Photomator</a> to touch up some of my Florida photos. What an incredible tool! I plan on sharing a larger photo set at the end of this week.</p>\n",
+				"content_text": "I've been using [Photomator](https://www.pixelmator.com/photomator/) to touch up some of my Florida photos. What an incredible tool! I plan on sharing a larger photo set at the end of this week.\n",
+				"date_published": "2023-07-18T09:32:00-06:00",
+				"url": "https://jmanes.blog/2023/07/18/ive-been-using.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/07/16/it-was-a.html",
+				
+				"content_html": "<p>It was a good day at Navarre. Not too burnt yet! </p>\n<p><img title=\"IMG_5309.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5309.png\" alt=\"A photo of the Navarre FL beach taken from under an umbrella. The sky is clear and there are beach chairs set up in the distnace. \" width=\"4032\" height=\"3024\" border=\"0\" /><img title=\"IMG_5312.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5312.png\" alt=\"A photo taken at the pool close to the beach. A few clouds seen in the sky. Along the pool side there is a fence and tall grass.\" width=\"4032\" height=\"3024\" border=\"0\" /></p>\n",
+				"content_text": "<p>It was a good day at Navarre. Not too burnt yet! </p>\n<p><img title=\"IMG_5309.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5309.png\" alt=\"A photo of the Navarre FL beach taken from under an umbrella. The sky is clear and there are beach chairs set up in the distnace. \" width=\"4032\" height=\"3024\" border=\"0\" /><img title=\"IMG_5312.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5312.png\" alt=\"A photo taken at the pool close to the beach. A few clouds seen in the sky. Along the pool side there is a fence and tall grass.\" width=\"4032\" height=\"3024\" border=\"0\" /></p>\n",
+				"date_published": "2023-07-16T16:45:12-06:00",
+				"url": "https://jmanes.blog/2023/07/16/it-was-a.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/07/16/spent-my-birthday.html",
+				
+				"content_html": "<p>Spent my birthday on the beach. 🤙🏼 Couldn’t ask for a better 31.</p>\n",
+				"content_text": "Spent my birthday on the beach. 🤙🏼 Couldn’t ask for a better 31. \n",
+				"date_published": "2023-07-16T14:50:18-06:00",
+				"url": "https://jmanes.blog/2023/07/16/spent-my-birthday.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/07/15/made-it-to.html",
+				
+				"content_html": "<p>Made it to Navarre, Florida! Looking forward to disconnecting from work for a while. ⛱️</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/bccf9a4d26.jpg\" alt=\"The beach and coast of Navarre, Florida. It’s somewhat cloudy with clear emerald green water. Photo taken from a balcony 15+ floors up. \" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "<p>Made it to Navarre, Florida! Looking forward to disconnecting from work for a while. ⛱️</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/bccf9a4d26.jpg\" alt=\"The beach and coast of Navarre, Florida. It’s somewhat cloudy with clear emerald green water. Photo taken from a balcony 15+ floors up. \" width=\"600\" height=\"450\" /></p>\n",
+				"date_published": "2023-07-15T16:57:03-06:00",
+				"url": "https://jmanes.blog/2023/07/15/made-it-to.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/07/12/a-good-read.html",
+				
+				"content_html": "<p>A good read from the <a href=\"https://www.oracle.com/news/announcement/blog/keep-linux-open-and-free-2023-07-10/\">Oracle blog</a> in regards to IBM&rsquo;s recent hostile behavior in the FOSS space.</p>\n",
+				"content_text": "A good read from the [Oracle blog](https://www.oracle.com/news/announcement/blog/keep-linux-open-and-free-2023-07-10/) in regards to IBM's recent hostile behavior in the FOSS space.\n",
+				"date_published": "2023-07-12T20:47:11-06:00",
+				"url": "https://jmanes.blog/2023/07/12/a-good-read.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/07/12/i-typically-refuse.html",
+				
+				"content_html": "<p>I typically refuse to use anything other than stable software, but I made an exception recently with the Orion browser and 1Password. On nightly builds of 1Password, they have finally rolled out &ldquo;Trusted Browsers&rdquo; allowing you to integrate 1Password with any browser of your choice, including Orion!</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2023/image.png\" width=\"600\" height=\"452\" alt=\"A screenshot of the 1Password settings dialog. The browser tab is selected, and a Trusted Browsers section is visible. Under Trusted Browsers there are two browsers that have been added: Orion and Orion RC.\">\n",
+				"content_text": "I typically refuse to use anything other than stable software, but I made an exception recently with the Orion browser and 1Password. On nightly builds of 1Password, they have finally rolled out \"Trusted Browsers\" allowing you to integrate 1Password with any browser of your choice, including Orion!\n\n<img src=\"https://cdn.uploads.micro.blog/3480/2023/image.png\" width=\"600\" height=\"452\" alt=\"A screenshot of the 1Password settings dialog. The browser tab is selected, and a Trusted Browsers section is visible. Under Trusted Browsers there are two browsers that have been added: Orion and Orion RC.\">\n",
+				"date_published": "2023-07-12T11:27:26-06:00",
+				"url": "https://jmanes.blog/2023/07/12/i-typically-refuse.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/07/09/well-i-see.html",
+				
+				"content_html": "<p>Well&hellip; I see that lemmy(dot)world got hacked and is now re-directing to an old-school shock website. Very good&hellip; 🫥</p>\n",
+				"content_text": "Well... I see that lemmy(dot)world got hacked and is now re-directing to an old-school shock website. Very good... 🫥\n",
+				"date_published": "2023-07-09T22:14:36-06:00",
+				"url": "https://jmanes.blog/2023/07/09/well-i-see.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/07/09/finally-starting-to.html",
+				
+				"content_html": "<p>Finally starting to lose weight again after two years of gaining. Standing desk, alternating exercise days and a protein focused diet are the primary changes I made, but my body continues to be a mystery. My prior (and easier) approach to weight management from a few years ago no longer works.</p>\n",
+				"content_text": "Finally starting to lose weight again after two years of gaining. Standing desk, alternating exercise days and a protein focused diet are the primary changes I made, but my body continues to be a mystery. My prior (and easier) approach to weight management from a few years ago no longer works.\n",
+				"date_published": "2023-07-09T19:04:32-06:00",
+				"url": "https://jmanes.blog/2023/07/09/finally-starting-to.html",
+				"tags": ["Life","Health"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/07/09/another-one-from.html",
+				
+				"content_html": "<p>Another one from the archives. This was the night I came home with my Civic Type R!</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2023/ae57471e60.jpg\" width=\"600\" height=\"450\" alt=\"Me leaning up against the side of my Civic Type R at a gas station at night. Photo taken in 2019.\">\n",
+				"content_text": "Another one from the archives. This was the night I came home with my Civic Type R!\n\n<img src=\"https://cdn.uploads.micro.blog/3480/2023/ae57471e60.jpg\" width=\"600\" height=\"450\" alt=\"Me leaning up against the side of my Civic Type R at a gas station at night. Photo taken in 2019.\">\n",
+				"date_published": "2023-07-09T14:31:54-06:00",
+				"url": "https://jmanes.blog/2023/07/09/another-one-from.html",
+				"tags": ["Automotive"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/07/08/i-took-this.html",
+				
+				"content_html": "<p>I took this last November (2022) at Arrowhead Stadium. I&rsquo;m really excited for September when the next season starts! 🏈</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2023/a0cfd95099.jpg\" width=\"600\" height=\"451\" alt=\"A view of Arrowhead Stadium’s field in Kansas City. The photo was taken at 1:47 PM CST from the 8th row near one of the end-zones’ 10 yard line. The crowd in front of the 8th row is facing the field and is outfitted in cold-weather clothing. Almost everyone is in bright red colors for the Chiefs. In the distance, the other side of the stadium can be seen and is bright red due to the fans and seat colors. It is a cold, crisp day with no clouds in sight. \">\n",
+				"content_text": "I took this last November (2022) at Arrowhead Stadium. I'm really excited for September when the next season starts! 🏈\n\n<img src=\"https://cdn.uploads.micro.blog/3480/2023/a0cfd95099.jpg\" width=\"600\" height=\"451\" alt=\"A view of Arrowhead Stadium’s field in Kansas City. The photo was taken at 1:47 PM CST from the 8th row near one of the end-zones’ 10 yard line. The crowd in front of the 8th row is facing the field and is outfitted in cold-weather clothing. Almost everyone is in bright red colors for the Chiefs. In the distance, the other side of the stadium can be seen and is bright red due to the fans and seat colors. It is a cold, crisp day with no clouds in sight. \">\n",
+				"date_published": "2023-07-08T21:49:08-06:00",
+				"url": "https://jmanes.blog/2023/07/08/i-took-this.html",
+				"tags": ["Sports","Kansas City"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/07/06/thoughts-on-metas.html",
+				"title": "Thoughts on Meta's Threads Social Network",
+				"content_html": "<p>I’ve been thinking a little about how Meta’a Threads social network operates; specifically the algorithmic-first feed. </p>\n<p>The algorithmic-first feed is no blunder, it was done intentionally and it was very smart. Is it appealing to most of us who care about this kind of thing? Absolutely not. However, it is appealing to two specific groups that are absolutely required for a behemoth like Meta to bootstatrap themselves for an adjacent market sector: celebrities and brands. </p>\n<p>An algorithmic feed turns a ghost town into a brand new mall. It’s a place where things are obviously happening. This serves a few purposes that ultimately cascade. </p>\n<ol>\n<li>It offers celebrities a platform where they know they will be seen before others, which is good for them.</li>\n<li>It offers brands a platform where they will have a better presence, which is good for them.</li>\n<li>The combination of 1 and 2 provde an entertainment-like experience of infinite content for users, which probably isn’t good for them, but they will consume it and complete the cycle.</li>\n</ol>\n<p>The third point about infinite algorithmic content is likely where folks will start questioning my reasoning. Who wants to get on a “social network” just to browse around and view random garbage? As it turns out, <a href=\"https://www.pewresearch.org/short-reads/2022/03/16/5-facts-about-twitter-lurkers/\">a lot of people</a>. How many hours do people spend mindlessly scrolling TikTok videos made by people they don’t know? I’m going to guess most of them.</p>\n<p>Instagram has slowly been adopting the algorithmic-first feed over the past couple of years and it seems to be working for them. Why <em>wouldn’t</em> Threads also continue down this path? After all, adding a personal feed based on who you follow is the easy part. This functionality could be trivially added by Meta in the future if enough people are interested… but will they be?</p>\n",
+				"content_text": "<p>I’ve been thinking a little about how Meta’a Threads social network operates; specifically the algorithmic-first feed. </p>\n<p>The algorithmic-first feed is no blunder, it was done intentionally and it was very smart. Is it appealing to most of us who care about this kind of thing? Absolutely not. However, it is appealing to two specific groups that are absolutely required for a behemoth like Meta to bootstatrap themselves for an adjacent market sector: celebrities and brands. </p>\n<p>An algorithmic feed turns a ghost town into a brand new mall. It’s a place where things are obviously happening. This serves a few purposes that ultimately cascade. </p>\n<ol>\n<li>It offers celebrities a platform where they know they will be seen before others, which is good for them.</li>\n<li>It offers brands a platform where they will have a better presence, which is good for them.</li>\n<li>The combination of 1 and 2 provde an entertainment-like experience of infinite content for users, which probably isn’t good for them, but they will consume it and complete the cycle.</li>\n</ol>\n<p>The third point about infinite algorithmic content is likely where folks will start questioning my reasoning. Who wants to get on a “social network” just to browse around and view random garbage? As it turns out, <a href=\"https://www.pewresearch.org/short-reads/2022/03/16/5-facts-about-twitter-lurkers/\">a lot of people</a>. How many hours do people spend mindlessly scrolling TikTok videos made by people they don’t know? I’m going to guess most of them.</p>\n<p>Instagram has slowly been adopting the algorithmic-first feed over the past couple of years and it seems to be working for them. Why <em>wouldn’t</em> Threads also continue down this path? After all, adding a personal feed based on who you follow is the easy part. This functionality could be trivially added by Meta in the future if enough people are interested… but will they be?</p>\n",
+				"date_published": "2023-07-06T08:08:02-06:00",
+				"url": "https://jmanes.blog/2023/07/06/thoughts-on-metas.html",
+				"tags": ["Tech","Thoughts"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/07/05/i-will-never.html",
+				
+				"content_html": "<p>I will never sign up for Meta&rsquo;s Threads social network, but if it ends up being the final nail in the coffin for Twitter I will be grateful.</p>\n",
+				"content_text": "I will never sign up for Meta's Threads social network, but if it ends up being the final nail in the coffin for Twitter I will be grateful.\n",
+				"date_published": "2023-07-05T20:12:07-06:00",
+				"url": "https://jmanes.blog/2023/07/05/i-will-never.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/07/04/i-really-wonder.html",
+				
+				"content_html": "<p>I really wonder if Bluesky has a future. Despite the flaws of ActivityPub and the Fediverse, it has a ton of momentum right now. Will Bluesky ever see such momentum? In practice, Bluesky is currently an invite-only centralized Twitter clone with <em>promises</em> of a bigger future.</p>\n",
+				"content_text": "<p>I really wonder if Bluesky has a future. Despite the flaws of ActivityPub and the Fediverse, it has a ton of momentum right now. Will Bluesky ever see such momentum? In practice, Bluesky is currently an invite-only centralized Twitter clone with <em>promises</em> of a bigger future.</p>\n",
+				"date_published": "2023-07-04T22:52:21-06:00",
+				"url": "https://jmanes.blog/2023/07/04/i-really-wonder.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/07/03/purchased-a-xyz.html",
+				
+				"content_html": "<p>Purchased a .xyz domain today. I’m not entirely sure as to how I want to use it, but I’m thinking about making it an index page of sorts as to where to find me around the web. </p>\n",
+				"content_text": "<p>Purchased a .xyz domain today. I’m not entirely sure as to how I want to use it, but I’m thinking about making it an index page of sorts as to where to find me around the web. </p>\n",
+				"date_published": "2023-07-03T18:42:30-06:00",
+				"url": "https://jmanes.blog/2023/07/03/purchased-a-xyz.html",
+				"tags": ["Life","Tech","Networking"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/07/02/blogging-in-the.html",
+				"title": "Blogging in the Fediverse",
+				"content_html": "<p>I have been exploring the Fediverse in all of its forms over the past few days. Lemmy instances, Mastodon instances, and the various administrators involved in it all. It is the wild west right now, but in a way that is optimistic and excting.</p>\n<p>I've been thinking about how my blog here on MB fits into the equation, and I think MB serves as a more meaningful \"home base.\" The content I share here is a bit more than a fleeting thought (unlike Mastodon) and it isn't specifically to spark conversation (unlike Lemmy). I think the strength of MB, right now, is that it offers the full-on “Web 1.0” (I am stating this affectionately) blogging experience with the ability to tunnel blogged content to/from the Fediverse. </p>\n",
+				"content_text": "<p>I have been exploring the Fediverse in all of its forms over the past few days. Lemmy instances, Mastodon instances, and the various administrators involved in it all. It is the wild west right now, but in a way that is optimistic and excting.</p>\n<p>I've been thinking about how my blog here on MB fits into the equation, and I think MB serves as a more meaningful \"home base.\" The content I share here is a bit more than a fleeting thought (unlike Mastodon) and it isn't specifically to spark conversation (unlike Lemmy). I think the strength of MB, right now, is that it offers the full-on “Web 1.0” (I am stating this affectionately) blogging experience with the ability to tunnel blogged content to/from the Fediverse. </p>\n",
+				"date_published": "2023-07-02T00:23:23-06:00",
+				"url": "https://jmanes.blog/2023/07/02/blogging-in-the.html",
+				"tags": ["MB","Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/06/30/personal-social-media.html",
+				"title": "Personal Social Media Update",
+				"content_html": "<p>I decided to refine some of my social media usage today. I'm going to be deleting my reddit account due to the 'enshittification' going on there, and instead using <a href=\"https://lemmy.world/u/jmanes\">Lemmy.world</a>. After doing some research into the administrator of this Lemmy instance, I found that they also have a Mastodon instance. So.. I created an account with them on <a href=\"https://mastodon.world/@jmanes\">Mastodon.world</a>. I will primarily be using Micro.blog, Lemmy.world and Mastodon.social from here on out.<br /><br />If anyone else likes the *.world social media sites, the owner has a <a href=\"https://www.patreon.com/mastodonworld\">Patreon</a> to donate to as well.</p>\n",
+				"content_text": "<p>I decided to refine some of my social media usage today. I'm going to be deleting my reddit account due to the 'enshittification' going on there, and instead using <a href=\"https://lemmy.world/u/jmanes\">Lemmy.world</a>. After doing some research into the administrator of this Lemmy instance, I found that they also have a Mastodon instance. So.. I created an account with them on <a href=\"https://mastodon.world/@jmanes\">Mastodon.world</a>. I will primarily be using Micro.blog, Lemmy.world and Mastodon.social from here on out.<br /><br />If anyone else likes the *.world social media sites, the owner has a <a href=\"https://www.patreon.com/mastodonworld\">Patreon</a> to donate to as well.</p>\n",
+				"date_published": "2023-06-30T12:56:12-06:00",
+				"url": "https://jmanes.blog/2023/06/30/personal-social-media.html",
+				"tags": ["Life","Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/06/25/i-purchased-some.html",
+				
+				"content_html": "<p>I purchased some new fleece for the loft portion of my guinea pig enclosure. No more paper bedding up there! Lambda is enjoying it thoroughly. <img title=\"IMG_5222.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5222.png\" alt=\"A guinea pig named Lambda facing the camera, resting pleasantly on clean fleece bedding with her paws out front.\" width=\"600\" height=\"450\" border=\"0\" /></p>\n",
+				"content_text": "<p>I purchased some new fleece for the loft portion of my guinea pig enclosure. No more paper bedding up there! Lambda is enjoying it thoroughly. <img title=\"IMG_5222.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5222.png\" alt=\"A guinea pig named Lambda facing the camera, resting pleasantly on clean fleece bedding with her paws out front.\" width=\"600\" height=\"450\" border=\"0\" /></p>\n",
+				"date_published": "2023-06-25T14:25:47-06:00",
+				"url": "https://jmanes.blog/2023/06/25/i-purchased-some.html",
+				"tags": ["Guinea Pigs"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/06/25/the-fk-is.html",
+				
+				"content_html": "<p>The FK8 is ready for a road trip to Florida! It has been a while since I’ve done a deep clean on the interior. <img title=\"IMG_5233.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5233.png\" alt=\"An interior view of the FK8 from the passenger side door.\" width=\"599\" height=\"446\" border=\"0\" /></p>\n",
+				"content_text": "<p>The FK8 is ready for a road trip to Florida! It has been a while since I’ve done a deep clean on the interior. <img title=\"IMG_5233.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5233.png\" alt=\"An interior view of the FK8 from the passenger side door.\" width=\"599\" height=\"446\" border=\"0\" /></p>\n",
+				"date_published": "2023-06-25T14:18:13-06:00",
+				"url": "https://jmanes.blog/2023/06/25/the-fk-is.html",
+				"tags": ["Automotive"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/06/25/it-looks-like.html",
+				
+				"content_html": "<p>It looks like the <a href=\"https://browser.kagi.com\">Orion browser</a> is getting <a href=\"https://orionfeedback.org/d/28-1password-extension-does-not-autofill\">support for 1Password</a> after all! Very excited to try this out once it is ready.</p>\n",
+				"content_text": "<p>It looks like the <a href=\"https://browser.kagi.com\">Orion browser</a> is getting <a href=\"https://orionfeedback.org/d/28-1password-extension-does-not-autofill\">support for 1Password</a> after all! Very excited to try this out once it is ready.</p>\n",
+				"date_published": "2023-06-25T13:41:27-06:00",
+				"url": "https://jmanes.blog/2023/06/25/it-looks-like.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/06/22/thoughts-on-the.html",
+				"title": "Thoughts on the Titan submersible ",
+				"content_html": "<p>It is unfortunate to hear about the Titan submersible implosion. I am unsure as to why anyone would have boarded that contraption given all of the information around it. I suppose they were mislead or perhaps threw caution to the wind. Given the Navy’s account regarding their detected implosion acoustic signature, the submersible simply descended into its own demise hours after departure.</p>\n<p>It really reminds me of Mt. Everest, and the folks who spend thousands upon thousands of dollars to climb it and inevitably die a terrible death. I do not understand the desire to do these things, and I don’t think I ever will.</p>\n",
+				"content_text": "<p>It is unfortunate to hear about the Titan submersible implosion. I am unsure as to why anyone would have boarded that contraption given all of the information around it. I suppose they were mislead or perhaps threw caution to the wind. Given the Navy’s account regarding their detected implosion acoustic signature, the submersible simply descended into its own demise hours after departure.</p>\n<p>It really reminds me of Mt. Everest, and the folks who spend thousands upon thousands of dollars to climb it and inevitably die a terrible death. I do not understand the desire to do these things, and I don’t think I ever will.</p>\n",
+				"date_published": "2023-06-22T19:18:52-06:00",
+				"url": "https://jmanes.blog/2023/06/22/thoughts-on-the.html",
+				"tags": ["News"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/06/19/happy-juneteenth-ive.html",
+				
+				"content_html": "<p>Happy Juneteenth! I’ve been reading up on this day on <a href=\"https://en.wikipedia.org/wiki/Juneteenth\">Wikipedia</a> and it has an interesting history of celebration… since the 1860s!</p>\n",
+				"content_text": "<p>Happy Juneteenth! I’ve been reading up on this day on <a href=\"https://en.wikipedia.org/wiki/Juneteenth\">Wikipedia</a> and it has an interesting history of celebration… since the 1860s!</p>\n",
+				"date_published": "2023-06-19T09:56:58-06:00",
+				"url": "https://jmanes.blog/2023/06/19/happy-juneteenth-ive.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/06/18/i-think-the.html",
+				
+				"content_html": "<p>I think the only thing that keeps me using mastodon.social as a side account is the Ivory app. So wonderful to use!</p>\n",
+				"content_text": "<p>I think the only thing that keeps me using mastodon.social as a side account is the Ivory app. So wonderful to use!</p>\n",
+				"date_published": "2023-06-17T23:16:12-06:00",
+				"url": "https://jmanes.blog/2023/06/18/i-think-the.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/06/18/years-ago-i.html",
+				
+				"content_html": "<p>Years ago, I broke myself of the habit around photographing / recording live concerts while attending them - I’m proud of this! Strangely though, this made its way into other parts of my life. I’ll go out and do something novel or exciting and then later think “shoot why didn’t I take a photo!”</p>\n",
+				"content_text": "<p>Years ago, I broke myself of the habit around photographing / recording live concerts while attending them - I’m proud of this! Strangely though, this made its way into other parts of my life. I’ll go out and do something novel or exciting and then later think “shoot why didn’t I take a photo!”</p>\n",
+				"date_published": "2023-06-17T23:13:29-06:00",
+				"url": "https://jmanes.blog/2023/06/18/years-ago-i.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/06/16/enjoying-some-friday.html",
+				
+				"content_html": "<p>Enjoying some Friday evening lake time.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/image.jpg\" alt=\"\" width=\"600\" height=\"450\" /><img src=\"https://cdn.uploads.micro.blog/3480/2023/ccaf8d84eb.jpg\" alt=\"\" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "<p>Enjoying some Friday evening lake time.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/image.jpg\" alt=\"\" width=\"600\" height=\"450\" /><img src=\"https://cdn.uploads.micro.blog/3480/2023/ccaf8d84eb.jpg\" alt=\"\" width=\"600\" height=\"450\" /></p>\n",
+				"date_published": "2023-06-16T19:38:55-06:00",
+				"url": "https://jmanes.blog/2023/06/16/enjoying-some-friday.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/06/13/ive-been-inspired.html",
+				
+				"content_html": "<p>I’ve been inspired to be more active since getting my standing desk. No more sleeping in late, I’m a 7:00AM guy now, with my workouts being done in the morning. So far so good, though the first two days were hell. It is never fun to “fix” a sleep schedule.</p>\n",
+				"content_text": "<p>I’ve been inspired to be more active since getting my standing desk. No more sleeping in late, I’m a 7:00AM guy now, with my workouts being done in the morning. So far so good, though the first two days were hell. It is never fun to “fix” a sleep schedule.</p>\n",
+				"date_published": "2023-06-13T20:37:15-06:00",
+				"url": "https://jmanes.blog/2023/06/13/ive-been-inspired.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/06/11/i-got-my.html",
+				
+				"content_html": "<p>I got my motorized standing desk in on Friday. I finally got it all set up and it is lovely! I’m looking forward to standing more during the day rather than sitting. Also, being able to fine-tune a desk’s height while sitting is a game changer for posture!</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/9821487975.jpg\" alt=\"A Vari brand motorized standing desk, in its standing position. It has a dark brown top and black legs. On the desk is a bunch of equipment such as a MacBook Pro, monitor arm, monitor, dedicated speakers, and more.\" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "<p>I got my motorized standing desk in on Friday. I finally got it all set up and it is lovely! I’m looking forward to standing more during the day rather than sitting. Also, being able to fine-tune a desk’s height while sitting is a game changer for posture!</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/9821487975.jpg\" alt=\"A Vari brand motorized standing desk, in its standing position. It has a dark brown top and black legs. On the desk is a bunch of equipment such as a MacBook Pro, monitor arm, monitor, dedicated speakers, and more.\" width=\"600\" height=\"450\" /></p>\n",
+				"date_published": "2023-06-11T17:55:44-06:00",
+				"url": "https://jmanes.blog/2023/06/11/i-got-my.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/06/10/microblog-is-so.html",
+				
+				"content_html": "<p>Micro.blog is so versatile that I think I may just re-direct my landing page to my blog’s about page. One less thing to keep up on.</p>\n",
+				"content_text": "<p>Micro.blog is so versatile that I think I may just re-direct my landing page to my blog’s about page. One less thing to keep up on.</p>\n",
+				"date_published": "2023-06-10T15:29:58-06:00",
+				"url": "https://jmanes.blog/2023/06/10/microblog-is-so.html",
+				"tags": ["MB","Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/06/10/looking-back-on.html",
+				
+				"content_html": "<p>Looking back on when I first got my FK8 today. A lot of folks in the car community call it ugly, garish and childish. That might be true, but I love this thing. 🚗</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/60c9a2fbf9.jpg\" alt=\"A 2019 Honda Civic Type R at night with its headlights on. \" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "<p>Looking back on when I first got my FK8 today. A lot of folks in the car community call it ugly, garish and childish. That might be true, but I love this thing. 🚗</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/60c9a2fbf9.jpg\" alt=\"A 2019 Honda Civic Type R at night with its headlights on. \" width=\"600\" height=\"450\" /></p>\n",
+				"date_published": "2023-06-10T14:26:18-06:00",
+				"url": "https://jmanes.blog/2023/06/10/looking-back-on.html",
+				"tags": ["Automotive"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/06/09/i-recently-became.html",
+				
+				"content_html": "<p>I recently became interested in Gary Numan’s music. All of his old hits are great! Just today, though, I decided to give his newer work a listen… and it is absolutely incredible. I could not believe it. Typically when I get into a band, I get stuck in one of their “eras,” if that makes sense. I either enjoy their new stuff or their old stuff, or somewhere in the middle. With Gary Numan, though.. I love both his old and new stuff. Betrayed from his latest album Intruder is incredible, I can’t get enough of it.</p>\n",
+				"content_text": "<p>I recently became interested in Gary Numan’s music. All of his old hits are great! Just today, though, I decided to give his newer work a listen… and it is absolutely incredible. I could not believe it. Typically when I get into a band, I get stuck in one of their “eras,” if that makes sense. I either enjoy their new stuff or their old stuff, or somewhere in the middle. With Gary Numan, though.. I love both his old and new stuff. Betrayed from his latest album Intruder is incredible, I can’t get enough of it.</p>\n",
+				"date_published": "2023-06-09T21:46:22-06:00",
+				"url": "https://jmanes.blog/2023/06/09/i-recently-became.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/06/09/i-have-sunk.html",
+				
+				"content_html": "<p>I have sunk quite a bit of time into my blog theme and I am proud of what it has become. Now I need to touch up my personal landing page as it is quite out of date! I think I’ll be ditching JavaScript there, in favor of a pure CSS approach.</p>\n",
+				"content_text": "<p>I have sunk quite a bit of time into my blog theme and I am proud of what it has become. Now I need to touch up my personal landing page as it is quite out of date! I think I’ll be ditching JavaScript there, in favor of a pure CSS approach.</p>\n",
+				"date_published": "2023-06-09T00:20:47-06:00",
+				"url": "https://jmanes.blog/2023/06/09/i-have-sunk.html",
+				"tags": ["DIY"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/06/08/the-reddit-app.html",
+				
+				"content_html": "<p>The Reddit app Apollo being shut down is a tragedy. To me, this app was the only thing that made Reddit bearable to use on iOS. On Android, I use an app called Relay, which I assume is also getting shut down during this mess. To be frank, this is the end of my relationship with Reddit as a social media platform. I will not longer be using it.</p>\n<p>Context: <a href=\"https://www.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits\">Apollo on Reddit</a></p>\n",
+				"content_text": "<p>The Reddit app Apollo being shut down is a tragedy. To me, this app was the only thing that made Reddit bearable to use on iOS. On Android, I use an app called Relay, which I assume is also getting shut down during this mess. To be frank, this is the end of my relationship with Reddit as a social media platform. I will not longer be using it.</p>\n<p>Context: <a href=\"https://www.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits\">Apollo on Reddit</a></p>\n",
+				"date_published": "2023-06-08T12:42:48-06:00",
+				"url": "https://jmanes.blog/2023/06/08/the-reddit-app.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/06/07/the-air-quality.html",
+				
+				"content_html": "<p>The Air Quality Index (AQI) has been pretty bad here in Kansas City. Yesterday evening it was up to 138! I know folks further up north have it worse, but this is maybe the worst I have seen it this far south of the Canadian wildfires.</p>\n",
+				"content_text": "<p>The Air Quality Index (AQI) has been pretty bad here in Kansas City. Yesterday evening it was up to 138! I know folks further up north have it worse, but this is maybe the worst I have seen it this far south of the Canadian wildfires.</p>\n",
+				"date_published": "2023-06-07T07:45:46-06:00",
+				"url": "https://jmanes.blog/2023/06/07/the-air-quality.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/06/05/the-vision-pro.html",
+				
+				"content_html": "<p>The Vision Pro is sexy aesthetically; I really like the hardware. The application of the hardware is where the plot is lost with me. I don’t think I’d ever use this for anything more than a party trick. Also… it is damn creepy. 🤯 #WWDC23</p>\n",
+				"content_text": "<p>The Vision Pro is sexy aesthetically; I really like the hardware. The application of the hardware is where the plot is lost with me. I don’t think I’d ever use this for anything more than a party trick. Also… it is damn creepy. 🤯 #WWDC23</p>\n",
+				"date_published": "2023-06-05T12:57:06-06:00",
+				"url": "https://jmanes.blog/2023/06/05/the-vision-pro.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/06/01/rest-in-peace.html",
+				
+				"content_html": "<p>Rest in Peace to my 2019-purchased Bose NC 700s. I woke up to the smell of burning wire and found this in my living room.</p>\n<p><img title=\"IMG_5122.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/8555a27d8a.png\" alt=\"A pair of Bose NC 700 headphones with the charging port smouldering and melted.\" width=\"600\" height=\"450\" border=\"0\" /><img title=\"IMG_5123.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/4ffa403996.png\" alt=\"A Bose USB cable with the port entirely meled and missing the metal portion of the plug.\" width=\"600\" height=\"450\" border=\"0\" /><br /><br />I left them to charge over-night and that was apparently a dangerous move. I knew the battery was going out on these for some time now, but I did not expect it to fail like this!</p>\n",
+				"content_text": "<p>Rest in Peace to my 2019-purchased Bose NC 700s. I woke up to the smell of burning wire and found this in my living room.</p>\n<p><img title=\"IMG_5122.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/8555a27d8a.png\" alt=\"A pair of Bose NC 700 headphones with the charging port smouldering and melted.\" width=\"600\" height=\"450\" border=\"0\" /><img title=\"IMG_5123.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/4ffa403996.png\" alt=\"A Bose USB cable with the port entirely meled and missing the metal portion of the plug.\" width=\"600\" height=\"450\" border=\"0\" /><br /><br />I left them to charge over-night and that was apparently a dangerous move. I knew the battery was going out on these for some time now, but I did not expect it to fail like this!</p>\n",
+				"date_published": "2023-06-01T09:39:47-06:00",
+				"url": "https://jmanes.blog/2023/06/01/rest-in-peace.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/05/28/the-lack-of.html",
+				
+				"content_html": "<p>The lack of e2e bookmarks on Safari is kind of a bummer. Also it is not great for development work. Apple definitely has other priorities for this browser.</p>\n",
+				"content_text": "The lack of e2e bookmarks on Safari is kind of a bummer. Also it is not great for development work. Apple definitely has other priorities for this browser.\n",
+				"date_published": "2023-05-28T19:10:15-06:00",
+				"url": "https://jmanes.blog/2023/05/28/the-lack-of.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/05/27/stuck-in-a.html",
+				
+				"content_html": "<p>Stuck in a loop of hating every browser right now for different reasons. Firefox is so close to being my main choice... I mean it basically is everywhere other than my mac.. if only it were a little more refined on macOS. ☹️</p>\n",
+				"content_text": "<p>Stuck in a loop of hating every browser right now for different reasons. Firefox is so close to being my main choice... I mean it basically is everywhere other than my mac.. if only it were a little more refined on macOS. ☹️</p>\n",
+				"date_published": "2023-05-27T19:13:24-06:00",
+				"url": "https://jmanes.blog/2023/05/27/stuck-in-a.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/05/27/diy-home-network.html",
+				"title": "DIY Home Network (May 2023)",
+				"content_html": "<p>I am yet again refining my home network! This project involved running CAT6e cable to my entertainment system area. It went rather smoothly, despite requiring me to install a new wall gang and outlet for the ethernet port.</p>\n<p><img title=\"camphoto_684387517.jpeg\" src=\"https://cdn.uploads.micro.blog/3480/2023/42294e4396.jpeg\" alt=\"Photo of a newly installed wall gang, cables thrown about and some wall damage from the work done.\" width=\"450\" height=\"600\" border=\"0\" /></p>\n<p>The final result is prettier, though I did not end up painting over the patched drywall because I am lazy. That is future James’ problem once it is actually visible to guests, rather than being hidden behind a media center.</p>\n<p><img title=\"IMG_5116.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/51afbde0b4.png\" alt=\"Photo of the installed ethernet face plate while in use. Area cleaned up. Looking good!\" width=\"600\" height=\"450\" border=\"0\" /></p>\n<p>The line runs from a managed 2.5gbe switch near the firewall. From this port, it hooks into an unmanaged 2.5gbe switch that then feeds the PlayStation 5, Sony TV and Intel NUC media PC. Loading media is instantaneous and the response feel is WAY better than before. Best of all this frees up airtime for the access points, so the entire network technically benefits from this change.</p>\n<p><img title=\"IMG_5117.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/4a31f8da24.png\" alt=\"IMG 5117\" width=\"600\" height=\"450\" border=\"0\" /></p>\n<p>On to the next project!</p>\n",
+				"content_text": "<p>I am yet again refining my home network! This project involved running CAT6e cable to my entertainment system area. It went rather smoothly, despite requiring me to install a new wall gang and outlet for the ethernet port.</p>\n<p><img title=\"camphoto_684387517.jpeg\" src=\"https://cdn.uploads.micro.blog/3480/2023/42294e4396.jpeg\" alt=\"Photo of a newly installed wall gang, cables thrown about and some wall damage from the work done.\" width=\"450\" height=\"600\" border=\"0\" /></p>\n<p>The final result is prettier, though I did not end up painting over the patched drywall because I am lazy. That is future James’ problem once it is actually visible to guests, rather than being hidden behind a media center.</p>\n<p><img title=\"IMG_5116.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/51afbde0b4.png\" alt=\"Photo of the installed ethernet face plate while in use. Area cleaned up. Looking good!\" width=\"600\" height=\"450\" border=\"0\" /></p>\n<p>The line runs from a managed 2.5gbe switch near the firewall. From this port, it hooks into an unmanaged 2.5gbe switch that then feeds the PlayStation 5, Sony TV and Intel NUC media PC. Loading media is instantaneous and the response feel is WAY better than before. Best of all this frees up airtime for the access points, so the entire network technically benefits from this change.</p>\n<p><img title=\"IMG_5117.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/4a31f8da24.png\" alt=\"IMG 5117\" width=\"600\" height=\"450\" border=\"0\" /></p>\n<p>On to the next project!</p>\n",
+				"date_published": "2023-05-27T19:11:49-06:00",
+				"url": "https://jmanes.blog/2023/05/27/diy-home-network.html",
+				"tags": ["Tech","DIY","Networking"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/05/25/i-kept-making.html",
+				
+				"content_html": "<p>I kept making posts to my test blog instead of my actual one. 🤦🏻‍♂️</p>\n",
+				"content_text": "I kept making posts to my test blog instead of my actual one. 🤦🏻‍♂️\n",
+				"date_published": "2023-05-25T13:27:37-06:00",
+				"url": "https://jmanes.blog/2023/05/25/i-kept-making.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/05/25/currently-reading-ipv.html",
+				
+				"content_html": "<p>Currently reading: IPv6 Fundamentals by Rick Graziani 📚</p>\n<p>I started reading this a while ago and the author does a good job keeping it interesting. There is a lot to know about IPv6!</p>\n",
+				"content_text": "<p>Currently reading: IPv6 Fundamentals by Rick Graziani 📚</p>\n<p>I started reading this a while ago and the author does a good job keeping it interesting. There is a lot to know about IPv6!</p>\n",
+				"date_published": "2023-05-25T13:26:44-06:00",
+				"url": "https://jmanes.blog/2023/05/25/currently-reading-ipv.html",
+				"tags": ["Tech","Engineering"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/05/23/i-missed-the.html",
+				
+				"content_html": "<p>I missed the categories part of my blog theme. Oops! Corrected now. 🫡</p>\n",
+				"content_text": "I missed the categories part of my blog theme. Oops! Corrected now. 🫡\n",
+				"date_published": "2023-05-23T01:04:40-06:00",
+				"url": "https://jmanes.blog/2023/05/23/i-missed-the.html",
+				"tags": ["MB"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/05/22/roundish.html",
+				
+				"content_html": "<p><img title=\"IMG_5089.jpeg\" src=\"https://cdn.uploads.micro.blog/3480/2023/4ec37194ad.jpg\" alt=\"A guinea pig with puffed up fur.\" width=\"599\" height=\"457\" border=\"0\" /></p>\n<p>Roundish.</p>\n",
+				"content_text": "<p><img title=\"IMG_5089.jpeg\" src=\"https://cdn.uploads.micro.blog/3480/2023/4ec37194ad.jpg\" alt=\"A guinea pig with puffed up fur.\" width=\"599\" height=\"457\" border=\"0\" /></p>\n<p>Roundish.</p>\n",
+				"date_published": "2023-05-22T22:28:40-06:00",
+				"url": "https://jmanes.blog/2023/05/22/roundish.html",
+				"tags": ["Guinea Pigs"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/05/22/attempting-to-move.html",
+				
+				"content_html": "<p>Attempting to move a bunch of hosted applications away from Linode and on to Oracle Cloud Infrastructure. As it turns out, this is not straightforward. Even a direct copy/paste of the docker data folders / compose files does not end in success. 😬</p>\n",
+				"content_text": "<p>Attempting to move a bunch of hosted applications away from Linode and on to Oracle Cloud Infrastructure. As it turns out, this is not straightforward. Even a direct copy/paste of the docker data folders / compose files does not end in success. 😬</p>\n",
+				"date_published": "2023-05-22T22:16:06-06:00",
+				"url": "https://jmanes.blog/2023/05/22/attempting-to-move.html",
+				"tags": ["Tech","Engineering"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/05/21/finally-got-a.html",
+				
+				"content_html": "<p>Finally got a working version of my new Micro.blog theme up and running. Currently keeping it safe with whites and grays for the colors, but I plan on experimenting soon. I find working with fewer colors to begin with helps me focus on whitespace and structure.</p>\n",
+				"content_text": "<p>Finally got a working version of my new Micro.blog theme up and running. Currently keeping it safe with whites and grays for the colors, but I plan on experimenting soon. I find working with fewer colors to begin with helps me focus on whitespace and structure.</p>\n",
+				"date_published": "2023-05-20T23:54:33-06:00",
+				"url": "https://jmanes.blog/2023/05/21/finally-got-a.html",
+				"tags": ["MB"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/05/09/here-is-another.html",
+				
+				"content_html": "<p>Here is another &ldquo;pigture&rdquo; for you all. Java Bean was quite sleepy and decided to claim the castle.</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2023/92086f598b.jpg\" width=\"600\" height=\"451\" alt=\"A female guinea pig named Java Bean, laying flat on top of a small wooden castle, eyes squinting she is falling asleep.\">\n",
+				"content_text": "Here is another \"pigture\" for you all. Java Bean was quite sleepy and decided to claim the castle. \n\n<img src=\"https://cdn.uploads.micro.blog/3480/2023/92086f598b.jpg\" width=\"600\" height=\"451\" alt=\"A female guinea pig named Java Bean, laying flat on top of a small wooden castle, eyes squinting she is falling asleep.\">\n",
+				"date_published": "2023-05-09T16:27:04-06:00",
+				"url": "https://jmanes.blog/2023/05/09/here-is-another.html",
+				"tags": ["Guinea Pigs"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/05/09/i-just-discovered.html",
+				
+				"content_html": "<p>I just discovered the micro.blog Mac app yesterday&hellip; this entire time I thought it was web only.</p>\n",
+				"content_text": "I just discovered the micro.blog Mac app yesterday... this entire time I thought it was web only. \n",
+				"date_published": "2023-05-09T11:23:11-06:00",
+				"url": "https://jmanes.blog/2023/05/09/i-just-discovered.html",
+				"tags": ["MB"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/05/09/i-learned-recently.html",
+				
+				"content_html": "<p>I learned recently that exactly Zero of my Google smart home devices support DHCPv6. Including my Pixel 7 Pro. What the hell man</p>\n",
+				"content_text": "<p>I learned recently that exactly Zero of my Google smart home devices support DHCPv6. Including my Pixel 7 Pro. What the hell man</p>\n",
+				"date_published": "2023-05-08T23:54:45-06:00",
+				"url": "https://jmanes.blog/2023/05/09/i-learned-recently.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/05/09/launchpad-a-bad.html",
+				"title": "Launchpad: A Bad macOS Citizen",
+				"content_html": "<p>Have you noticed how many features added to macOS over the years are simply “bolted-on?” It is perplexing how some of these features not complete, and yet, they persist.</p>\n<p>Launchpad is a good example of this. It is essentially a bolt-on UI abstraction of the Applications folder that allows users to access and organize apps like one would on an iPhone. UI abstractions are fine if they are feature complete, but Launchpad is not feature complete.</p>\n<p>Let’s look at a common workflow within macOS; uninstalling an app. I’ll drag Firefox from launchpad to the trash on the dock. What would a user expect to happen here? Classically, dragging an application from the Applications folder to the trash would work as expected. This is the uninstall workflow for applications on macOS and has been for over 20 years. So what happens when this is done via Launchpad?</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/4686c486fa.png\" alt=\"\" width=\"600\" height=\"405\" /></p>\n<p>Nothing. Firefox moves back to where it was in the Launchpad grid and no action is taken. Huh??? Well, let’s try another app. Let’s drag Mona to the trash and see what happens.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/5fabebe071.png\" alt=\"\" width=\"600\" height=\"240\" /></p>\n<p>The application awkwardly transitions back to where it was in the Launchpad grid… <em>but wait</em>! Now we are presented with a strange, poorly presented popup asking if the application should be uninstalled. Why did the application not simply move into the trash? Why is Mona being presented with an uninstall dialog, where as for Firefox nothing happened at all?</p>\n<p>As it turns out, Launchpad can only uninstall applications that were originally installed via the App Store. Not in the OS standard way, though. Instead it leverages a brand new popup dialog. Why?</p>\n<p>Both apps from this example, Mona and Firefox, can be uninstalled via drag-and-drop from the Applications folder to the trash. Only in Launchpad does this weird behavioral difference exist.</p>\n<p>Launchpad’s bolt-on status goes beyond its bolt-on look and feel. It violates macOS UX – this is not the way this OS was designed to be used. It is functionally broken. It is not a joy to use. I think it is fair to say that Launchpad is not a good macOS citizen.</p>\n",
+				"content_text": "<p>Have you noticed how many features added to macOS over the years are simply “bolted-on?” It is perplexing how some of these features not complete, and yet, they persist.</p>\n<p>Launchpad is a good example of this. It is essentially a bolt-on UI abstraction of the Applications folder that allows users to access and organize apps like one would on an iPhone. UI abstractions are fine if they are feature complete, but Launchpad is not feature complete.</p>\n<p>Let’s look at a common workflow within macOS; uninstalling an app. I’ll drag Firefox from launchpad to the trash on the dock. What would a user expect to happen here? Classically, dragging an application from the Applications folder to the trash would work as expected. This is the uninstall workflow for applications on macOS and has been for over 20 years. So what happens when this is done via Launchpad?</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/4686c486fa.png\" alt=\"\" width=\"600\" height=\"405\" /></p>\n<p>Nothing. Firefox moves back to where it was in the Launchpad grid and no action is taken. Huh??? Well, let’s try another app. Let’s drag Mona to the trash and see what happens.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/5fabebe071.png\" alt=\"\" width=\"600\" height=\"240\" /></p>\n<p>The application awkwardly transitions back to where it was in the Launchpad grid… <em>but wait</em>! Now we are presented with a strange, poorly presented popup asking if the application should be uninstalled. Why did the application not simply move into the trash? Why is Mona being presented with an uninstall dialog, where as for Firefox nothing happened at all?</p>\n<p>As it turns out, Launchpad can only uninstall applications that were originally installed via the App Store. Not in the OS standard way, though. Instead it leverages a brand new popup dialog. Why?</p>\n<p>Both apps from this example, Mona and Firefox, can be uninstalled via drag-and-drop from the Applications folder to the trash. Only in Launchpad does this weird behavioral difference exist.</p>\n<p>Launchpad’s bolt-on status goes beyond its bolt-on look and feel. It violates macOS UX – this is not the way this OS was designed to be used. It is functionally broken. It is not a joy to use. I think it is fair to say that Launchpad is not a good macOS citizen.</p>\n",
+				"date_published": "2023-05-08T23:07:01-06:00",
+				"url": "https://jmanes.blog/2023/05/09/launchpad-a-bad.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/05/07/i-had-enough.html",
+				
+				"content_html": "<p>I had enough today, and ditched the Apple Weather app. It is so hilariously bad at what it does. I cannot believe this product was shipped.</p>\n",
+				"content_text": "<p>I had enough today, and ditched the Apple Weather app. It is so hilariously bad at what it does. I cannot believe this product was shipped.</p>\n",
+				"date_published": "2023-05-07T20:22:51-06:00",
+				"url": "https://jmanes.blog/2023/05/07/i-had-enough.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/05/04/i-was-able.html",
+				
+				"content_html": "<p>I was able to catch Skinny Puppy live on their Final Tour. So grateful! 🎵</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/9b6860907b.jpg\" alt=\"\" width=\"600\" height=\"450\" /><img src=\"https://cdn.uploads.micro.blog/3480/2023/658e7b09d9.jpg\" alt=\"\" width=\"600\" height=\"450\" /><img src=\"https://cdn.uploads.micro.blog/3480/2023/9bb82aaa66.jpg\" alt=\"\" width=\"600\" height=\"450\" /><img src=\"https://cdn.uploads.micro.blog/3480/2023/9d238ac0b4.jpg\" alt=\"\" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "<p>I was able to catch Skinny Puppy live on their Final Tour. So grateful! 🎵</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/9b6860907b.jpg\" alt=\"\" width=\"600\" height=\"450\" /><img src=\"https://cdn.uploads.micro.blog/3480/2023/658e7b09d9.jpg\" alt=\"\" width=\"600\" height=\"450\" /><img src=\"https://cdn.uploads.micro.blog/3480/2023/9bb82aaa66.jpg\" alt=\"\" width=\"600\" height=\"450\" /><img src=\"https://cdn.uploads.micro.blog/3480/2023/9d238ac0b4.jpg\" alt=\"\" width=\"600\" height=\"450\" /></p>\n",
+				"date_published": "2023-05-04T11:39:27-06:00",
+				"url": "https://jmanes.blog/2023/05/04/i-was-able.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/04/30/another-weekend-gone.html",
+				
+				"content_html": "<p>Another weekend gone too fast. I spent a good chunk of it re-working my firewall setup. I finally have IPv6 operational through my ISP!</p>\n",
+				"content_text": "<p>Another weekend gone too fast. I spent a good chunk of it re-working my firewall setup. I finally have IPv6 operational through my ISP!</p>\n",
+				"date_published": "2023-04-30T18:23:26-06:00",
+				"url": "https://jmanes.blog/2023/04/30/another-weekend-gone.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/04/24/i-have-a.html",
+				
+				"content_html": "<p>I have a few thoughts I need to get into a longer post about macOS. I started using it again for the first time in 10-ish years.</p>\n",
+				"content_text": "<p>I have a few thoughts I need to get into a longer post about macOS. I started using it again for the first time in 10-ish years.</p>\n",
+				"date_published": "2023-04-24T19:11:22-06:00",
+				"url": "https://jmanes.blog/2023/04/24/i-have-a.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/04/24/wow-tucker-carlson.html",
+				
+				"content_html": "<p>Wow, Tucker Carlson is ousted from Fox News! They will probably replace him with someone far crazier, but I can still enjoy him being canned from afar. 😎</p>\n<p><a href=\"https://www.npr.org/2023/04/24/1171641969/fox-news-fires-tucker-carlson-in-stunning-move-a-week-after-787-million-settleme\">www.npr.org/2023/04/2…</a></p>\n",
+				"content_text": "<p>Wow, Tucker Carlson is ousted from Fox News! They will probably replace him with someone far crazier, but I can still enjoy him being canned from afar. 😎</p>\n<p><a href=\"https://www.npr.org/2023/04/24/1171641969/fox-news-fires-tucker-carlson-in-stunning-move-a-week-after-787-million-settleme\">www.npr.org/2023/04/2…</a></p>\n",
+				"date_published": "2023-04-24T11:29:21-06:00",
+				"url": "https://jmanes.blog/2023/04/24/wow-tucker-carlson.html",
+				"tags": ["News"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/04/23/i-spent-a.html",
+				
+				"content_html": "<p>I spent a good chunk of my day attempting to fix issues on the nvidia shield. I used to have it set up for retroarch which would load my games over a network. Apparently newer versions of Android restrict access to those folders now… what a mess. I may need to move to a dedicated machine soon.</p>\n",
+				"content_text": "<p>I spent a good chunk of my day attempting to fix issues on the nvidia shield. I used to have it set up for retroarch which would load my games over a network. Apparently newer versions of Android restrict access to those folders now… what a mess. I may need to move to a dedicated machine soon.</p>\n",
+				"date_published": "2023-04-22T23:31:20-06:00",
+				"url": "https://jmanes.blog/2023/04/23/i-spent-a.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/04/16/javabean-is-angry.html",
+				
+				"content_html": "<p>JavaBean is angry about the bath.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/8108890eff.jpg\" alt=\"\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "<p>JavaBean is angry about the bath.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/8108890eff.jpg\" alt=\"\" width=\"600\" height=\"600\" /></p>\n",
+				"date_published": "2023-04-16T20:04:17-06:00",
+				"url": "https://jmanes.blog/2023/04/16/javabean-is-angry.html",
+				"tags": ["Guinea Pigs"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/04/16/it-was-piggie.html",
+				
+				"content_html": "<p>It was piggie bath time this evening.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/a6a3a98b87.jpg\" alt=\"\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "<p>It was piggie bath time this evening.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/a6a3a98b87.jpg\" alt=\"\" width=\"600\" height=\"600\" /></p>\n",
+				"date_published": "2023-04-16T19:54:43-06:00",
+				"url": "https://jmanes.blog/2023/04/16/it-was-piggie.html",
+				"tags": ["Guinea Pigs"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/04/10/thunderstorm-today-with.html",
+				
+				"content_html": "<p>Thunderstorm today with the windows cracked open… this is as good as it gets. Though my guinea pigs are a little frightened.</p>\n",
+				"content_text": "<p>Thunderstorm today with the windows cracked open… this is as good as it gets. Though my guinea pigs are a little frightened.</p>\n",
+				"date_published": "2023-04-10T10:52:39-06:00",
+				"url": "https://jmanes.blog/2023/04/10/thunderstorm-today-with.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/04/09/a-wonderful-sunday.html",
+				
+				"content_html": "<p>A wonderful Sunday for me. Went on a walk, lifted some weights, did some bike riding… I should really take photos next time I am out so that I have more than text to share.</p>\n",
+				"content_text": "<p>A wonderful Sunday for me. Went on a walk, lifted some weights, did some bike riding… I should really take photos next time I am out so that I have more than text to share.</p>\n",
+				"date_published": "2023-04-09T15:57:59-06:00",
+				"url": "https://jmanes.blog/2023/04/09/a-wonderful-sunday.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/04/02/its-summer-tyre.html",
+				
+				"content_html": "<p>It’s summer tyre season once again! The FK8 is back on Michelin Sport 4S.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/d8baa7062d.jpg\" alt=\"\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "<p>It’s summer tyre season once again! The FK8 is back on Michelin Sport 4S.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/d8baa7062d.jpg\" alt=\"\" width=\"600\" height=\"600\" /></p>\n",
+				"date_published": "2023-04-02T17:58:00-06:00",
+				"url": "https://jmanes.blog/2023/04/02/its-summer-tyre.html",
+				"tags": ["Life","Automotive"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/03/31/for-anyone-that.html",
+				
+				"content_html": "<p>For anyone that uses HomeKit but has Nest products, you gotta check out Starling. It is crazy good and went far beyond my expectations: <a href=\"https://www.starlinghome.io\">www.starlinghome.io</a></p>\n",
+				"content_text": "<p>For anyone that uses HomeKit but has Nest products, you gotta check out Starling. It is crazy good and went far beyond my expectations: <a href=\"https://www.starlinghome.io\">www.starlinghome.io</a></p>\n",
+				"date_published": "2023-03-31T20:53:18-06:00",
+				"url": "https://jmanes.blog/2023/03/31/for-anyone-that.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/03/31/this-week-has.html",
+				
+				"content_html": "<p>This week has kicked my butt. I have been in so many meetings that I am losing track of my days.</p>\n",
+				"content_text": "<p>This week has kicked my butt. I have been in so many meetings that I am losing track of my days.</p>\n",
+				"date_published": "2023-03-30T23:05:58-06:00",
+				"url": "https://jmanes.blog/2023/03/31/this-week-has.html",
+				"tags": ["Life","Corporate"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/03/28/sheesh-it-has.html",
+				
+				"content_html": "<p>Sheesh it has been a long time since I have written something even mildly substantial in length. I am <em>rusty</em> in the paper writing department these days. Also it is almost 3:00 A.M. and I should be sleeping instead of editing a blog post… I swear I’m a responsible adult.</p>\n",
+				"content_text": "<p>Sheesh it has been a long time since I have written something even mildly substantial in length. I am <em>rusty</em> in the paper writing department these days. Also it is almost 3:00 A.M. and I should be sleeping instead of editing a blog post… I swear I’m a responsible adult.</p>\n",
+				"date_published": "2023-03-28T01:42:50-06:00",
+				"url": "https://jmanes.blog/2023/03/28/sheesh-it-has.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/03/27/the-folly-of.html",
+				"title": "The Folly of the Technical Interview ",
+				"content_html": "<p>Software engineering interviews are certainly something, aren’t they? A potential employer reviews your accomplishment, sees the code that you have contributed to open source projects on GitHub, and things seem to be going great. Then, the technical interview appears. It’s all down hill from here.</p>\n<p>Does this sound familiar? I’m sure it does to many of you, and you shouldn’t feel bad about it. <em>The majority of technical interviews as they are given today are garbage.</em> There are some companies that do them well, but most of them do them bad. For this entry, I will be focusing on the companies that do them poorly, and describing why they are so terrible.</p>\n<h3>The technical interview of today is often nothing more than a bastardized I.Q. test.</h3>\n<p>Have you ever noticed that coding interview questions are often needlessly complicated and do not reflect anything that you would ever do on the job? Me too. If you have noticed this, it means you have actually worked in the field. Many of the questions are based around syntax-correctness, memorization of random API method signatures, and very specific algorithm implementation details. This is cute for trivia night, but it means nothing in the context of the job.</p>\n<p><strong>A fun analogy:</strong> For my friends in the arts, let me give you an analogous example question that you might be asked if your technical interview were written by a hiring software engineer.</p>\n<p>“You have a photoshop document with two layers. A base layer that is black, and a top layer that is white. A masking layer is added to the white layer and the white layer is set to 70% opacity. If you were to make a stroke with the brush tool on the masking layer with the color set to black at 50% opacity, what would the resulting color be in the hexadecimal format? It is OK if your answer is off by a few octets.”</p>\n<p>If your first thought here was “who cares about this crap? I could figure it out in two seconds on the job with the color picker tool,” then your mind is in the right place. Indeed, <em>who cares</em>.</p>\n<p>The majority of modern day technical interviews are nothing more than an I.Q. test for candidates under a different name. Which, by the way, was <a href=\"https://micro.blog/archives/546662\">decided by the Supreme Court</a> to be scumbag behavior. They tell you nothing about an individuals ability to do the job well, but they do give you potential hints as to <a href=\"https://micro.blog/archives/546663\">how wealthy that person may have been during their upbringing</a>.</p>\n<p>Ever wonder why there are countless books on how to “crack the coding interview” and training businesses built around these draconian interviews? Now you know. It’s because they have nothing to do with the job. It is extracurricular work. It is an entirely different skillset.</p>\n<p>I’ll leave this one with a hot take, some exceptions apply:</p>\n<p><em>“The engineer that spends their all of their time engineering is not qualified to pass an interview.”</em></p>\n<h3>The technical interview does not pass empathy test, because it was not made for humans</h3>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/9c88850619.gif\" alt=\"\" width=\"600\" height=\"247\" /></p>\n<p>There was an interesting study done by someone <a href=\"https://micro.blog/archives/546697\">way smarter than me</a> that I think applies here. It is called the “Illusion of Transparency” which describes how humans tend to over-estimate how much of their own mental state is known by others. This happens in interviews <em>a lot</em> as it is, and it is even worse during the technical portion for engineers.</p>\n<p>This concept, sometimes referred to as the “curse of knowledge”, seeps deep into the minds of interviewers everywhere. The interviewer that walks into a technical interview with all of the answers cannot “un-know” what they are about to present to you as a test. Their frame of reference is warped, and more often than not, technical interviewers have no desire to be empathetic to those who they are interviewing. To the interviewer it is simple and easy, because they already know the answer going in. The interviewer has the curse of knowledge. This bias can lead an interviewer to see you as a poor candidate despite the test being inhospitable to how humans <em>actually</em> think.</p>\n<p>So why design an interview like this if it sucks so bad? Why ignore all of these biases? Well, it comes down to good ol’ corporate number crunching. These questions are hospitable to corporate timetables, as the fruits of the test can easily be placed into black-and-white boxes for quick assessment. Frankly, in these situations, the individual giving the interview does not have to care. They know the hyper-specific answers. If you also know these answers, you’re in. If you don’t, you’re out. Indeed, interviews like these are designed to benefit <em>corporate schedules</em> at the expense of <em>merit.</em> Remember this at all times.</p>\n<p>Keep in mind that if you were to put a technical interviewer through their own interview process with a different question set of a similar design, there is an exceedingly good chance that they would stumble just as quickly as anyone else. And yes, this would happen to senior engineers, and even high level architects. The best of minds cannot compensate for the worst of tests.</p>\n<p>If during a technical interview you stumble when being asked to point out some simplistic syntax error, or you forget some random API signature, don’t beat yourself up about it. Do not define yourself by a bad test. Keep your head high and keep searching.</p>\n",
+				"content_text": "<p>Software engineering interviews are certainly something, aren’t they? A potential employer reviews your accomplishment, sees the code that you have contributed to open source projects on GitHub, and things seem to be going great. Then, the technical interview appears. It’s all down hill from here.</p>\n<p>Does this sound familiar? I’m sure it does to many of you, and you shouldn’t feel bad about it. <em>The majority of technical interviews as they are given today are garbage.</em> There are some companies that do them well, but most of them do them bad. For this entry, I will be focusing on the companies that do them poorly, and describing why they are so terrible.</p>\n<h3>The technical interview of today is often nothing more than a bastardized I.Q. test.</h3>\n<p>Have you ever noticed that coding interview questions are often needlessly complicated and do not reflect anything that you would ever do on the job? Me too. If you have noticed this, it means you have actually worked in the field. Many of the questions are based around syntax-correctness, memorization of random API method signatures, and very specific algorithm implementation details. This is cute for trivia night, but it means nothing in the context of the job.</p>\n<p><strong>A fun analogy:</strong> For my friends in the arts, let me give you an analogous example question that you might be asked if your technical interview were written by a hiring software engineer.</p>\n<p>“You have a photoshop document with two layers. A base layer that is black, and a top layer that is white. A masking layer is added to the white layer and the white layer is set to 70% opacity. If you were to make a stroke with the brush tool on the masking layer with the color set to black at 50% opacity, what would the resulting color be in the hexadecimal format? It is OK if your answer is off by a few octets.”</p>\n<p>If your first thought here was “who cares about this crap? I could figure it out in two seconds on the job with the color picker tool,” then your mind is in the right place. Indeed, <em>who cares</em>.</p>\n<p>The majority of modern day technical interviews are nothing more than an I.Q. test for candidates under a different name. Which, by the way, was <a href=\"https://micro.blog/archives/546662\">decided by the Supreme Court</a> to be scumbag behavior. They tell you nothing about an individuals ability to do the job well, but they do give you potential hints as to <a href=\"https://micro.blog/archives/546663\">how wealthy that person may have been during their upbringing</a>.</p>\n<p>Ever wonder why there are countless books on how to “crack the coding interview” and training businesses built around these draconian interviews? Now you know. It’s because they have nothing to do with the job. It is extracurricular work. It is an entirely different skillset.</p>\n<p>I’ll leave this one with a hot take, some exceptions apply:</p>\n<p><em>“The engineer that spends their all of their time engineering is not qualified to pass an interview.”</em></p>\n<h3>The technical interview does not pass empathy test, because it was not made for humans</h3>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/9c88850619.gif\" alt=\"\" width=\"600\" height=\"247\" /></p>\n<p>There was an interesting study done by someone <a href=\"https://micro.blog/archives/546697\">way smarter than me</a> that I think applies here. It is called the “Illusion of Transparency” which describes how humans tend to over-estimate how much of their own mental state is known by others. This happens in interviews <em>a lot</em> as it is, and it is even worse during the technical portion for engineers.</p>\n<p>This concept, sometimes referred to as the “curse of knowledge”, seeps deep into the minds of interviewers everywhere. The interviewer that walks into a technical interview with all of the answers cannot “un-know” what they are about to present to you as a test. Their frame of reference is warped, and more often than not, technical interviewers have no desire to be empathetic to those who they are interviewing. To the interviewer it is simple and easy, because they already know the answer going in. The interviewer has the curse of knowledge. This bias can lead an interviewer to see you as a poor candidate despite the test being inhospitable to how humans <em>actually</em> think.</p>\n<p>So why design an interview like this if it sucks so bad? Why ignore all of these biases? Well, it comes down to good ol’ corporate number crunching. These questions are hospitable to corporate timetables, as the fruits of the test can easily be placed into black-and-white boxes for quick assessment. Frankly, in these situations, the individual giving the interview does not have to care. They know the hyper-specific answers. If you also know these answers, you’re in. If you don’t, you’re out. Indeed, interviews like these are designed to benefit <em>corporate schedules</em> at the expense of <em>merit.</em> Remember this at all times.</p>\n<p>Keep in mind that if you were to put a technical interviewer through their own interview process with a different question set of a similar design, there is an exceedingly good chance that they would stumble just as quickly as anyone else. And yes, this would happen to senior engineers, and even high level architects. The best of minds cannot compensate for the worst of tests.</p>\n<p>If during a technical interview you stumble when being asked to point out some simplistic syntax error, or you forget some random API signature, don’t beat yourself up about it. Do not define yourself by a bad test. Keep your head high and keep searching.</p>\n",
+				"date_published": "2023-03-28T01:13:20-06:00",
+				"url": "https://jmanes.blog/2023/03/27/the-folly-of.html",
+				"tags": ["Corporate","Engineering"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/03/27/meetings-meetings-meetings.html",
+				
+				"content_html": "<p>Meetings, meetings, meetings. I think SAFe has finally been destroyed at my job (thank goodness) and we are moving on.</p>\n",
+				"content_text": "<p>Meetings, meetings, meetings. I think SAFe has finally been destroyed at my job (thank goodness) and we are moving on.</p>\n",
+				"date_published": "2023-03-27T12:24:35-06:00",
+				"url": "https://jmanes.blog/2023/03/27/meetings-meetings-meetings.html",
+				"tags": ["Corporate"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/03/26/it-is-upsetting.html",
+				
+				"content_html": "<p>It is upsetting how much of a death-grip big cable companies have on this industry. No sports unless I pay for DirecTV. Their prices are high, and the user experience of their app is brutal.</p>\n",
+				"content_text": "<p>It is upsetting how much of a death-grip big cable companies have on this industry. No sports unless I pay for DirecTV. Their prices are high, and the user experience of their app is brutal.</p>\n",
+				"date_published": "2023-03-26T21:08:27-06:00",
+				"url": "https://jmanes.blog/2023/03/26/it-is-upsetting.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/03/26/there-was-a.html",
+				
+				"content_html": "<p>There was a big shakeup at work last week. I’m going to be leaving the team that I have been on for eight years and start working on higher-priority objectives within Oracle. It is a bit scary, but I am excited to begin!</p>\n",
+				"content_text": "<p>There was a big shakeup at work last week. I’m going to be leaving the team that I have been on for eight years and start working on higher-priority objectives within Oracle. It is a bit scary, but I am excited to begin!</p>\n",
+				"date_published": "2023-03-26T15:06:57-06:00",
+				"url": "https://jmanes.blog/2023/03/26/there-was-a.html",
+				"tags": ["Corporate"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/03/26/does-anyone-else.html",
+				
+				"content_html": "<p>Does anyone else have an issue with the micro.blog iOS app? It never loads my timeline in for me. I am wondering if this is because I enabled Mastodon integration on my account.</p>\n",
+				"content_text": "Does anyone else have an issue with the micro.blog iOS app? It never loads my timeline in for me. I am wondering if this is because I enabled Mastodon integration on my account.\n",
+				"date_published": "2023-03-26T00:26:24-06:00",
+				"url": "https://jmanes.blog/2023/03/26/does-anyone-else.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/03/25/doublefluffed-at-least.html",
+				
+				"content_html": "<p>Double-fluffed. At least these two get along.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/da559594eb.jpg\" alt=\"\" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "<p>Double-fluffed. At least these two get along.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/da559594eb.jpg\" alt=\"\" width=\"600\" height=\"450\" /></p>\n",
+				"date_published": "2023-03-25T13:35:30-06:00",
+				"url": "https://jmanes.blog/2023/03/25/doublefluffed-at-least.html",
+				"tags": ["Guinea Pigs"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/03/23/that-new-framework.html",
+				
+				"content_html": "<p>That new Framework laptop looks absolutely incredible. Very excited for the future of computing with these folks around!</p>\n",
+				"content_text": "<p>That new Framework laptop looks absolutely incredible. Very excited for the future of computing with these folks around!</p>\n",
+				"date_published": "2023-03-23T17:13:04-06:00",
+				"url": "https://jmanes.blog/2023/03/23/that-new-framework.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/03/20/is-there-a.html",
+				
+				"content_html": "<p>Is there a better way to develop custom blogs via hugo on here? I can do it in-browser, but it would be nice if I could replicate this locally.</p>\n",
+				"content_text": "Is there a better way to develop custom blogs via hugo on here? I can do it in-browser, but it would be nice if I could replicate this locally.\n",
+				"date_published": "2023-03-20T21:32:32-06:00",
+				"url": "https://jmanes.blog/2023/03/20/is-there-a.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/03/18/got-two-new.html",
+				
+				"content_html": "<p>Got two new Guinea Pigs this week and one of them seems to have the fear of god in them.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/2ec4f0beea.jpg\" alt=\"\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "<p>Got two new Guinea Pigs this week and one of them seems to have the fear of god in them.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/2ec4f0beea.jpg\" alt=\"\" width=\"600\" height=\"600\" /></p>\n",
+				"date_published": "2023-03-18T22:55:08-06:00",
+				"url": "https://jmanes.blog/2023/03/18/got-two-new.html",
+				"tags": ["Guinea Pigs"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/03/17/im-going-to.html",
+				
+				"content_html": "<p>I’m going to get started with a custom theme. I’ve used Hugo a bit at work for the theming engine but uhhh… not a lot apparently. Will see how it goes.</p>\n",
+				"content_text": "<p>I’m going to get started with a custom theme. I’ve used Hugo a bit at work for the theming engine but uhhh… not a lot apparently. Will see how it goes.</p>\n",
+				"date_published": "2023-03-17T18:50:51-06:00",
+				"url": "https://jmanes.blog/2023/03/17/im-going-to.html",
+				"tags": ["Tech","Engineering"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2023/03/17/hopping-back-on.html",
+				
+				"content_html": "<p>Hopping back on here now that it integrates with Mastodon. Cool stuff!</p>\n",
+				"content_text": "<p>Hopping back on here now that it integrates with Mastodon. Cool stuff!</p>\n",
+				"date_published": "2023-03-17T17:15:46-06:00",
+				"url": "https://jmanes.blog/2023/03/17/hopping-back-on.html",
+				"tags": ["Tech"]
+			}
+	]
+}
