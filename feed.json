@@ -7,44 +7,129 @@
 	"items": [
 		
 			{
+				"id": "http://jmanes.micro.blog/2024/04/26/view-of-kansas.html",
+				
+				"content_html": "<p>View of Kansas City from the Boulevard Beer Hall deck.</p>\n<img src=\"uploads/2024/763abad97e.jpg\" width=\"600\" height=\"450\" alt=\"A skyline view of Kansas City right on the eve of sunset. The buildings are lit up in blue. \">\n",
+				"content_text": "View of Kansas City from the Boulevard Beer Hall deck. \n\n<img src=\"uploads/2024/763abad97e.jpg\" width=\"600\" height=\"450\" alt=\"A skyline view of Kansas City right on the eve of sunset. The buildings are lit up in blue. \">\n",
+				"date_published": "2024-04-26T21:36:07-05:00",
+				"url": "https://j.manes.blog/2024/04/26/view-of-kansas.html",
+				"tags": ["Kansas City"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/04/26/entry-for-mbapr.html",
+				
+				"content_html": "<p>📸 Entry for #mbapr Day 26 - critter. Sometimes they pack in there together… not sure how this is comfortable.</p>\n<img src=\"uploads/2024/d26bf5a404.jpg\" width=\"600\" height=\"450\" alt=\"Two Guinea pigs packed into a small hut. \">\n",
+				"content_text": "📸 Entry for #mbapr Day 26 - critter. Sometimes they pack in there together… not sure how this is comfortable. \n\n<img src=\"uploads/2024/d26bf5a404.jpg\" width=\"600\" height=\"450\" alt=\"Two Guinea pigs packed into a small hut. \">\n",
+				"date_published": "2024-04-26T20:04:34-05:00",
+				"url": "https://j.manes.blog/2024/04/26/entry-for-mbapr.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/04/26/kubernetes-is-starting.html",
+				
+				"content_html": "<p>Kubernetes is starting to make more sense to me now. Though the depths seem never ending.</p>\n",
+				"content_text": "Kubernetes is starting to make more sense to me now. Though the depths seem never ending. \n",
+				"date_published": "2024-04-26T14:43:32-05:00",
+				"url": "https://j.manes.blog/2024/04/26/kubernetes-is-starting.html",
+				"tags": ["Tech","Networking"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/04/25/entry-for-mbapr.html",
+				
+				"content_html": "<p>📸 Entry for #mbapr Day 25 - spine. Think about yours, and get a standing desk. :)</p>\n<img src=\"uploads/2024/947c357a4f.jpg\" width=\"600\" height=\"534\" alt=\"\">\n",
+				"content_text": "📸 Entry for #mbapr Day 25 - spine. Think about yours, and get a standing desk. :) \n\n<img src=\"uploads/2024/947c357a4f.jpg\" width=\"600\" height=\"534\" alt=\"\">\n",
+				"date_published": "2024-04-25T21:26:36-05:00",
+				"url": "https://j.manes.blog/2024/04/25/entry-for-mbapr.html",
+				"tags": ["MB"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/04/24/getting-my-hands.html",
+				
+				"content_html": "<p>Getting my hands dirty with Kubernetes&hellip; and I am not sure if I like how it works.</p>\n",
+				"content_text": "Getting my hands dirty with Kubernetes... and I am not sure if I like how it works. \n",
+				"date_published": "2024-04-24T21:50:44-05:00",
+				"url": "https://j.manes.blog/2024/04/24/getting-my-hands.html",
+				"tags": ["Tech","Networking"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/04/24/entry-for-mbapr.html",
+				
+				"content_html": "<p>📸 Entry for #mbapr Day 24 - light.</p>\n<p><img src=\"uploads/2024/42845d5481.jpg\" alt=\"A small bird balancing on top of a street light. The sky in the background is bright blue. \" width=\"600\" height=\"550\" /></p>\n",
+				"content_text": "<p>📸 Entry for #mbapr Day 24 - light.</p>\n<p><img src=\"uploads/2024/42845d5481.jpg\" alt=\"A small bird balancing on top of a street light. The sky in the background is bright blue. \" width=\"600\" height=\"550\" /></p>\n",
+				"date_published": "2024-04-24T17:24:20-05:00",
+				"url": "https://j.manes.blog/2024/04/24/entry-for-mbapr.html",
+				"tags": ["MB"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/04/23/entry-for-mbapr.html",
+				
+				"content_html": "<p>📸 Entry for #mbapr Day 23 - dreamy.</p>\n<p><img src=\"uploads/2024/5b013c5fed.jpg\" alt=\"The evening sky. It is pale blue, with the sun already set. There are clouds obscuring the moon, but its brightness shines through. \" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "<p>📸 Entry for #mbapr Day 23 - dreamy.</p>\n<p><img src=\"uploads/2024/5b013c5fed.jpg\" alt=\"The evening sky. It is pale blue, with the sun already set. There are clouds obscuring the moon, but its brightness shines through. \" width=\"600\" height=\"450\" /></p>\n",
+				"date_published": "2024-04-23T18:26:16-05:00",
+				"url": "https://j.manes.blog/2024/04/23/entry-for-mbapr.html",
+				"tags": ["MB"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/04/22/april-sure-is.html",
+				
+				"content_html": "<p>April sure is flying by quick.</p>\n",
+				"content_text": "April sure is flying by quick.\n",
+				"date_published": "2024-04-22T22:36:06-05:00",
+				"url": "https://j.manes.blog/2024/04/22/april-sure-is.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/04/22/entry-for-mbapr.html",
+				
+				"content_html": "<p>📸 Entry for #mbapr Day 22 - blue. Shoutout to the Kansas City zoo.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/be453242c8.jpg\" alt=\"A mug from the Kansas City zoo &amp; aquarium. The mug has an etched glass texture and it is semi-transparent. Green at the top and fading into deep blue at the bottom. There are various fish etched into the mug. \" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "<p>📸 Entry for #mbapr Day 22 - blue. Shoutout to the Kansas City zoo.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/be453242c8.jpg\" alt=\"A mug from the Kansas City zoo &amp; aquarium. The mug has an etched glass texture and it is semi-transparent. Green at the top and fading into deep blue at the bottom. There are various fish etched into the mug. \" width=\"600\" height=\"450\" /></p>\n",
+				"date_published": "2024-04-22T21:00:59-05:00",
+				"url": "https://j.manes.blog/2024/04/22/entry-for-mbapr.html",
+				"tags": ["MB"]
+			},
+			{
 				"id": "http://jmanes.micro.blog/2024/04/21/entry-for-mbapr.html",
 				
-				"content_html": "<p>📸 Entry for #mbapr Day 21 - mountain. This is known as the “Sunday Evening Mountain” 😖</p>\n<img src=\"uploads/2024/8c9efbe552.jpg\" width=\"600\" height=\"475\" alt=\"A big ol’ pile of dried laundry that needs folded and put away. \">\n",
-				"content_text": "📸 Entry for #mbapr Day 21 - mountain. This is known as the “Sunday Evening Mountain” 😖\n\n<img src=\"uploads/2024/8c9efbe552.jpg\" width=\"600\" height=\"475\" alt=\"A big ol’ pile of dried laundry that needs folded and put away. \">\n",
+				"content_html": "<p>📸 Entry for #mbapr Day 21 - mountain. This is known as the “Sunday Evening Mountain” 😖</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/8c9efbe552.jpg\" alt=\"A big ol’ pile of dried laundry that needs folded and put away. \" width=\"600\" height=\"475\" /></p>\n",
+				"content_text": "<p>📸 Entry for #mbapr Day 21 - mountain. This is known as the “Sunday Evening Mountain” 😖</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/8c9efbe552.jpg\" alt=\"A big ol’ pile of dried laundry that needs folded and put away. \" width=\"600\" height=\"475\" /></p>\n",
 				"date_published": "2024-04-21T19:07:41-05:00",
-				"url": "https://j.manes.blog/2024/04/21/entry-for-mbapr.html"
+				"url": "https://j.manes.blog/2024/04/21/entry-for-mbapr.html",
+				"tags": ["MB"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/04/20/entry-for-mbapr.html",
 				
-				"content_html": "<p>📸 Entry for #mbapr Day 20 - ice. Needed this today.</p>\n<img src=\"uploads/2024/b47b411ef8.jpg\" width=\"600\" height=\"450\" alt=\"A whisky and coke on the rocks. The glass is on a wooden bar. \">\n",
-				"content_text": "📸 Entry for #mbapr Day 20 - ice. Needed this today. \n\n<img src=\"uploads/2024/b47b411ef8.jpg\" width=\"600\" height=\"450\" alt=\"A whisky and coke on the rocks. The glass is on a wooden bar. \">\n",
+				"content_html": "<p>📸 Entry for #mbapr Day 20 - ice. Needed this today.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/b47b411ef8.jpg\" alt=\"A whisky and coke on the rocks. The glass is on a wooden bar. \" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "<p>📸 Entry for #mbapr Day 20 - ice. Needed this today.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/b47b411ef8.jpg\" alt=\"A whisky and coke on the rocks. The glass is on a wooden bar. \" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2024-04-20T20:38:31-05:00",
-				"url": "https://j.manes.blog/2024/04/20/entry-for-mbapr.html"
+				"url": "https://j.manes.blog/2024/04/20/entry-for-mbapr.html",
+				"tags": ["MB"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/04/19/entry-for-mbapr.html",
 				
-				"content_html": "<p>📸 Entry for #mbapr Day 19 - birthday. Can photos have a birthday? Taken on this day in 2019.</p>\n<img src=\"uploads/2024/bee7b9a88a.jpg\" width=\"600\" height=\"450\" alt=\"A photo of my old guinea pig, Stux. He is sitting in my lap eating a carrot with very wide-open eyes. He is very round with short slick hair. \">\n",
-				"content_text": "📸 Entry for #mbapr Day 19 - birthday. Can photos have a birthday? Taken on this day in 2019.\n\n<img src=\"uploads/2024/bee7b9a88a.jpg\" width=\"600\" height=\"450\" alt=\"A photo of my old guinea pig, Stux. He is sitting in my lap eating a carrot with very wide-open eyes. He is very round with short slick hair. \">\n",
+				"content_html": "<p>📸 Entry for #mbapr Day 19 - birthday. Can photos have a birthday? Taken on this day in 2019.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/bee7b9a88a.jpg\" alt=\"A photo of my old guinea pig, Stux. He is sitting in my lap eating a carrot with very wide-open eyes. He is very round with short slick hair. \" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "<p>📸 Entry for #mbapr Day 19 - birthday. Can photos have a birthday? Taken on this day in 2019.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/bee7b9a88a.jpg\" alt=\"A photo of my old guinea pig, Stux. He is sitting in my lap eating a carrot with very wide-open eyes. He is very round with short slick hair. \" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2024-04-19T13:03:41-05:00",
-				"url": "https://j.manes.blog/2024/04/19/entry-for-mbapr.html"
+				"url": "https://j.manes.blog/2024/04/19/entry-for-mbapr.html",
+				"tags": ["MB"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/04/18/entry-for-mbapr.html",
 				
-				"content_html": "<p>📸 Entry for #mbapr Day 18 - mood.</p>\n<img src=\"uploads/2024/69d41e2025.jpg\" width=\"600\" height=\"450\" alt=\"Photo of a window view, taken from the inside. On each side are brown ornate curtains. Just outside the window a hanging flower bed is visible with purple and yellow flowers. In the distance is an old brick building, four stories high with floor-to-ceiling windows. Very tall green trees line the outside of the building. \">\n",
-				"content_text": "📸 Entry for #mbapr Day 18 - mood. \n\n<img src=\"uploads/2024/69d41e2025.jpg\" width=\"600\" height=\"450\" alt=\"Photo of a window view, taken from the inside. On each side are brown ornate curtains. Just outside the window a hanging flower bed is visible with purple and yellow flowers. In the distance is an old brick building, four stories high with floor-to-ceiling windows. Very tall green trees line the outside of the building. \">\n",
+				"content_html": "<p>📸 Entry for #mbapr Day 18 - mood.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/69d41e2025.jpg\" alt=\"Photo of a window view, taken from the inside. On each side are brown ornate curtains. Just outside the window a hanging flower bed is visible with purple and yellow flowers. In the distance is an old brick building, four stories high with floor-to-ceiling windows. Very tall green trees line the outside of the building. \" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "<p>📸 Entry for #mbapr Day 18 - mood.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/69d41e2025.jpg\" alt=\"Photo of a window view, taken from the inside. On each side are brown ornate curtains. Just outside the window a hanging flower bed is visible with purple and yellow flowers. In the distance is an old brick building, four stories high with floor-to-ceiling windows. Very tall green trees line the outside of the building. \" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2024-04-18T16:57:08-05:00",
-				"url": "https://j.manes.blog/2024/04/18/entry-for-mbapr.html"
+				"url": "https://j.manes.blog/2024/04/18/entry-for-mbapr.html",
+				"tags": ["MB"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/04/17/entry-for-mbapr.html",
 				
-				"content_html": "<p>📸 Entry for #mbapr Day 17 - transcendence. The best way to describe a Tool concert. This was from March of 2022.</p>\n<img src=\"uploads/2024/f3dd0aa3a3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"content_text": "📸 Entry for #mbapr Day 17 - transcendence. The best way to describe a Tool concert. This was from March of 2022. \n\n<img src=\"uploads/2024/f3dd0aa3a3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>📸 Entry for #mbapr Day 17 - transcendence. The best way to describe a Tool concert. This was from March of 2022.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/f3dd0aa3a3.jpg\" alt=\"\" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "<p>📸 Entry for #mbapr Day 17 - transcendence. The best way to describe a Tool concert. This was from March of 2022.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/f3dd0aa3a3.jpg\" alt=\"\" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2024-04-17T18:46:41-05:00",
-				"url": "https://j.manes.blog/2024/04/17/entry-for-mbapr.html"
+				"url": "https://j.manes.blog/2024/04/17/entry-for-mbapr.html",
+				"tags": ["MB"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/04/16/i-have-decided.html",
@@ -67,10 +152,11 @@
 			{
 				"id": "http://jmanes.micro.blog/2024/04/16/entry-for-mbapr.html",
 				
-				"content_html": "<p>📸 Entry for #mbapr Day 16 - flâneur. This actually my friend’s dog, but he is a loafer.</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/3a5dd17900.jpg\" width=\"600\" height=\"467\" alt=\"A blue heeler half asleep on the floor. His head is resting on a pillow with one eye barely cracked open. \">\n",
-				"content_text": "📸 Entry for #mbapr Day 16 - flâneur. This actually my friend’s dog, but he is a loafer. \n\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/3a5dd17900.jpg\" width=\"600\" height=\"467\" alt=\"A blue heeler half asleep on the floor. His head is resting on a pillow with one eye barely cracked open. \">\n",
+				"content_html": "<p>📸 Entry for #mbapr Day 16 - flâneur. This actually my friend’s dog, but he is a loafer.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/3a5dd17900.jpg\" alt=\"A blue heeler half asleep on the floor. His head is resting on a pillow with one eye barely cracked open. \" width=\"600\" height=\"467\" /></p>\n",
+				"content_text": "<p>📸 Entry for #mbapr Day 16 - flâneur. This actually my friend’s dog, but he is a loafer.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/3a5dd17900.jpg\" alt=\"A blue heeler half asleep on the floor. His head is resting on a pillow with one eye barely cracked open. \" width=\"600\" height=\"467\" /></p>\n",
 				"date_published": "2024-04-16T18:05:11-05:00",
-				"url": "https://j.manes.blog/2024/04/16/entry-for-mbapr.html"
+				"url": "https://j.manes.blog/2024/04/16/entry-for-mbapr.html",
+				"tags": ["MB"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/04/16/theyre-looting-the.html",
