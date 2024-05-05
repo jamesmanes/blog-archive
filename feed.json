@@ -7,10 +7,64 @@
 	"items": [
 		
 			{
+				"id": "http://jmanes.micro.blog/2024/04/30/lambda-looking-cool.html",
+				
+				"content_html": "<p>Lambda looking cool and collected today.</p>\n<img src=\"uploads/2024/05c9547182.jpg\" width=\"450\" height=\"600\" alt=\"A guinea pig named lambda sitting inside of a wooden hut. Her two front legs are sticking straight out as she stares into the camera from the huts opening. \">\n",
+				"content_text": "Lambda looking cool and collected today. \n\n<img src=\"uploads/2024/05c9547182.jpg\" width=\"450\" height=\"600\" alt=\"A guinea pig named lambda sitting inside of a wooden hut. Her two front legs are sticking straight out as she stares into the camera from the huts opening. \">\n",
+				"date_published": "2024-04-30T21:55:58-05:00",
+				"url": "https://j.manes.blog/2024/04/30/lambda-looking-cool.html",
+				"tags": ["Guinea Pigs"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/04/30/another-storm-rolling.html",
+				
+				"content_html": "<p>Another storm rolling in&hellip; I love rainy season.</p>\n<img src=\"uploads/2024/ce7af04a11.jpg\" width=\"600\" height=\"450\" alt=\"A gray sky completely covered by billowy clouds. \">\n",
+				"content_text": "Another storm rolling in... I love rainy season. \n\n<img src=\"uploads/2024/ce7af04a11.jpg\" width=\"600\" height=\"450\" alt=\"A gray sky completely covered by billowy clouds. \">\n",
+				"date_published": "2024-04-30T18:32:45-05:00",
+				"url": "https://j.manes.blog/2024/04/30/another-storm-rolling.html",
+				"tags": ["Kansas City"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/04/30/entry-for-mbapr.html",
+				
+				"content_html": "<p>📸 Entry for #mbapr Day 30 - hometown. This pole was ultimately responsible for carrying my thoughts to the internet for the first time; though today, only a power line remains. I&rsquo;ll always remember when we moved from dialup to an &ldquo;ultra fast&rdquo; 1mbps.</p>\n<img src=\"uploads/2024/9a66697587.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📸 Entry for #mbapr Day 30 - hometown. This pole was ultimately responsible for carrying my thoughts to the internet for the first time; though today, only a power line remains. I'll always remember when we moved from dialup to an \"ultra fast\" 1mbps.\n\n<img src=\"uploads/2024/9a66697587.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-04-30T15:49:08-05:00",
+				"url": "https://j.manes.blog/2024/04/30/entry-for-mbapr.html",
+				"tags": ["MB"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/04/29/entry-for-mbapr.html",
+				
+				"content_html": "<p>📸 Entry for #mbapr Day 29 - drift. Taken in Navarre, FL.</p>\n<img src=\"uploads/2024/bc599105b7.jpg\" width=\"600\" height=\"450\" alt=\"Emerald green water off of the Florida gulf. The distance is foggy and the sky cannot be seen. \">\n",
+				"content_text": "📸 Entry for #mbapr Day 29 - drift. Taken in Navarre, FL. \n\n<img src=\"uploads/2024/bc599105b7.jpg\" width=\"600\" height=\"450\" alt=\"Emerald green water off of the Florida gulf. The distance is foggy and the sky cannot be seen. \">\n",
+				"date_published": "2024-04-29T20:50:02-05:00",
+				"url": "https://j.manes.blog/2024/04/29/entry-for-mbapr.html",
+				"tags": ["MB"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/04/28/entry-for-mbapr.html",
+				
+				"content_html": "<p>📸 Entry for #mbapr Day 28 - community. This is a panoramic shot of the Lafayette Square community in St. Louis, Missouri. I was in town for a wedding and immediately wanted to move here. It&rsquo;s walkable, by a park, and has a beautiful style. Sadly I don&rsquo;t have the $800k required to get a house there.</p>\n<img src=\"uploads/2024/85b347f160.jpg\" width=\"600\" height=\"197\" alt=\"A panoramic photo showing Lafayette Square. The buildings are originally styled to late 1800s / early 1900s; mostly made of brick. There are plenty of trees planted around the square and they are well-kept. \">\n",
+				"content_text": "📸 Entry for #mbapr Day 28 - community. This is a panoramic shot of the Lafayette Square community in St. Louis, Missouri. I was in town for a wedding and immediately wanted to move here. It's walkable, by a park, and has a beautiful style. Sadly I don't have the $800k required to get a house there.\n\n<img src=\"uploads/2024/85b347f160.jpg\" width=\"600\" height=\"197\" alt=\"A panoramic photo showing Lafayette Square. The buildings are originally styled to late 1800s / early 1900s; mostly made of brick. There are plenty of trees planted around the square and they are well-kept. \">\n",
+				"date_published": "2024-04-28T12:35:48-05:00",
+				"url": "https://j.manes.blog/2024/04/28/entry-for-mbapr.html",
+				"tags": ["MB"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/04/27/entry-for-mbapr.html",
+				
+				"content_html": "<p>📸 Entry for #mbapr Day 27 - surprise. A tornado watch is suddenly rolling in. Keeping an eye on it while catching up on <a href=\"https://micro.blog/coreint\">@coreint</a>.</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/1690f7f085.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📸 Entry for #mbapr Day 27 - surprise. A tornado watch is suddenly rolling in. Keeping an eye on it while catching up on [@coreint](https://micro.blog/coreint). \n\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/1690f7f085.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-04-27T17:19:58-05:00",
+				"url": "https://j.manes.blog/2024/04/27/entry-for-mbapr.html",
+				"tags": ["MB","Kansas City"]
+			},
+			{
 				"id": "http://jmanes.micro.blog/2024/04/26/view-of-kansas.html",
 				
-				"content_html": "<p>View of Kansas City from the Boulevard Beer Hall deck.</p>\n<img src=\"uploads/2024/763abad97e.jpg\" width=\"600\" height=\"450\" alt=\"A skyline view of Kansas City right on the eve of sunset. The buildings are lit up in blue. \">\n",
-				"content_text": "View of Kansas City from the Boulevard Beer Hall deck. \n\n<img src=\"uploads/2024/763abad97e.jpg\" width=\"600\" height=\"450\" alt=\"A skyline view of Kansas City right on the eve of sunset. The buildings are lit up in blue. \">\n",
+				"content_html": "<p>View of Kansas City from the Boulevard Beer Hall deck.</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/763abad97e.jpg\" width=\"600\" height=\"450\" alt=\"A skyline view of Kansas City right on the eve of sunset. The buildings are lit up in blue. \">\n",
+				"content_text": "View of Kansas City from the Boulevard Beer Hall deck. \n\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/763abad97e.jpg\" width=\"600\" height=\"450\" alt=\"A skyline view of Kansas City right on the eve of sunset. The buildings are lit up in blue. \">\n",
 				"date_published": "2024-04-26T21:36:07-05:00",
 				"url": "https://j.manes.blog/2024/04/26/view-of-kansas.html",
 				"tags": ["Kansas City"]
@@ -18,10 +72,11 @@
 			{
 				"id": "http://jmanes.micro.blog/2024/04/26/entry-for-mbapr.html",
 				
-				"content_html": "<p>📸 Entry for #mbapr Day 26 - critter. Sometimes they pack in there together… not sure how this is comfortable.</p>\n<img src=\"uploads/2024/d26bf5a404.jpg\" width=\"600\" height=\"450\" alt=\"Two Guinea pigs packed into a small hut. \">\n",
-				"content_text": "📸 Entry for #mbapr Day 26 - critter. Sometimes they pack in there together… not sure how this is comfortable. \n\n<img src=\"uploads/2024/d26bf5a404.jpg\" width=\"600\" height=\"450\" alt=\"Two Guinea pigs packed into a small hut. \">\n",
+				"content_html": "<p>📸 Entry for #mbapr Day 26 - critter. Sometimes they pack in there together… not sure how this is comfortable.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/d26bf5a404.jpg\" alt=\"Two Guinea pigs packed into a small hut. \" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "<p>📸 Entry for #mbapr Day 26 - critter. Sometimes they pack in there together… not sure how this is comfortable.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/d26bf5a404.jpg\" alt=\"Two Guinea pigs packed into a small hut. \" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2024-04-26T20:04:34-05:00",
-				"url": "https://j.manes.blog/2024/04/26/entry-for-mbapr.html"
+				"url": "https://j.manes.blog/2024/04/26/entry-for-mbapr.html",
+				"tags": ["MB"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/04/26/kubernetes-is-starting.html",
@@ -35,8 +90,8 @@
 			{
 				"id": "http://jmanes.micro.blog/2024/04/25/entry-for-mbapr.html",
 				
-				"content_html": "<p>📸 Entry for #mbapr Day 25 - spine. Think about yours, and get a standing desk. :)</p>\n<img src=\"uploads/2024/947c357a4f.jpg\" width=\"600\" height=\"534\" alt=\"\">\n",
-				"content_text": "📸 Entry for #mbapr Day 25 - spine. Think about yours, and get a standing desk. :) \n\n<img src=\"uploads/2024/947c357a4f.jpg\" width=\"600\" height=\"534\" alt=\"\">\n",
+				"content_html": "<p>📸 Entry for #mbapr Day 25 - spine. Think about yours, and get a standing desk. :)</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/947c357a4f.jpg\" width=\"600\" height=\"534\" alt=\"\">\n",
+				"content_text": "📸 Entry for #mbapr Day 25 - spine. Think about yours, and get a standing desk. :) \n\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/947c357a4f.jpg\" width=\"600\" height=\"534\" alt=\"\">\n",
 				"date_published": "2024-04-25T21:26:36-05:00",
 				"url": "https://j.manes.blog/2024/04/25/entry-for-mbapr.html",
 				"tags": ["MB"]
@@ -53,8 +108,8 @@
 			{
 				"id": "http://jmanes.micro.blog/2024/04/24/entry-for-mbapr.html",
 				
-				"content_html": "<p>📸 Entry for #mbapr Day 24 - light.</p>\n<p><img src=\"uploads/2024/42845d5481.jpg\" alt=\"A small bird balancing on top of a street light. The sky in the background is bright blue. \" width=\"600\" height=\"550\" /></p>\n",
-				"content_text": "<p>📸 Entry for #mbapr Day 24 - light.</p>\n<p><img src=\"uploads/2024/42845d5481.jpg\" alt=\"A small bird balancing on top of a street light. The sky in the background is bright blue. \" width=\"600\" height=\"550\" /></p>\n",
+				"content_html": "<p>📸 Entry for #mbapr Day 24 - light.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/42845d5481.jpg\" alt=\"A small bird balancing on top of a street light. The sky in the background is bright blue. \" width=\"600\" height=\"550\" /></p>\n",
+				"content_text": "<p>📸 Entry for #mbapr Day 24 - light.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/42845d5481.jpg\" alt=\"A small bird balancing on top of a street light. The sky in the background is bright blue. \" width=\"600\" height=\"550\" /></p>\n",
 				"date_published": "2024-04-24T17:24:20-05:00",
 				"url": "https://j.manes.blog/2024/04/24/entry-for-mbapr.html",
 				"tags": ["MB"]
@@ -62,8 +117,8 @@
 			{
 				"id": "http://jmanes.micro.blog/2024/04/23/entry-for-mbapr.html",
 				
-				"content_html": "<p>📸 Entry for #mbapr Day 23 - dreamy.</p>\n<p><img src=\"uploads/2024/5b013c5fed.jpg\" alt=\"The evening sky. It is pale blue, with the sun already set. There are clouds obscuring the moon, but its brightness shines through. \" width=\"600\" height=\"450\" /></p>\n",
-				"content_text": "<p>📸 Entry for #mbapr Day 23 - dreamy.</p>\n<p><img src=\"uploads/2024/5b013c5fed.jpg\" alt=\"The evening sky. It is pale blue, with the sun already set. There are clouds obscuring the moon, but its brightness shines through. \" width=\"600\" height=\"450\" /></p>\n",
+				"content_html": "<p>📸 Entry for #mbapr Day 23 - dreamy.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/5b013c5fed.jpg\" alt=\"The evening sky. It is pale blue, with the sun already set. There are clouds obscuring the moon, but its brightness shines through. \" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "<p>📸 Entry for #mbapr Day 23 - dreamy.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/5b013c5fed.jpg\" alt=\"The evening sky. It is pale blue, with the sun already set. There are clouds obscuring the moon, but its brightness shines through. \" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2024-04-23T18:26:16-05:00",
 				"url": "https://j.manes.blog/2024/04/23/entry-for-mbapr.html",
 				"tags": ["MB"]
