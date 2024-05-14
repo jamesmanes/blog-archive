@@ -7,10 +7,72 @@
 	"items": [
 		
 			{
+				"id": "http://jmanes.micro.blog/2024/05/14/on-the-topic.html",
+				
+				"content_html": "<p>On the topic of Google I/O, I am not interested in the things they are pitching. None of this LLM/AI/etc jargon sounds compelling or useful to me. I&rsquo;m sure it sounds compelling for misinformation creators, though. 🥴</p>\n",
+				"content_text": "On the topic of Google I/O, I am not interested in the things they are pitching. None of this LLM/AI/etc jargon sounds compelling or useful to me. I'm sure it sounds compelling for misinformation creators, though. 🥴\n",
+				"date_published": "2024-05-14T13:13:19-05:00",
+				"url": "https://j.manes.blog/2024/05/14/on-the-topic.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/05/08/woke-up-to.html",
+				
+				"content_html": "<p>Woke up to Telegram&rsquo;s founder, Durov, slinging mud at Signal in a most predictable fashion. He isn&rsquo;t very convincing.</p>\n",
+				"content_text": "Woke up to Telegram's founder, Durov, slinging mud at Signal in a most predictable fashion. He isn't very convincing. \n",
+				"date_published": "2024-05-08T11:55:10-05:00",
+				"url": "https://j.manes.blog/2024/05/08/woke-up-to.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/05/07/decided-to-pick.html",
+				
+				"content_html": "<p>Decided to pick up a base model no-frills iPad 10th gen. For $350 it’s a good deal. It will live its life as an e-reader.</p>\n",
+				"content_text": "Decided to pick up a base model no-frills iPad 10th gen. For $350 it’s a good deal. It will live its life as an e-reader. \n",
+				"date_published": "2024-05-07T19:02:24-05:00",
+				"url": "https://j.manes.blog/2024/05/07/decided-to-pick.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/05/07/accountability-as-a.html",
+				"title": "Accountability as a Requirement",
+				"content_html": "<p>For those of you who do not know, I work at Oracle on their health platform. I’ve been working with this particular platform for my entire career; about nine years. There has been a lot of talk about AI in the health industry lately, and Oracle is exploring these options just as our competitors are. There are some interesting ideas being floated in this space, but generating code with AI to then ship to clients is currently not one of them. Technologies like GitHub Copilot (do they still call it that?) are not to be leveraged. The code is being crafted by hand, by humans.</p>\n<p>If you’re wondering why this is, and why the code “AI” autogen technology isn’t sticking in this segment of the industry, it all comes down to accountability. The temptations to give a junior developer a gen AI tool and let them loose at a lower pay grade may be tempting for some managerial accountant types, but not tempting enough to summon the inevitable consequences. Software written for medical usage has weight. There are clear moral implications involved, and maybe more importantly to a business’s perspective, an entity that will ensure one is acting consistently. This entity is known as the United States government. To understand this further, let’s look into the engineering process, and how code is written and shipped in a medical context. </p>\n<h2>1. A process is required that can be audited by the government</h2>\n<p>This one is big. Audits <em>can</em> happen at random throughout the year, and will <em>definitely</em> happen if the product being shipped ends up causing medical or financial trouble at a health institution. Teams have some flexibility as to how they define their process, but it needs to be repeatable and essentially bulletproof. This is done entirley to hold the teams accountable for their actions. If a bad defect is shipped, there will be specific requirements written about the defect, and tests will be written specific to that defect flow to ensure it never happens again. And yes, these tests will be ran against just about every build of the product going forward. I have seen regression tests in place that were written well over a decade ago. <em>Never again</em> is the theme here.</p>\n<h2>2. Requirements, requirements, requirements… and tech design</h2>\n<p>The world of Agile development exists where we are, but not to the ends of being fast and loose. Before beginning, one needs to agree on requirements; real requirements, written by humans, and <em>verified</em> by a tracing mechanism. Sometimes tracing can look like manual screenshots of an application workflow from end-to-end, other times it can be an integration test that lists a specific requirement ID from the documentation and gives a pass/fail result. Team members must then sign off on the work done via form before things are shipped. All of these steps are to hold teams accountable for what they ship (notice a trend here?). There are many critics that claim this part of the process is antiquated, slow, and striclty a waterfall ideology. When I hear these critiques I will reply: “antiquated, slow, waterfall, <em>but</em> <em>done correctly.</em>”  </p>\n<h2>3. Root cause analysis</h2>\n<p>The worst and most rare defects that one could ship will require homework to be done. Fixing the defect and shipping the fix is not enough. Something simiilar to a white paper will be drafted in the most serious of cases, outlining what went wrong, why it went wrong, and how it is to be fixed. This process could take days depending on the complexity of the defect shipped. Multiple engineers, tests analysts and managers will be involved. Medical institutions need assurance that the right thing is being done. The government needs to ensure that the parties involved will be held accountable. There is no abstracted layer of bullshit here; accountability is due.</p>\n<p>The above text is a brief rundown of the overall picture. It should be enough to get the point across about AI generated code, though. That is, it simply will not fly when accountability is a requirement. No one wants to sign off on code that was generated by an AI if it cannot be fully explained. If the code can be fully explained, it likely won’t adhere to the requirements. If it can be fully explained and adheres to the requirements, it will not hold its own against an audit in the event of a defect. Stating that a piece of code was AI generated as a defense in the face of an audit is not an acceptable position, it is a fireable offense. </p>\n",
+				"content_text": "<p>For those of you who do not know, I work at Oracle on their health platform. I’ve been working with this particular platform for my entire career; about nine years. There has been a lot of talk about AI in the health industry lately, and Oracle is exploring these options just as our competitors are. There are some interesting ideas being floated in this space, but generating code with AI to then ship to clients is currently not one of them. Technologies like GitHub Copilot (do they still call it that?) are not to be leveraged. The code is being crafted by hand, by humans.</p>\n<p>If you’re wondering why this is, and why the code “AI” autogen technology isn’t sticking in this segment of the industry, it all comes down to accountability. The temptations to give a junior developer a gen AI tool and let them loose at a lower pay grade may be tempting for some managerial accountant types, but not tempting enough to summon the inevitable consequences. Software written for medical usage has weight. There are clear moral implications involved, and maybe more importantly to a business’s perspective, an entity that will ensure one is acting consistently. This entity is known as the United States government. To understand this further, let’s look into the engineering process, and how code is written and shipped in a medical context. </p>\n<h2>1. A process is required that can be audited by the government</h2>\n<p>This one is big. Audits <em>can</em> happen at random throughout the year, and will <em>definitely</em> happen if the product being shipped ends up causing medical or financial trouble at a health institution. Teams have some flexibility as to how they define their process, but it needs to be repeatable and essentially bulletproof. This is done entirley to hold the teams accountable for their actions. If a bad defect is shipped, there will be specific requirements written about the defect, and tests will be written specific to that defect flow to ensure it never happens again. And yes, these tests will be ran against just about every build of the product going forward. I have seen regression tests in place that were written well over a decade ago. <em>Never again</em> is the theme here.</p>\n<h2>2. Requirements, requirements, requirements… and tech design</h2>\n<p>The world of Agile development exists where we are, but not to the ends of being fast and loose. Before beginning, one needs to agree on requirements; real requirements, written by humans, and <em>verified</em> by a tracing mechanism. Sometimes tracing can look like manual screenshots of an application workflow from end-to-end, other times it can be an integration test that lists a specific requirement ID from the documentation and gives a pass/fail result. Team members must then sign off on the work done via form before things are shipped. All of these steps are to hold teams accountable for what they ship (notice a trend here?). There are many critics that claim this part of the process is antiquated, slow, and striclty a waterfall ideology. When I hear these critiques I will reply: “antiquated, slow, waterfall, <em>but</em> <em>done correctly.</em>”  </p>\n<h2>3. Root cause analysis</h2>\n<p>The worst and most rare defects that one could ship will require homework to be done. Fixing the defect and shipping the fix is not enough. Something simiilar to a white paper will be drafted in the most serious of cases, outlining what went wrong, why it went wrong, and how it is to be fixed. This process could take days depending on the complexity of the defect shipped. Multiple engineers, tests analysts and managers will be involved. Medical institutions need assurance that the right thing is being done. The government needs to ensure that the parties involved will be held accountable. There is no abstracted layer of bullshit here; accountability is due.</p>\n<p>The above text is a brief rundown of the overall picture. It should be enough to get the point across about AI generated code, though. That is, it simply will not fly when accountability is a requirement. No one wants to sign off on code that was generated by an AI if it cannot be fully explained. If the code can be fully explained, it likely won’t adhere to the requirements. If it can be fully explained and adheres to the requirements, it will not hold its own against an audit in the event of a defect. Stating that a piece of code was AI generated as a defense in the face of an audit is not an acceptable position, it is a fireable offense. </p>\n",
+				"date_published": "2024-05-07T14:08:50-05:00",
+				"url": "https://j.manes.blog/2024/05/07/accountability-as-a.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/05/06/watching-the-tornado.html",
+				
+				"content_html": "<p>Watching the tornado over Bartlesville. It looks brutal. Hoping my friends there are ok.</p>\n",
+				"content_text": "<p>Watching the tornado over Bartlesville. It looks brutal. Hoping my friends there are ok.</p>\n",
+				"date_published": "2024-05-06T22:07:51-05:00",
+				"url": "https://j.manes.blog/2024/05/06/watching-the-tornado.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/05/06/more-big-storms.html",
+				
+				"content_html": "<p>More big storms blowing in to Kansas City. You better believe I’m ready.</p>\n",
+				"content_text": "More big storms blowing in to Kansas City. You better believe I’m ready. \n",
+				"date_published": "2024-05-06T18:21:21-05:00",
+				"url": "https://j.manes.blog/2024/05/06/more-big-storms.html",
+				"tags": ["Kansas City"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/05/06/happy-micro-monday.html",
+				
+				"content_html": "<p>Happy Micro Monday! It&rsquo;s coffee day. Honorable mention to some of my favorite MB folks: <a href=\"https://micro.blog/petebrown\">@petebrown</a> <a href=\"https://micro.blog/val\">@val</a> and <a href=\"https://micro.blog/bryan\">@bryan</a>.</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/b9f8d48d85.jpg\" width=\"600\" height=\"449\" alt=\"A Mastodon themed mug next to a half-full Chemex branded carafe still brewing coffee. The Chemex has a paper filter funneled over the top, dripping coffee into the carafe below. \">\n",
+				"content_text": "Happy Micro Monday! It's coffee day. Honorable mention to some of my favorite MB folks: [@petebrown](https://micro.blog/petebrown) [@val](https://micro.blog/val) and [@bryan](https://micro.blog/bryan).\n\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/b9f8d48d85.jpg\" width=\"600\" height=\"449\" alt=\"A Mastodon themed mug next to a half-full Chemex branded carafe still brewing coffee. The Chemex has a paper filter funneled over the top, dripping coffee into the carafe below. \">\n",
+				"date_published": "2024-05-06T09:44:36-05:00",
+				"url": "https://j.manes.blog/2024/05/06/happy-micro-monday.html",
+				"tags": ["MB","Life"]
+			},
+			{
 				"id": "http://jmanes.micro.blog/2024/04/30/lambda-looking-cool.html",
 				
-				"content_html": "<p>Lambda looking cool and collected today.</p>\n<img src=\"uploads/2024/05c9547182.jpg\" width=\"450\" height=\"600\" alt=\"A guinea pig named lambda sitting inside of a wooden hut. Her two front legs are sticking straight out as she stares into the camera from the huts opening. \">\n",
-				"content_text": "Lambda looking cool and collected today. \n\n<img src=\"uploads/2024/05c9547182.jpg\" width=\"450\" height=\"600\" alt=\"A guinea pig named lambda sitting inside of a wooden hut. Her two front legs are sticking straight out as she stares into the camera from the huts opening. \">\n",
+				"content_html": "<p>Lambda looking cool and collected today.</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/05c9547182.jpg\" width=\"450\" height=\"600\" alt=\"A guinea pig named lambda sitting inside of a wooden hut. Her two front legs are sticking straight out as she stares into the camera from the huts opening. \">\n",
+				"content_text": "Lambda looking cool and collected today. \n\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/05c9547182.jpg\" width=\"450\" height=\"600\" alt=\"A guinea pig named lambda sitting inside of a wooden hut. Her two front legs are sticking straight out as she stares into the camera from the huts opening. \">\n",
 				"date_published": "2024-04-30T21:55:58-05:00",
 				"url": "https://j.manes.blog/2024/04/30/lambda-looking-cool.html",
 				"tags": ["Guinea Pigs"]
@@ -18,8 +80,8 @@
 			{
 				"id": "http://jmanes.micro.blog/2024/04/30/another-storm-rolling.html",
 				
-				"content_html": "<p>Another storm rolling in&hellip; I love rainy season.</p>\n<img src=\"uploads/2024/ce7af04a11.jpg\" width=\"600\" height=\"450\" alt=\"A gray sky completely covered by billowy clouds. \">\n",
-				"content_text": "Another storm rolling in... I love rainy season. \n\n<img src=\"uploads/2024/ce7af04a11.jpg\" width=\"600\" height=\"450\" alt=\"A gray sky completely covered by billowy clouds. \">\n",
+				"content_html": "<p>Another storm rolling in&hellip; I love rainy season.</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/ce7af04a11.jpg\" width=\"600\" height=\"450\" alt=\"A gray sky completely covered by billowy clouds. \">\n",
+				"content_text": "Another storm rolling in... I love rainy season. \n\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/ce7af04a11.jpg\" width=\"600\" height=\"450\" alt=\"A gray sky completely covered by billowy clouds. \">\n",
 				"date_published": "2024-04-30T18:32:45-05:00",
 				"url": "https://j.manes.blog/2024/04/30/another-storm-rolling.html",
 				"tags": ["Kansas City"]
@@ -27,8 +89,8 @@
 			{
 				"id": "http://jmanes.micro.blog/2024/04/30/entry-for-mbapr.html",
 				
-				"content_html": "<p>📸 Entry for #mbapr Day 30 - hometown. This pole was ultimately responsible for carrying my thoughts to the internet for the first time; though today, only a power line remains. I&rsquo;ll always remember when we moved from dialup to an &ldquo;ultra fast&rdquo; 1mbps.</p>\n<img src=\"uploads/2024/9a66697587.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"content_text": "📸 Entry for #mbapr Day 30 - hometown. This pole was ultimately responsible for carrying my thoughts to the internet for the first time; though today, only a power line remains. I'll always remember when we moved from dialup to an \"ultra fast\" 1mbps.\n\n<img src=\"uploads/2024/9a66697587.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>📸 Entry for #mbapr Day 30 - hometown. This pole was ultimately responsible for carrying my thoughts to the internet for the first time; though today, only a power line remains. I&rsquo;ll always remember when we moved from dialup to an &ldquo;ultra fast&rdquo; 1mbps.</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/9a66697587.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📸 Entry for #mbapr Day 30 - hometown. This pole was ultimately responsible for carrying my thoughts to the internet for the first time; though today, only a power line remains. I'll always remember when we moved from dialup to an \"ultra fast\" 1mbps.\n\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/9a66697587.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-30T15:49:08-05:00",
 				"url": "https://j.manes.blog/2024/04/30/entry-for-mbapr.html",
 				"tags": ["MB"]
@@ -36,8 +98,8 @@
 			{
 				"id": "http://jmanes.micro.blog/2024/04/29/entry-for-mbapr.html",
 				
-				"content_html": "<p>📸 Entry for #mbapr Day 29 - drift. Taken in Navarre, FL.</p>\n<img src=\"uploads/2024/bc599105b7.jpg\" width=\"600\" height=\"450\" alt=\"Emerald green water off of the Florida gulf. The distance is foggy and the sky cannot be seen. \">\n",
-				"content_text": "📸 Entry for #mbapr Day 29 - drift. Taken in Navarre, FL. \n\n<img src=\"uploads/2024/bc599105b7.jpg\" width=\"600\" height=\"450\" alt=\"Emerald green water off of the Florida gulf. The distance is foggy and the sky cannot be seen. \">\n",
+				"content_html": "<p>📸 Entry for #mbapr Day 29 - drift. Taken in Navarre, FL.</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/bc599105b7.jpg\" width=\"600\" height=\"450\" alt=\"Emerald green water off of the Florida gulf. The distance is foggy and the sky cannot be seen. \">\n",
+				"content_text": "📸 Entry for #mbapr Day 29 - drift. Taken in Navarre, FL. \n\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/bc599105b7.jpg\" width=\"600\" height=\"450\" alt=\"Emerald green water off of the Florida gulf. The distance is foggy and the sky cannot be seen. \">\n",
 				"date_published": "2024-04-29T20:50:02-05:00",
 				"url": "https://j.manes.blog/2024/04/29/entry-for-mbapr.html",
 				"tags": ["MB"]
@@ -45,8 +107,8 @@
 			{
 				"id": "http://jmanes.micro.blog/2024/04/28/entry-for-mbapr.html",
 				
-				"content_html": "<p>📸 Entry for #mbapr Day 28 - community. This is a panoramic shot of the Lafayette Square community in St. Louis, Missouri. I was in town for a wedding and immediately wanted to move here. It&rsquo;s walkable, by a park, and has a beautiful style. Sadly I don&rsquo;t have the $800k required to get a house there.</p>\n<img src=\"uploads/2024/85b347f160.jpg\" width=\"600\" height=\"197\" alt=\"A panoramic photo showing Lafayette Square. The buildings are originally styled to late 1800s / early 1900s; mostly made of brick. There are plenty of trees planted around the square and they are well-kept. \">\n",
-				"content_text": "📸 Entry for #mbapr Day 28 - community. This is a panoramic shot of the Lafayette Square community in St. Louis, Missouri. I was in town for a wedding and immediately wanted to move here. It's walkable, by a park, and has a beautiful style. Sadly I don't have the $800k required to get a house there.\n\n<img src=\"uploads/2024/85b347f160.jpg\" width=\"600\" height=\"197\" alt=\"A panoramic photo showing Lafayette Square. The buildings are originally styled to late 1800s / early 1900s; mostly made of brick. There are plenty of trees planted around the square and they are well-kept. \">\n",
+				"content_html": "<p>📸 Entry for #mbapr Day 28 - community. This is a panoramic shot of the Lafayette Square community in St. Louis, Missouri. I was in town for a wedding and immediately wanted to move here. It&rsquo;s walkable, by a park, and has a beautiful style. Sadly I don&rsquo;t have the $800k required to get a house there.</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/85b347f160.jpg\" width=\"600\" height=\"197\" alt=\"A panoramic photo showing Lafayette Square. The buildings are originally styled to late 1800s / early 1900s; mostly made of brick. There are plenty of trees planted around the square and they are well-kept. \">\n",
+				"content_text": "📸 Entry for #mbapr Day 28 - community. This is a panoramic shot of the Lafayette Square community in St. Louis, Missouri. I was in town for a wedding and immediately wanted to move here. It's walkable, by a park, and has a beautiful style. Sadly I don't have the $800k required to get a house there.\n\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/85b347f160.jpg\" width=\"600\" height=\"197\" alt=\"A panoramic photo showing Lafayette Square. The buildings are originally styled to late 1800s / early 1900s; mostly made of brick. There are plenty of trees planted around the square and they are well-kept. \">\n",
 				"date_published": "2024-04-28T12:35:48-05:00",
 				"url": "https://j.manes.blog/2024/04/28/entry-for-mbapr.html",
 				"tags": ["MB"]
