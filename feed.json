@@ -7,6 +7,48 @@
 	"items": [
 		
 			{
+				"id": "http://jmanes.micro.blog/2024/05/20/an-interesting-excerpt.html",
+				
+				"content_html": "<p>An interesting excerpt from History of the Russian Revolution by Leon Trotsky.</p>\n<blockquote>\n<p>“Each successive religion has created no new mythology, but has merely repersonified the superstitions of the past. In the same manner philosophical systems are created, and doctrines of law and morals. Separate individuals, even those possessed of genius, develop in the same inharmonious way as the society which nourishes them. A bold imagination lives in the same skull with a slavish adherence to trite images. Audacious flights reconcile themselves with crude prejudices. Shakespeare nourished his creative genius upon subjects handed down from the deep ages. Pascal used the theory of probability to demonstrate the existence of God. Newton discovered the law of gravitation and believed in the Apocalypse. After Marconi had established a wireless station in the residence of the pope, the vicar of Christ distributed his mystic blessing by radio. In ordinary times these contradictions do not rise above a condition of drowsiness, but in times of catastrophe they acquire explosive force. When it comes to a threat against their material interests, the educated classes set in motion all the prejudices and confusion that humanity is dragging in its wagon-train behind it.”</p>\n</blockquote>\n",
+				"content_text": "An interesting excerpt from History of the Russian Revolution by Leon Trotsky.\n\n> “Each successive religion has created no new mythology, but has merely repersonified the superstitions of the past. In the same manner philosophical systems are created, and doctrines of law and morals. Separate individuals, even those possessed of genius, develop in the same inharmonious way as the society which nourishes them. A bold imagination lives in the same skull with a slavish adherence to trite images. Audacious flights reconcile themselves with crude prejudices. Shakespeare nourished his creative genius upon subjects handed down from the deep ages. Pascal used the theory of probability to demonstrate the existence of God. Newton discovered the law of gravitation and believed in the Apocalypse. After Marconi had established a wireless station in the residence of the pope, the vicar of Christ distributed his mystic blessing by radio. In ordinary times these contradictions do not rise above a condition of drowsiness, but in times of catastrophe they acquire explosive force. When it comes to a threat against their material interests, the educated classes set in motion all the prejudices and confusion that humanity is dragging in its wagon-train behind it.”\n",
+				"date_published": "2024-05-20T21:45:56-05:00",
+				"url": "https://j.manes.blog/2024/05/20/an-interesting-excerpt.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/05/18/aarp-membership-is.html",
+				
+				"content_html": "<p>AARP membership is like herpes. Once you sign up you will never get rid of that shit.</p>\n",
+				"content_text": "AARP membership is like herpes. Once you sign up you will never get rid of that shit.\n",
+				"date_published": "2024-05-18T19:18:23-05:00",
+				"url": "https://j.manes.blog/2024/05/18/aarp-membership-is.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/05/18/lawrence-ks-bookstore.html",
+				
+				"content_html": "<p>Lawrence KS bookstore day.</p>\n<p><img src=\"uploads/2024/8753d07fa1.jpg\" width=\"600\" height=\"450\" alt=\"Various bookshelves up against a wall in a book store filled with books. \"><img src=\"uploads/2024/b99f8d662d.jpg\" width=\"600\" height=\"450\" alt=\"Various knick-knacks at the book store that are Lawrence KS themed. Stickers, flags, and cup holders with “Lawrence KS” printed on them can be seen. \"></p>\n",
+				"content_text": "Lawrence KS bookstore day.\n\n<img src=\"uploads/2024/8753d07fa1.jpg\" width=\"600\" height=\"450\" alt=\"Various bookshelves up against a wall in a book store filled with books. \"><img src=\"uploads/2024/b99f8d662d.jpg\" width=\"600\" height=\"450\" alt=\"Various knick-knacks at the book store that are Lawrence KS themed. Stickers, flags, and cup holders with “Lawrence KS” printed on them can be seen. \">\n",
+				"date_published": "2024-05-18T15:03:56-05:00",
+				"url": "https://j.manes.blog/2024/05/18/lawrence-ks-bookstore.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/05/17/the-latest-report.html",
+				
+				"content_html": "<blockquote>\n<p>The latest report suggests that the erased and sold ‌iPad‌ is somehow restoring old photos from an Apple ID that is no longer signed in to it.</p>\n</blockquote>\n<p>This will be interesting. If the bug is iCloud related, could it be trivially patched server-side? Or is it impossible to undo once the improper photos are mangled into the new user&rsquo;s account?</p>\n<p>How about those of us that have advanced security which determines the photos to be e2ee? I have a lot of questions.</p>\n<p><a href=\"https://www.macrumors.com/2024/05/17/ios-17-5-bug-wiped-devices-photos-resurfacing\">www.macrumors.com/2024/05/1&hellip;</a></p>\n",
+				"content_text": "> The latest report suggests that the erased and sold ‌iPad‌ is somehow restoring old photos from an Apple ID that is no longer signed in to it.\n\nThis will be interesting. If the bug is iCloud related, could it be trivially patched server-side? Or is it impossible to undo once the improper photos are mangled into the new user's account?\n\nHow about those of us that have advanced security which determines the photos to be e2ee? I have a lot of questions.\n\n[www.macrumors.com/2024/05/1...](https://www.macrumors.com/2024/05/17/ios-17-5-bug-wiped-devices-photos-resurfacing)\n",
+				"date_published": "2024-05-17T15:13:33-05:00",
+				"url": "https://j.manes.blog/2024/05/17/the-latest-report.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/05/16/new-rolling-cart.html",
+				
+				"content_html": "<p>New rolling cart for the desk! One of the better purchases I have made.</p>\n<img src=\"uploads/2024/5954f2e998.jpg\" width=\"600\" height=\"450\" alt=\"A photo of my desk. To the right of the desk is a 2-foot high double-deck cart. The cart is narrow and slides right under the right edge of the desk. \">\n",
+				"content_text": "New rolling cart for the desk! One of the better purchases I have made.\n\n<img src=\"uploads/2024/5954f2e998.jpg\" width=\"600\" height=\"450\" alt=\"A photo of my desk. To the right of the desk is a 2-foot high double-deck cart. The cart is narrow and slides right under the right edge of the desk. \">\n",
+				"date_published": "2024-05-16T13:50:56-05:00",
+				"url": "https://j.manes.blog/2024/05/16/new-rolling-cart.html",
+				"tags": ["Tech"]
+			},
+			{
 				"id": "http://jmanes.micro.blog/2024/05/14/on-the-topic.html",
 				
 				"content_html": "<p>On the topic of Google I/O, I am not interested in the things they are pitching. None of this LLM/AI/etc jargon sounds compelling or useful to me. I&rsquo;m sure it sounds compelling for misinformation creators, though. 🥴</p>\n",
