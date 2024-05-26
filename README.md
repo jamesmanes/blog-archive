@@ -1,2 +1,3 @@
 # Blog Archive
-An archive of jmanes.blog.
+
+An archive of https://j.manes.blog
