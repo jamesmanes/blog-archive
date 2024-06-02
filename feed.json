@@ -7,12 +7,90 @@
 	"items": [
 		
 			{
+				"id": "http://jmanes.micro.blog/2024/06/01/i-see-that.html",
+				
+				"content_html": "<p>I see that GrubHub+ now comes with Amazon Prime… as if this company could not become any more all-encompassing.</p>\n",
+				"content_text": "I see that GrubHub+ now comes with Amazon Prime… as if this company could not become any more all-encompassing. \n",
+				"date_published": "2024-06-01T20:38:04-05:00",
+				"url": "https://j.manes.blog/2024/06/01/i-see-that.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/05/31/composing-an-escape.html",
+				
+				"content_html": "<p>Composing an escape plan in the anticipation of Apple adopting OpenAI into its OS/apps. Hopefully they will be in control of where/how the data is used. No point in having &ldquo;advanced security&rdquo; for e2ee enabled if the OS is sitting with the keys and sending info to OpenAI servers.</p>\n",
+				"content_text": "Composing an escape plan in the anticipation of Apple adopting OpenAI into its OS/apps. Hopefully they will be in control of where/how the data is used. No point in having \"advanced security\" for e2ee enabled if the OS is sitting with the keys and sending info to OpenAI servers.\n",
+				"date_published": "2024-05-31T12:51:28-05:00",
+				"url": "https://j.manes.blog/2024/05/31/composing-an-escape.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/05/31/good-lord-my.html",
+				
+				"content_html": "<p>Good lord, my teeth are sore. Swapping to that new retainer sucked.</p>\n",
+				"content_text": "Good lord, my teeth are sore. Swapping to that new retainer sucked.\n",
+				"date_published": "2024-05-31T08:54:40-05:00",
+				"url": "https://j.manes.blog/2024/05/31/good-lord-my.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/05/30/after-i-had.html",
+				
+				"content_html": "<p>After I had invisalign completed in December of 2019, I was given four sets of identical retainers. On three of four as of today. They eventually discolor and slowly lose their shape. I guess after 2028 all bets will be off. 🫡</p>\n",
+				"content_text": "After I had invisalign completed in December of 2019, I was given four sets of identical retainers. On three of four as of today. They eventually discolor and slowly lose their shape. I guess after 2028 all bets will be off. 🫡\n",
+				"date_published": "2024-05-30T22:52:57-05:00",
+				"url": "https://j.manes.blog/2024/05/30/after-i-had.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/05/30/i-assume-trump.html",
+				
+				"content_html": "<p>I assume Trump won&rsquo;t be seeing a jail cell, and that the fines handed to him will be paid by donors. The verdict, at least, was correct. I doubt the verdict on Trump impacts the election at all.</p>\n",
+				"content_text": "I assume Trump won't be seeing a jail cell, and that the fines handed to him will be paid by donors. The verdict, at least, was correct. I doubt the verdict on Trump impacts the election at all.\n",
+				"date_published": "2024-05-30T22:24:40-05:00",
+				"url": "https://j.manes.blog/2024/05/30/i-assume-trump.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/05/29/vox-media-and.html",
+				
+				"content_html": "<p><a href=\"https://www.theverge.com/2024/5/29/24167072/openai-content-copyright-vox-media-the-atlantic\">Vox Media and The Atlantic sign content deals with OpenAI</a></p>\n<blockquote>\n<p>Vox Media will begin sharing content with OpenAI beginning next week&hellip;</p>\n</blockquote>\n<p>I&rsquo;m sure this means all of the writers will get a cut of the license costs, right? You know, the people who produce the content?</p>\n",
+				"content_text": "[Vox Media and The Atlantic sign content deals with OpenAI](https://www.theverge.com/2024/5/29/24167072/openai-content-copyright-vox-media-the-atlantic)\n\n> Vox Media will begin sharing content with OpenAI beginning next week...\n\nI'm sure this means all of the writers will get a cut of the license costs, right? You know, the people who produce the content?\n",
+				"date_published": "2024-05-29T12:01:26-05:00",
+				"url": "https://j.manes.blog/2024/05/29/vox-media-and.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/05/27/up-too-late.html",
+				
+				"content_html": "<p>Up too late thanks to the long weekend. Gonna regret this on Tuesday. 😴</p>\n",
+				"content_text": "Up too late thanks to the long weekend. Gonna regret this on Tuesday. 😴\n",
+				"date_published": "2024-05-27T02:10:58-05:00",
+				"url": "https://j.manes.blog/2024/05/27/up-too-late.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/05/27/proton-mail-reviews.html",
+				"title": "Proton Mail: Reviews and Comparisons",
+				"content_html": "<p>Up until recently, I had been using <a href=\"https://proton.me\">Proton</a> Mail (and Proton&rsquo;s other products) for all of my needs. They have a flashy suite of applications and services that tightly integrate while preserving user privacy. For example, Proton offers a password manager called Proton Pass which can create email aliases on-the-fly from <a href=\"https://simplelogin.io\">SimpleLogin</a>, a company which they acquired a few years back. Even more recently, they have &ldquo;teamed up with&rdquo; (purchased?) <a href=\"https://standardnotes.com\">Standard Notes</a> to offer an e2ee notes service. All of what Proton does is impressive. Their applications are pretty slick and they have been progressing rapidly recent years.</p>\n<h2 id=\"the-cost\">The Cost</h2>\n<p>During my use of Proton&rsquo;s products, I would pay bi-yearly. This costs around $190 for 24 months of service, which is actually a highly competitive price for what you get. It is a mail service, calendar service, password manager, cloud storage provider, and VPN. If you were to break all of these out into separate services, it would cost more money for the same concepts. Here is how that stacks up to what I currently use:</p>\n<table>\n<thead>\n<tr>\n<th>Service</th>\n<th>Yearly Cost</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Proton</td>\n<td>$95</td>\n</tr>\n<tr>\n<td>&mdash;&mdash;&mdash;&mdash;</td>\n<td>&mdash;&mdash;&mdash;&ndash;</td>\n</tr>\n<tr>\n<td>Fastmail</td>\n<td>$50</td>\n</tr>\n<tr>\n<td>1Password</td>\n<td>$35</td>\n</tr>\n<tr>\n<td>Mullvad VPN</td>\n<td>$65</td>\n</tr>\n<tr>\n<td>iCloud Drive</td>\n<td>$120</td>\n</tr>\n</tbody>\n</table>\n<p>Proton here is listed as $95/yr, which is simply the two-year price divided by 2. The rest of the services are shown at their yearly price rates. As you can see, Proton is less than half the overall cost of the other services combined. In fact, it is closer to three times less.</p>\n<p>One caveat about the drive storage, though. Proton Drive under their &ldquo;Proton Unlimited&rdquo; plan only comes with 500 gigabytes of storage, whereas iCloud comes with two terabytes. For me, this comparison still works, because I need more than 200 gigs (iClouds next-cheapest plan), but I would be comfortable with 500. Notice that if you were to remove iCloud Drive from this picture entirely, Proton would still be cheaper.</p>\n<h2 id=\"feature-comparison\">Feature Comparison</h2>\n<p>Time to compare Proton&rsquo;s individual services with the ones listed in the table above. I&rsquo;ll do my best.</p>\n<h3 id=\"mail-calendar-and-contacts\">Mail, Calendar, and Contacts</h3>\n<p>Proton Mail, Calendar, and Contacts are end-to-end encrypted. This is its chief advantage over competitors such as Fastmail. Note that this does <em>not</em> mean it is e2ee between email senders (this would break how email works and doesn&rsquo;t make sense), but rather it means that Proton cannot read the contents of your messages. This comes with some downsides, though, such as the <em>lack of interoperability</em>. Indeed, Proton is largely a siloed ecosystem by-design. If you want to use their services, you&rsquo;ll be using either their <a href=\"https://proton.me/blog/proton-mail-desktop-app\">desktop applications</a> or a web browser. There is no other way around this.</p>\n<h4 id=\"proton-mail-vs-fastmail\">Proton Mail v.s. Fastmail</h4>\n<p>Proton Mail specifically is a joy to use. Their integration with SimpleLogin (now folded into Proton Pass) is top-shelf. The desktop app works fine, and they even offer a <a href=\"https://proton.me/mail/bridge\">bridge</a> helper application so that you can use the email client of your choice (desktop only). I really wish they would expand the bridge to offer calendar and contacts, but Proton seems more inclined to reject interoperability for their own applications.</p>\n<p>Fastmail, likewise, is a joy to use. They have a good mobile app which is <em>basically</em> required if you want to send emails using their baked-in email aliasing service (you can do it without their app, but it is a horrible experience). Unlike Proton Mail, you can also forgo using their app entirely and add your Fastmail account to iOS in settings. I do this on my iPhone and the built-in Apple Mail app works great with Fastmail.</p>\n<p>Both services offer email aliasing. Proton leverages SimpleLogin which is far more flexible and powerful than the baked-in aliasing Fastmail uses, though both approaches get the job done. I have to give the edge to Proton on email aliasing, though, as I do find myself missing SimpleLogin and its near-endless flexibility.</p>\n<p>For example, Proton&rsquo;s approach to aliasing offers the dynamic generation of aliases with a catch-all. In this workflow, while signing up for a new site, you could type in something like &ldquo;<a href=\"mailto:newsite@mydomain.email\">newsite@mydomain.email</a>&rdquo; into the email form on the sign-up page and create your account. Once the site sends an email and it hits SimpleLogin, it will dynamically create a <a href=\"mailto:newsite@mydomain.email\">newsite@mydomain.email</a> alias for you and land the contents in your inbox. No need to fumble around with an app to create an email alias beforehand. This workflow is unparalleled, and I miss it dearly.</p>\n<p>It should also be noted that in Fastmail, their aliasing for &ldquo;masked emails&rdquo; (this is what they call it) is limited to a single domain name (yes, really), and you do not get to choose the name of these aliased email addresses. If you want something like <a href=\"mailto:target@mydomain.email\">target@mydomain.email</a>, too bad. Fastmail will give you some crappy auto-generated name like <a href=\"mailto:soft.tree1923@mydomain.email\">soft.tree1923@mydomain.email</a> and you just have to deal with it. There are ways around this using their manual email address feature, which inconveniently does not get leveraged by 3rd parties looking to integrate, but that is too much info to put here. Just know that it is not ideal, I&rsquo;d give it a B-.</p>\n<h4 id=\"proton-calendar-vs-fastmail\">Proton Calendar v.s. Fastmail</h4>\n<p>Proton Calendar is not good. The calendar service is bare-bones with almost no features and it does not yet offer an <a href=\"https://www.reddit.com/r/ProtonMail/comments/11zfag4/proton_calendar_app_for_ipad\">iPad app</a>. Due to the lack of interoperability, you&rsquo;ll be stuck using their standalone Proton Calendar iOS app or a web browser. Proton calendar exists, that is about the only good thing I can say about it.</p>\n<p>Fastmail&rsquo;s calendar is great. It does everything you&rsquo;d expect from a modern calendar service and fully interops with the calendar client of your choice on both mobile and desktop. It also allows you to manage any Google calendars you might have right through Fastmail, which is great if you have family members in the Google ecosystem with shared calendars. I can make changes in my Apple Calendar application and have it update a Google calendar <em>through</em> Fastmail. I am never juggling multiple accounts on any of my devices. All is done through Fastmail thanks to integrations like these.</p>\n<h4 id=\"proton-contacts-vs-fastmail\">Proton Contacts v.s. Fastmail</h4>\n<p>There is no contacts application or integration for Proton. For those of us that actually use our contacts across multiple devices, this really sucks. Contacts in Proton exist as an afterthought, or maybe more generously, a means to an end that kinda-sorta exists only within the context of emailing people. According to their <a href=\"https://proton.me/support/proton-contacts-mobile\">support page</a> they are working to make contacts better, but for now it stinks.</p>\n<p>Fastmail&rsquo;s contacts are great. Again, it does everything you&rsquo;d expect, and you can use the client of your choice on both mobile and desktop.</p>\n<h3 id=\"password-manager-proton-pass-vs-1password\">Password Manager (Proton Pass v.s. 1Password)</h3>\n<p>Let&rsquo;s make this quick. In every way possible, 1Password wins. Proton Pass is decent, but as of writing, it does not support <a href=\"https://www.reddit.com/r/ProtonPass/comments/14m7u1i/comment/jq0e5y0/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button\">Safari</a> which is awful for Mac users. It also does not yet have desktop applications for macOS or Linux. Their website shows &ldquo;coming soon,&rdquo; but who knows how long that will take. Proton Pass does have baked in email alias generation through SimpleLogin, but 1Password <a href=\"https://www.fastmail.com/1password/\">supports email alias generation</a> with Fastmail; so there you go.</p>\n<h3 id=\"vpn-proton-vpn-vs-mullvad\">VPN (Proton VPN v.s. Mullvad)</h3>\n<p>Both offerings here are great. I have used both extensively, and I enjoy both. I will say Mullvad has far better support for Linux than Proton does, and Mullvad also supports IPv6, <a href=\"https://protonmail.uservoice.com/forums/932836-proton-vpn/suggestions/43849329-ipv6-support\">unlike Proton VPN</a>. Unless those two gaps are dealbreakers for you, Proton VPN is an equal match with Mullvad.</p>\n<h3 id=\"cloud-storage-proton-drive-vs-whatever\">Cloud Storage (Proton Drive v.s. whatever)</h3>\n<p>Proton drive is fine. The desktop app on macOS, last I tried it, was quite buggy, but worked pretty consistently after a few updates. For Apple inclined folks, iCloud drive is the better play. You can achieve e2ee in iCloud using <a href=\"https://support.apple.com/en-us/108756\">Advanced Data Protection</a>, so it is not like you are missing out on any ground-breaking concepts. iCloud storage space also comes with the benefit of supporting your iCloud photo library, which again, is e2ee with Advanced Data Protection turned on.</p>\n<h2 id=\"summary\">Summary</h2>\n<p>Well, there you have it. The overall cost of combining services is nearly 3x the price of Proton, but the experience that you get in return is overall better. I believe this is due to the so-called <a href=\"https://en.wikipedia.org/wiki/Unix_philosophy\">UNIX philosophy</a> of &ldquo;do one thing and do it well.&rdquo; It costs more to purchase individual services that are hyper-focused on what they do, but the user experience is certainly more rewarding.</p>\n",
+				"content_text": "Up until recently, I had been using [Proton](https://proton.me) Mail (and Proton's other products) for all of my needs. They have a flashy suite of applications and services that tightly integrate while preserving user privacy. For example, Proton offers a password manager called Proton Pass which can create email aliases on-the-fly from [SimpleLogin](https://simplelogin.io), a company which they acquired a few years back. Even more recently, they have \"teamed up with\" (purchased?) [Standard Notes](https://standardnotes.com) to offer an e2ee notes service. All of what Proton does is impressive. Their applications are pretty slick and they have been progressing rapidly recent years.\n\n## The Cost\n\nDuring my use of Proton's products, I would pay bi-yearly. This costs around $190 for 24 months of service, which is actually a highly competitive price for what you get. It is a mail service, calendar service, password manager, cloud storage provider, and VPN. If you were to break all of these out into separate services, it would cost more money for the same concepts. Here is how that stacks up to what I currently use:\n\n| Service      | Yearly Cost |\n| ------------ | ----------- |\n| Proton       |         $95 |\n| ------------ | ----------- |\n| Fastmail     |         $50 |\n| 1Password    |         $35 |\n| Mullvad VPN  |         $65 |\n| iCloud Drive |\t\t $120 |\n\nProton here is listed as $95/yr, which is simply the two-year price divided by 2. The rest of the services are shown at their yearly price rates. As you can see, Proton is less than half the overall cost of the other services combined. In fact, it is closer to three times less.\n\nOne caveat about the drive storage, though. Proton Drive under their \"Proton Unlimited\" plan only comes with 500 gigabytes of storage, whereas iCloud comes with two terabytes. For me, this comparison still works, because I need more than 200 gigs (iClouds next-cheapest plan), but I would be comfortable with 500. Notice that if you were to remove iCloud Drive from this picture entirely, Proton would still be cheaper.\n\n## Feature Comparison\n\nTime to compare Proton's individual services with the ones listed in the table above. I'll do my best.\n\n### Mail, Calendar, and Contacts\n\nProton Mail, Calendar, and Contacts are end-to-end encrypted. This is its chief advantage over competitors such as Fastmail. Note that this does _not_ mean it is e2ee between email senders (this would break how email works and doesn't make sense), but rather it means that Proton cannot read the contents of your messages. This comes with some downsides, though, such as the _lack of interoperability_. Indeed, Proton is largely a siloed ecosystem by-design. If you want to use their services, you'll be using either their [desktop applications](https://proton.me/blog/proton-mail-desktop-app) or a web browser. There is no other way around this.\n\n#### Proton Mail v.s. Fastmail\n\nProton Mail specifically is a joy to use. Their integration with SimpleLogin (now folded into Proton Pass) is top-shelf. The desktop app works fine, and they even offer a [bridge](https://proton.me/mail/bridge) helper application so that you can use the email client of your choice (desktop only). I really wish they would expand the bridge to offer calendar and contacts, but Proton seems more inclined to reject interoperability for their own applications. \n\nFastmail, likewise, is a joy to use. They have a good mobile app which is _basically_ required if you want to send emails using their baked-in email aliasing service (you can do it without their app, but it is a horrible experience). Unlike Proton Mail, you can also forgo using their app entirely and add your Fastmail account to iOS in settings. I do this on my iPhone and the built-in Apple Mail app works great with Fastmail.\n\nBoth services offer email aliasing. Proton leverages SimpleLogin which is far more flexible and powerful than the baked-in aliasing Fastmail uses, though both approaches get the job done. I have to give the edge to Proton on email aliasing, though, as I do find myself missing SimpleLogin and its near-endless flexibility. \n\nFor example, Proton's approach to aliasing offers the dynamic generation of aliases with a catch-all. In this workflow, while signing up for a new site, you could type in something like \"newsite@mydomain.email\" into the email form on the sign-up page and create your account. Once the site sends an email and it hits SimpleLogin, it will dynamically create a newsite@mydomain.email alias for you and land the contents in your inbox. No need to fumble around with an app to create an email alias beforehand. This workflow is unparalleled, and I miss it dearly.\n\nIt should also be noted that in Fastmail, their aliasing for \"masked emails\" (this is what they call it) is limited to a single domain name (yes, really), and you do not get to choose the name of these aliased email addresses. If you want something like target@mydomain.email, too bad. Fastmail will give you some crappy auto-generated name like soft.tree1923@mydomain.email and you just have to deal with it. There are ways around this using their manual email address feature, which inconveniently does not get leveraged by 3rd parties looking to integrate, but that is too much info to put here. Just know that it is not ideal, I'd give it a B-. \n\n#### Proton Calendar v.s. Fastmail\n\nProton Calendar is not good. The calendar service is bare-bones with almost no features and it does not yet offer an [iPad app](https://www.reddit.com/r/ProtonMail/comments/11zfag4/proton_calendar_app_for_ipad). Due to the lack of interoperability, you'll be stuck using their standalone Proton Calendar iOS app or a web browser. Proton calendar exists, that is about the only good thing I can say about it.\n\nFastmail's calendar is great. It does everything you'd expect from a modern calendar service and fully interops with the calendar client of your choice on both mobile and desktop. It also allows you to manage any Google calendars you might have right through Fastmail, which is great if you have family members in the Google ecosystem with shared calendars. I can make changes in my Apple Calendar application and have it update a Google calendar _through_ Fastmail. I am never juggling multiple accounts on any of my devices. All is done through Fastmail thanks to integrations like these.\n\n#### Proton Contacts v.s. Fastmail\n\nThere is no contacts application or integration for Proton. For those of us that actually use our contacts across multiple devices, this really sucks. Contacts in Proton exist as an afterthought, or maybe more generously, a means to an end that kinda-sorta exists only within the context of emailing people. According to their [support page](https://proton.me/support/proton-contacts-mobile) they are working to make contacts better, but for now it stinks.\n\nFastmail's contacts are great. Again, it does everything you'd expect, and you can use the client of your choice on both mobile and desktop.\n\n### Password Manager (Proton Pass v.s. 1Password)\n\nLet's make this quick. In every way possible, 1Password wins. Proton Pass is decent, but as of writing, it does not support [Safari](https://www.reddit.com/r/ProtonPass/comments/14m7u1i/comment/jq0e5y0/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) which is awful for Mac users. It also does not yet have desktop applications for macOS or Linux. Their website shows \"coming soon,\" but who knows how long that will take. Proton Pass does have baked in email alias generation through SimpleLogin, but 1Password [supports email alias generation](https://www.fastmail.com/1password/) with Fastmail; so there you go.\n\n### VPN (Proton VPN v.s. Mullvad)\n\nBoth offerings here are great. I have used both extensively, and I enjoy both. I will say Mullvad has far better support for Linux than Proton does, and Mullvad also supports IPv6, [unlike Proton VPN](https://protonmail.uservoice.com/forums/932836-proton-vpn/suggestions/43849329-ipv6-support). Unless those two gaps are dealbreakers for you, Proton VPN is an equal match with Mullvad.\n\n### Cloud Storage (Proton Drive v.s. whatever)\n\nProton drive is fine. The desktop app on macOS, last I tried it, was quite buggy, but worked pretty consistently after a few updates. For Apple inclined folks, iCloud drive is the better play. You can achieve e2ee in iCloud using [Advanced Data Protection](https://support.apple.com/en-us/108756), so it is not like you are missing out on any ground-breaking concepts. iCloud storage space also comes with the benefit of supporting your iCloud photo library, which again, is e2ee with Advanced Data Protection turned on.\n\n## Summary\n\nWell, there you have it. The overall cost of combining services is nearly 3x the price of Proton, but the experience that you get in return is overall better. I believe this is due to the so-called [UNIX philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) of \"do one thing and do it well.\" It costs more to purchase individual services that are hyper-focused on what they do, but the user experience is certainly more rewarding.\n",
+				"date_published": "2024-05-27T01:32:15-05:00",
+				"url": "https://j.manes.blog/2024/05/27/proton-mail-reviews.html",
+				"tags": ["Longform","Tech"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/05/26/tried-out-blotim.html",
+				
+				"content_html": "<p>Tried out <a href=\"https://blot.im\">blot.im</a>. Love the concept but the execution is lacking. Only supporting Dropbox / Google Drive as options is a killer, and I couldn&rsquo;t get it working out of the box with Dropbox anyway. Maybe because I was using a free account.</p>\n",
+				"content_text": "Tried out [blot.im](https://blot.im). Love the concept but the execution is lacking. Only supporting Dropbox / Google Drive as options is a killer, and I couldn't get it working out of the box with Dropbox anyway. Maybe because I was using a free account.\n",
+				"date_published": "2024-05-26T21:32:11-05:00",
+				"url": "https://j.manes.blog/2024/05/26/tried-out-blotim.html",
+				"tags": ["Tech"]
+			},
+			{
 				"id": "http://jmanes.micro.blog/2024/05/26/anyone-else-out.html",
 				
 				"content_html": "<p>Anyone else out there use Dropbox today? Shame they don&rsquo;t have a cheaper plan than $120/yr. That is a big ask for online file storage when iCloud and Google Drive exists.</p>\n",
 				"content_text": "Anyone else out there use Dropbox today? Shame they don't have a cheaper plan than $120/yr. That is a big ask for online file storage when iCloud and Google Drive exists.\n",
 				"date_published": "2024-05-26T18:14:42-05:00",
-				"url": "https://j.manes.blog/2024/05/26/anyone-else-out.html"
+				"url": "https://j.manes.blog/2024/05/26/anyone-else-out.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/05/25/did-a-huge.html",
@@ -20,7 +98,8 @@
 				"content_html": "<p>Did a huge purge of my yearly/monthly subscriptions. Micro.blog premium survived. 🫡</p>\n",
 				"content_text": "Did a huge purge of my yearly/monthly subscriptions. Micro.blog premium survived. 🫡\n",
 				"date_published": "2024-05-25T19:24:13-05:00",
-				"url": "https://j.manes.blog/2024/05/25/did-a-huge.html"
+				"url": "https://j.manes.blog/2024/05/25/did-a-huge.html",
+				"tags": ["Tech","Micro.blog"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/05/25/there-are-days.html",
@@ -28,7 +107,8 @@
 				"content_html": "<p>There are days where Micro.blog feels like an internet cheat code.</p>\n",
 				"content_text": "There are days where Micro.blog feels like an internet cheat code.\n",
 				"date_published": "2024-05-25T00:58:44-05:00",
-				"url": "https://j.manes.blog/2024/05/25/there-are-days.html"
+				"url": "https://j.manes.blog/2024/05/25/there-are-days.html",
+				"tags": ["Tech","Micro.blog"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/05/25/using-ia-writer.html",
@@ -36,7 +116,8 @@
 				"content_html": "<p>Using <a href=\"https://ia.net/writer\">iA Writer</a> for the first time. I don&rsquo;t use any of the fancy features, but that is ok, it is damn good. I see why it is so popular.</p>\n",
 				"content_text": "Using [iA Writer](https://ia.net/writer) for the first time. I don't use any of the fancy features, but that is ok, it is damn good. I see why it is so popular.\n",
 				"date_published": "2024-05-25T00:32:38-05:00",
-				"url": "https://j.manes.blog/2024/05/25/using-ia-writer.html"
+				"url": "https://j.manes.blog/2024/05/25/using-ia-writer.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/05/20/an-interesting-excerpt.html",
@@ -58,8 +139,8 @@
 			{
 				"id": "http://jmanes.micro.blog/2024/05/18/lawrence-ks-bookstore.html",
 				
-				"content_html": "<p>Lawrence KS bookstore day.</p>\n<p><img src=\"uploads/2024/8753d07fa1.jpg\" alt=\"Various bookshelves up against a wall in a book store filled with books. \" width=\"600\" height=\"450\" /><img src=\"uploads/2024/b99f8d662d.jpg\" alt=\"Various knick-knacks at the book store that are Lawrence KS themed. Stickers, flags, and cup holders with “Lawrence KS” printed on them can be seen. \" width=\"600\" height=\"450\" /></p>\n",
-				"content_text": "<p>Lawrence KS bookstore day.</p>\n<p><img src=\"uploads/2024/8753d07fa1.jpg\" alt=\"Various bookshelves up against a wall in a book store filled with books. \" width=\"600\" height=\"450\" /><img src=\"uploads/2024/b99f8d662d.jpg\" alt=\"Various knick-knacks at the book store that are Lawrence KS themed. Stickers, flags, and cup holders with “Lawrence KS” printed on them can be seen. \" width=\"600\" height=\"450\" /></p>\n",
+				"content_html": "<p>Lawrence KS bookstore day.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/8753d07fa1.jpg\" alt=\"Various bookshelves up against a wall in a book store filled with books. \" width=\"600\" height=\"450\" /><img src=\"https://cdn.uploads.micro.blog/3480/2024/b99f8d662d.jpg\" alt=\"Various knick-knacks at the book store that are Lawrence KS themed. Stickers, flags, and cup holders with “Lawrence KS” printed on them can be seen. \" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "<p>Lawrence KS bookstore day.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/8753d07fa1.jpg\" alt=\"Various bookshelves up against a wall in a book store filled with books. \" width=\"600\" height=\"450\" /><img src=\"https://cdn.uploads.micro.blog/3480/2024/b99f8d662d.jpg\" alt=\"Various knick-knacks at the book store that are Lawrence KS themed. Stickers, flags, and cup holders with “Lawrence KS” printed on them can be seen. \" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2024-05-18T15:03:56-05:00",
 				"url": "https://j.manes.blog/2024/05/18/lawrence-ks-bookstore.html"
 			},
@@ -69,7 +150,8 @@
 				"content_html": "<blockquote>\n<p>The latest report suggests that the erased and sold iPad is somehow restoring old photos from an Apple ID that is no longer signed in to it.</p>\n</blockquote>\n<p>This will be interesting. If the bug is iCloud related, could it be trivially patched server-side? Or is it impossible to undo once the improper photos are mangled into the new user’s account?</p>\n<p>How about those of us that have advanced security which determines the photos to be e2ee? I have a lot of questions.</p>\n<p><a href=\"https://www.macrumors.com/2024/05/17/ios-17-5-bug-wiped-devices-photos-resurfacing\">www.macrumors.com/2024/05/1…</a></p>\n",
 				"content_text": "<blockquote>\n<p>The latest report suggests that the erased and sold iPad is somehow restoring old photos from an Apple ID that is no longer signed in to it.</p>\n</blockquote>\n<p>This will be interesting. If the bug is iCloud related, could it be trivially patched server-side? Or is it impossible to undo once the improper photos are mangled into the new user’s account?</p>\n<p>How about those of us that have advanced security which determines the photos to be e2ee? I have a lot of questions.</p>\n<p><a href=\"https://www.macrumors.com/2024/05/17/ios-17-5-bug-wiped-devices-photos-resurfacing\">www.macrumors.com/2024/05/1…</a></p>\n",
 				"date_published": "2024-05-17T15:13:33-05:00",
-				"url": "https://j.manes.blog/2024/05/17/the-latest-report.html"
+				"url": "https://j.manes.blog/2024/05/17/the-latest-report.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/05/16/new-rolling-cart.html",
@@ -85,7 +167,8 @@
 				"content_html": "<p>On the topic of Google I/O, I am not interested in the things they are pitching. None of this LLM/AI/etc jargon sounds compelling or useful to me. I&rsquo;m sure it sounds compelling for misinformation creators, though. 🥴</p>\n",
 				"content_text": "On the topic of Google I/O, I am not interested in the things they are pitching. None of this LLM/AI/etc jargon sounds compelling or useful to me. I'm sure it sounds compelling for misinformation creators, though. 🥴\n",
 				"date_published": "2024-05-14T13:13:19-05:00",
-				"url": "https://j.manes.blog/2024/05/14/on-the-topic.html"
+				"url": "https://j.manes.blog/2024/05/14/on-the-topic.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/05/08/woke-up-to.html",
@@ -93,7 +176,8 @@
 				"content_html": "<p>Woke up to Telegram&rsquo;s founder, Durov, slinging mud at Signal in a most predictable fashion. He isn&rsquo;t very convincing.</p>\n",
 				"content_text": "Woke up to Telegram's founder, Durov, slinging mud at Signal in a most predictable fashion. He isn't very convincing. \n",
 				"date_published": "2024-05-08T11:55:10-05:00",
-				"url": "https://j.manes.blog/2024/05/08/woke-up-to.html"
+				"url": "https://j.manes.blog/2024/05/08/woke-up-to.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/05/07/decided-to-pick.html",
@@ -101,7 +185,8 @@
 				"content_html": "<p>Decided to pick up a base model no-frills iPad 10th gen. For $350 it’s a good deal. It will live its life as an e-reader.</p>\n",
 				"content_text": "Decided to pick up a base model no-frills iPad 10th gen. For $350 it’s a good deal. It will live its life as an e-reader. \n",
 				"date_published": "2024-05-07T19:02:24-05:00",
-				"url": "https://j.manes.blog/2024/05/07/decided-to-pick.html"
+				"url": "https://j.manes.blog/2024/05/07/decided-to-pick.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/05/07/accountability-as-a.html",
@@ -135,7 +220,8 @@
 				"content_html": "<p>Happy Micro Monday! It&rsquo;s coffee day. Honorable mention to some of my favorite MB folks: <a href=\"https://micro.blog/petebrown\">@petebrown</a> <a href=\"https://micro.blog/val\">@val</a> and <a href=\"https://micro.blog/bryan\">@bryan</a>.</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/b9f8d48d85.jpg\" width=\"600\" height=\"449\" alt=\"A Mastodon themed mug next to a half-full Chemex branded carafe still brewing coffee. The Chemex has a paper filter funneled over the top, dripping coffee into the carafe below. \">\n",
 				"content_text": "Happy Micro Monday! It's coffee day. Honorable mention to some of my favorite MB folks: [@petebrown](https://micro.blog/petebrown) [@val](https://micro.blog/val) and [@bryan](https://micro.blog/bryan).\n\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/b9f8d48d85.jpg\" width=\"600\" height=\"449\" alt=\"A Mastodon themed mug next to a half-full Chemex branded carafe still brewing coffee. The Chemex has a paper filter funneled over the top, dripping coffee into the carafe below. \">\n",
 				"date_published": "2024-05-06T09:44:36-05:00",
-				"url": "https://j.manes.blog/2024/05/06/happy-micro-monday.html"
+				"url": "https://j.manes.blog/2024/05/06/happy-micro-monday.html",
+				"tags": ["Micro.blog"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/04/30/lambda-looking-cool.html",
@@ -153,7 +239,7 @@
 				"content_text": "Another storm rolling in... I love rainy season. \n\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/ce7af04a11.jpg\" width=\"600\" height=\"450\" alt=\"A gray sky completely covered by billowy clouds. \">\n",
 				"date_published": "2024-04-30T18:32:45-05:00",
 				"url": "https://j.manes.blog/2024/04/30/another-storm-rolling.html",
-				"tags": ["Kansas City"]
+				"tags": ["Kansas City","Life"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/04/30/entry-for-mbapr.html",
@@ -186,7 +272,7 @@
 				"content_text": "📸 Entry for #mbapr Day 27 - surprise. A tornado watch is suddenly rolling in. Keeping an eye on it while catching up on [@coreint](https://micro.blog/coreint). \n\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/1690f7f085.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-27T17:19:58-05:00",
 				"url": "https://j.manes.blog/2024/04/27/entry-for-mbapr.html",
-				"tags": ["Kansas City"]
+				"tags": ["Kansas City","Micro.blog"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/04/26/view-of-kansas.html",
@@ -211,7 +297,8 @@
 				"content_html": "<p>Kubernetes is starting to make more sense to me now. Though the depths seem never ending.</p>\n",
 				"content_text": "Kubernetes is starting to make more sense to me now. Though the depths seem never ending. \n",
 				"date_published": "2024-04-26T14:43:32-05:00",
-				"url": "https://j.manes.blog/2024/04/26/kubernetes-is-starting.html"
+				"url": "https://j.manes.blog/2024/04/26/kubernetes-is-starting.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/04/25/entry-for-mbapr.html",
@@ -227,7 +314,8 @@
 				"content_html": "<p>Getting my hands dirty with Kubernetes&hellip; and I am not sure if I like how it works.</p>\n",
 				"content_text": "Getting my hands dirty with Kubernetes... and I am not sure if I like how it works. \n",
 				"date_published": "2024-04-24T21:50:44-05:00",
-				"url": "https://j.manes.blog/2024/04/24/getting-my-hands.html"
+				"url": "https://j.manes.blog/2024/04/24/getting-my-hands.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/04/24/entry-for-mbapr.html",
@@ -315,7 +403,8 @@
 				"content_html": "<p>One thing I like about the Bluesky / Micro.blog integration is the host name verification. Micro.blog feels a lot more like the “source of truth” when all of your reflected posts on Bluesky are from your domain name.</p>\n",
 				"content_text": "One thing I like about the Bluesky / Micro.blog integration is the host name verification. Micro.blog feels a lot more like the “source of truth” when all of your reflected posts on Bluesky are from your domain name. \n",
 				"date_published": "2024-04-16T18:10:23-05:00",
-				"url": "https://j.manes.blog/2024/04/16/one-thing-i.html"
+				"url": "https://j.manes.blog/2024/04/16/one-thing-i.html",
+				"tags": ["Tech","Micro.blog"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/04/16/entry-for-mbapr.html",
@@ -331,7 +420,8 @@
 				"content_html": "<p><a href=\"https://www.wheresyoured.at/the-great-looting-of-the-internet/\">They&rsquo;re Looting The Internet</a> by Ed Zitron.</p>\n<blockquote>\n<p>These people aren&rsquo;t innovators, or creators, or even service providers — they&rsquo;re thieves and landlords insulated by weak regulation and markets that have become disconnected from the concept of good business.</p>\n</blockquote>\n<p>Amen.</p>\n",
 				"content_text": "[They're Looting The Internet](https://www.wheresyoured.at/the-great-looting-of-the-internet/) by Ed Zitron. \n\n> These people aren't innovators, or creators, or even service providers — they're thieves and landlords insulated by weak regulation and markets that have become disconnected from the concept of good business.\n\nAmen.\n",
 				"date_published": "2024-04-16T13:00:56-05:00",
-				"url": "https://j.manes.blog/2024/04/16/theyre-looting-the.html"
+				"url": "https://j.manes.blog/2024/04/16/theyre-looting-the.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/04/15/entry-for-mbapr.html",
@@ -347,7 +437,8 @@
 				"content_html": "<p>My experiment with hosting a Bluesky PDS did not go very well, and I think I’m going to abandon that idea for a while. Migration isn’t ready yet, and I don’t see the benefit.</p>\n",
 				"content_text": "<p>My experiment with hosting a Bluesky PDS did not go very well, and I think I’m going to abandon that idea for a while. Migration isn’t ready yet, and I don’t see the benefit.</p>\n",
 				"date_published": "2024-04-14T18:29:14-05:00",
-				"url": "https://j.manes.blog/2024/04/14/my-experiment-with.html"
+				"url": "https://j.manes.blog/2024/04/14/my-experiment-with.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/04/14/entry-for-mbapr.html",
@@ -372,7 +463,8 @@
 				"content_html": "<p>I got my PDS up and running and it doesn’t seem to offer much other than controlling a root domain name that others may use. 🤔</p>\n",
 				"content_text": "<p>I got my PDS up and running and it doesn’t seem to offer much other than controlling a root domain name that others may use. 🤔</p>\n",
 				"date_published": "2024-04-14T02:17:09-05:00",
-				"url": "https://j.manes.blog/2024/04/14/i-got-my.html"
+				"url": "https://j.manes.blog/2024/04/14/i-got-my.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/04/14/playing-around-with.html",
@@ -389,7 +481,8 @@
 				"content_html": "<p>Focusing on leveraging Micro.blog for fedi and bsky since it offers nice integrations.</p>\n",
 				"content_text": "<p>Focusing on leveraging Micro.blog for fedi and bsky since it offers nice integrations.</p>\n",
 				"date_published": "2024-04-13T22:06:40-05:00",
-				"url": "https://j.manes.blog/2024/04/13/focusing-on-leveraging.html"
+				"url": "https://j.manes.blog/2024/04/13/focusing-on-leveraging.html",
+				"tags": ["Tech","Micro.blog"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/04/13/testing-out-bluesky.html",
@@ -397,7 +490,8 @@
 				"content_html": "<p>Testing out Bluesky cross-posting from Micro.blog. 🤔</p>\n",
 				"content_text": "<p>Testing out Bluesky cross-posting from Micro.blog. 🤔</p>\n",
 				"date_published": "2024-04-13T21:37:50-05:00",
-				"url": "https://j.manes.blog/2024/04/13/testing-out-bluesky.html"
+				"url": "https://j.manes.blog/2024/04/13/testing-out-bluesky.html",
+				"tags": ["Tech","Micro.blog"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/04/13/hoping-sporting-kc.html",
@@ -637,7 +731,8 @@
 				"content_html": "<p>I ordered a new-old-stock Nokia Lumia 900. It is in awesome condition with the original film covering the display and camera. I was able to charge it and get it running! It has joined my shelf of various items.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/d6c7091ea7.jpg\" width=\"600\" height=\"456\" alt=\"A cyan blue nokia lumia with the original protector film still covering the display.\"><img src=\"https://cdn.uploads.micro.blog/3480/2024/d5a6168b65.jpg\" width=\"600\" height=\"458\" alt=\"The back of the phone. From this angle, it is very bright in its blue coloring.\"><img src=\"https://cdn.uploads.micro.blog/3480/2024/5a25e4b70f.jpg\" width=\"600\" height=\"450\" alt=\"My shelf with various knick-knacks with the Lumia right in the center. \"></p>\n",
 				"content_text": "I ordered a new-old-stock Nokia Lumia 900. It is in awesome condition with the original film covering the display and camera. I was able to charge it and get it running! It has joined my shelf of various items. \n\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/d6c7091ea7.jpg\" width=\"600\" height=\"456\" alt=\"A cyan blue nokia lumia with the original protector film still covering the display.\"><img src=\"https://cdn.uploads.micro.blog/3480/2024/d5a6168b65.jpg\" width=\"600\" height=\"458\" alt=\"The back of the phone. From this angle, it is very bright in its blue coloring.\"><img src=\"https://cdn.uploads.micro.blog/3480/2024/5a25e4b70f.jpg\" width=\"600\" height=\"450\" alt=\"My shelf with various knick-knacks with the Lumia right in the center. \">\n",
 				"date_published": "2024-03-14T22:17:41-05:00",
-				"url": "https://j.manes.blog/2024/03/14/i-ordered-a.html"
+				"url": "https://j.manes.blog/2024/03/14/i-ordered-a.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/03/13/i-have-been.html",
@@ -645,7 +740,8 @@
 				"content_html": "<p>I have been re-discovering RSS lately, and oh how I have missed this. With Mastodon and Lemmy, I am able to subscribe to official organizational accounts and news feeds right in my RSS reader. This is the way the net is supposed to work.</p>\n",
 				"content_text": "I have been re-discovering RSS lately, and oh how I have missed this. With Mastodon and Lemmy, I am able to subscribe to official organizational accounts and news feeds right in my RSS reader. This is the way the net is supposed to work.\n",
 				"date_published": "2024-03-13T12:09:47-05:00",
-				"url": "https://j.manes.blog/2024/03/13/i-have-been.html"
+				"url": "https://j.manes.blog/2024/03/13/i-have-been.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/03/10/ive-been-raking.html",
@@ -720,7 +816,8 @@
 				"content_html": "<p>I just received an Amber alert for a missing child on my phone. I tapped the link in the push notification and it took me to the Missouri Highway Patrol Twitter page, which I was not allowed to view because I do not have an account.</p>\n",
 				"content_text": "I just received an Amber alert for a missing child on my phone. I tapped the link in the push notification and it took me to the Missouri Highway Patrol Twitter page, which I was not allowed to view because I do not have an account.\n",
 				"date_published": "2024-02-27T21:08:32-05:00",
-				"url": "https://j.manes.blog/2024/02/27/i-just-received.html"
+				"url": "https://j.manes.blog/2024/02/27/i-just-received.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/02/25/this-is-a.html",
@@ -736,7 +833,8 @@
 				"content_html": "<p>It was a very fulfilling Sunday. I got a nice walk in, hand-washed the Type S, and enjoyed the 70°F weather. Being able to open all of the windows throughout the house was a plus.</p>\n",
 				"content_text": "It was a very fulfilling Sunday. I got a nice walk in, hand-washed the Type S, and enjoyed the 70°F weather. Being able to open all of the windows throughout the house was a plus.\n",
 				"date_published": "2024-02-25T19:34:55-05:00",
-				"url": "https://j.manes.blog/2024/02/25/it-was-a.html"
+				"url": "https://j.manes.blog/2024/02/25/it-was-a.html",
+				"tags": ["Life"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/02/24/i-have-to.html",
@@ -753,7 +851,8 @@
 				"content_html": "<p>I ended up cancelling my pledge to the Tapestry project, so if anyone wants to snag the last Silver pledge position now is the time to do so! It was clear that they had no interest in pursuing a macOS app, and I do not want to donate money to an app that is stuck in an iOS silo.</p>\n",
 				"content_text": "I ended up cancelling my pledge to the Tapestry project, so if anyone wants to snag the last Silver pledge position now is the time to do so! It was clear that they had no interest in pursuing a macOS app, and I do not want to donate money to an app that is stuck in an iOS silo.\n",
 				"date_published": "2024-02-24T13:45:24-05:00",
-				"url": "https://j.manes.blog/2024/02/24/i-ended-up.html"
+				"url": "https://j.manes.blog/2024/02/24/i-ended-up.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/02/24/my-father-took.html",
@@ -810,7 +909,8 @@
 				"content_html": "<p>I&rsquo;ve been pretty productive and have introduced a fresh coat of paint to my custom MB theme! I decided to sprinkle in some optional JS to fade post entries in and out as you scroll. I also added some dynamic JS for clicking on images. The background images for light/dark mode are crisp now.</p>\n",
 				"content_text": "I've been pretty productive and have introduced a fresh coat of paint to my custom MB theme! I decided to sprinkle in some optional JS to fade post entries in and out as you scroll. I also added some dynamic JS for clicking on images. The background images for light/dark mode are crisp now.\n",
 				"date_published": "2024-02-17T16:00:32-05:00",
-				"url": "https://j.manes.blog/2024/02/17/ive-been-pretty.html"
+				"url": "https://j.manes.blog/2024/02/17/ive-been-pretty.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/02/16/web-development-with.html",
@@ -818,7 +918,8 @@
 				"content_html": "<p>Web development with Safari is exhausting. Missing support for cool CSS properties, bugs in others. Sometimes the more modern CSS properties will work 90% of the time but then flicker or not work at all seemingly at random. Most of the jank on my blog theme is due to Safari workarounds.</p>\n",
 				"content_text": "Web development with Safari is exhausting. Missing support for cool CSS properties, bugs in others. Sometimes the more modern CSS properties will work 90% of the time but then flicker or not work at all seemingly at random. Most of the jank on my blog theme is due to Safari workarounds.\n",
 				"date_published": "2024-02-16T22:02:21-05:00",
-				"url": "https://j.manes.blog/2024/02/16/web-development-with.html"
+				"url": "https://j.manes.blog/2024/02/16/web-development-with.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/02/14/had-a-lovely.html",
@@ -826,7 +927,8 @@
 				"content_html": "<p>Had a lovely fondue / hot pot dinner with my fiancé for Valentine’s Day. ❤️</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/a101ef6f4c.jpg\" width=\"600\" height=\"450\" alt=\"A top-down photo of a hot pot boiling a red wine broth. Various utensils for cooking can be seen around the pot. Raw beef, chicken, pork, and shrimp are on a small plate ready to be cooked.\"><img src=\"https://cdn.uploads.micro.blog/3480/2024/35f0f9b4e6.jpg\" width=\"600\" height=\"345\" alt=\"A photo of a few tasty macaroons and a cheesecake. This was for the chocolate fondue portion of the meal. \"></p>\n",
 				"content_text": "Had a lovely fondue / hot pot dinner with my fiancé for Valentine’s Day. ❤️\n\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/a101ef6f4c.jpg\" width=\"600\" height=\"450\" alt=\"A top-down photo of a hot pot boiling a red wine broth. Various utensils for cooking can be seen around the pot. Raw beef, chicken, pork, and shrimp are on a small plate ready to be cooked.\"><img src=\"https://cdn.uploads.micro.blog/3480/2024/35f0f9b4e6.jpg\" width=\"600\" height=\"345\" alt=\"A photo of a few tasty macaroons and a cheesecake. This was for the chocolate fondue portion of the meal. \">\n",
 				"date_published": "2024-02-14T23:28:56-05:00",
-				"url": "https://j.manes.blog/2024/02/14/had-a-lovely.html"
+				"url": "https://j.manes.blog/2024/02/14/had-a-lovely.html",
+				"tags": ["Life"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/02/13/the-new-notes.html",
@@ -834,7 +936,8 @@
 				"content_html": "<p>The new Notes functionality on MB is interesting. I like that you can share the note as a somewhat-hidden URL. I don&rsquo;t know if I&rsquo;ll ever use this functionality, but I&rsquo;m keeping it in mind. It feels like it could come in handy.</p>\n",
 				"content_text": "The new Notes functionality on MB is interesting. I like that you can share the note as a somewhat-hidden URL. I don't know if I'll ever use this functionality, but I'm keeping it in mind. It feels like it could come in handy.\n",
 				"date_published": "2024-02-13T16:55:22-05:00",
-				"url": "https://j.manes.blog/2024/02/13/the-new-notes.html"
+				"url": "https://j.manes.blog/2024/02/13/the-new-notes.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/02/11/my-beautiful-kansas.html",
@@ -842,7 +945,8 @@
 				"content_html": "<p>My beautiful Kansas City Chiefs. I can’t believe it! 🏈</p>\n",
 				"content_text": "My beautiful Kansas City Chiefs. I can’t believe it! 🏈\n",
 				"date_published": "2024-02-11T23:02:47-05:00",
-				"url": "https://j.manes.blog/2024/02/11/my-beautiful-kansas.html"
+				"url": "https://j.manes.blog/2024/02/11/my-beautiful-kansas.html",
+				"tags": ["Sports"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/02/09/i-have-a.html",
@@ -850,7 +954,8 @@
 				"content_html": "<p>I have a tap water lead test coming in today. I probably should have done this last year. Better late than never.</p>\n",
 				"content_text": "I have a tap water lead test coming in today. I probably should have done this last year. Better late than never. \n",
 				"date_published": "2024-02-09T13:16:43-05:00",
-				"url": "https://j.manes.blog/2024/02/09/i-have-a.html"
+				"url": "https://j.manes.blog/2024/02/09/i-have-a.html",
+				"tags": ["Life"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/02/04/february-is-such.html",
@@ -884,7 +989,8 @@
 				"content_html": "<p>Namecheap wanted to charge me $2,000 for a &ldquo;premium&rdquo; domain name&hellip; so I logged out of my account and added it to my cart as a guest for $2. When I signed back in during the checkout process, I was able to buy it for $2. What on earth is going on over there?</p>\n",
 				"content_text": "Namecheap wanted to charge me $2,000 for a \"premium\" domain name... so I logged out of my account and added it to my cart as a guest for $2. When I signed back in during the checkout process, I was able to buy it for $2. What on earth is going on over there?\n",
 				"date_published": "2024-01-22T14:10:15-05:00",
-				"url": "https://j.manes.blog/2024/01/22/namecheap-wanted-to.html"
+				"url": "https://j.manes.blog/2024/01/22/namecheap-wanted-to.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/01/21/my-posts-do.html",
@@ -909,7 +1015,8 @@
 				"content_html": "<p>Mentally preparing for the Chiefs game today. 🫡</p>\n",
 				"content_text": "Mentally preparing for the Chiefs game today. 🫡\n",
 				"date_published": "2024-01-21T17:18:17-05:00",
-				"url": "https://j.manes.blog/2024/01/21/mentally-preparing-for.html"
+				"url": "https://j.manes.blog/2024/01/21/mentally-preparing-for.html",
+				"tags": ["Sports"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/01/20/migration-complete-jmanesblog.html",
@@ -925,7 +1032,8 @@
 				"content_html": "<p>Beginning a domain name migration. I always forget how much of a pain in the ass this is until I have to do it again.</p>\n",
 				"content_text": "Beginning a domain name migration. I always forget how much of a pain in the ass this is until I have to do it again.\n",
 				"date_published": "2024-01-20T02:58:05-05:00",
-				"url": "https://j.manes.blog/2024/01/20/beginning-a-domain.html"
+				"url": "https://j.manes.blog/2024/01/20/beginning-a-domain.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/01/14/ive-decided-to.html",
@@ -941,7 +1049,8 @@
 				"content_html": "<p>The Cowboys are done for. My goodness. 🏈</p>\n",
 				"content_text": "The Cowboys are done for. My goodness. 🏈 \n",
 				"date_published": "2024-01-14T17:51:32-05:00",
-				"url": "https://j.manes.blog/2024/01/14/the-cowboys-are.html"
+				"url": "https://j.manes.blog/2024/01/14/the-cowboys-are.html",
+				"tags": ["Sports"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/01/13/she-seems-grumpy.html",
@@ -968,7 +1077,7 @@
 				"content_text": "<p>Well folks, this is a wild one. I recently wrote about a <a href=\"https://jmanes.blog/2023/12/30/roccat-kone-air.html\">Roccat Kone Air</a> mouse that I purchased for use exclusively with macOS. For a short while it worked great, but then the plan quickly fell apart.</p>\n<h2>Where are my profiles?</h2>\n<p>In my original blog post, I wrote about how the on-board profiles for the mouse had to be configured using Windows software; specifically, Roccat’s Swarm software. However, since the profiles are on-board, that implies that they are portable to different operating systems. To configure my mouse, I opened Roccat Swarm on a Parallels virtual machine of Windows 11 and began tweaking. After closing the virtual machine, all of my custom profiles worked on macOS as I expected… that is, until I unplugged the 2.4Ghz USB receiver.</p>\n<p><img title=\"UntitledImage.png\" src=\"https://cdn.uploads.micro.blog/3480/2024/untitledimage.png\" alt=\"A screenshot of the Roccat Swarm software running on my Windows 11 virtual machine through Parallels. The various custom profiles and button mappings are visible.\" width=\"599\" height=\"461\" border=\"0\" /></p>\n<p>It turns out, the USB receiver needs a special sauce that only the Roccat Swarm software can provide. Re-launching Roccat Swarm from the Windows 11 virtual machine and then closing the virtual machine fixes the issue, but this solution sucks. I don’t want to do this every time I dock my Mac. Even worse, I use this same dock for my separate work-provisioned Mac. This means the profiles and their custom button mappings simply are not useful for my work environment. At this point I considered giving up and switching to a different mouse. However… I am not sane, and I <em>really</em> like this mouse.</p>\n<h2>How does Roccat Swarm do it?</h2>\n<p>I got to thinking about how this whole thing works. I plug in the USB receiver… I launch Roccat Swarm… and it works. Even between operating systems (as long as the receiver is never unplugged), as proven by my Windows 11 virtual machine workflow. So maybe Roccat Swarm isn’t actually required. Maybe… Roccat Swarm sends some type of system call, wake up packet, etc to the USB receiver. On this hunch I started digging.</p>\n<h2>Wireshark magic</h2>\n<p>I hang out in a Discord with a few ethical hacker type folks and when I brought this problem up, one of them recommended I use Wireshark to capture and dump the USB HID calls made by Roccat Swarm. This sounded like a good starting point. I had no idea Wireshark could even be used for USB devices, but I was willing to try anything. As a bonus, listening in on these calls is a clean-house reverse engineering approach to the problem.</p>\n<p>After a bit of research I fired up Wireshark on an old dedicated Windows machine using the <a href=\"https://desowin.org/usbpcap/\">USBPcap</a> plugin. I then attached the USB 2.4Ghz receiver to the Windows machine and opened Roccat Swarm. Wouldn’t you know it, it worked like a charm!</p>\n<p><img title=\"UntitledImage.png\" src=\"https://cdn.uploads.micro.blog/3480/2024/3867d9537a.png\" alt=\"A screenshot of Wireshark showing a partial capture of USB calls as made by Roccat Swarm\" width=\"599\" height=\"506\" border=\"0\" /></p>\n<p>Ok… so there is a lot here. I don’t know the first thing about USB HID specifications or how it fits together (or at least, I didn’t when I started). I did notice however a distinct set of calls for “SET_REPORT”, each call with a respective data payload. So now I know what Roccat Swarm is sending to the device on startup, and I have the exact data it sends over. Awesome.</p>\n<h2>Time to learn a new programming language… yes really</h2>\n<p>I have never programmed for macOS or iOS before, but I knew I was going to have to start. After a few failed attempts to use libusb with Python (Apple has locked out this approach, that’s a rant for a different time), I decided to look into Objective-C and Swift… but mostly Swift in order to preserve my sanity.</p>\n<p>After digging for only a few hours I found an awesome library called <a href=\"https://github.com/Arti3DPlayer/USBDeviceSwift/tree/master\">USBDeviceSwift</a> that abstracts away a lot of nitty gritty details of USB / HID interactions. I pulled this into my project using Swift’s package manager (wild times we live in) and started learning and implementing. This involved reading the USB dump from Wireshark and translating the required segments for SET_REPORT into Swift model objects in my project.</p>\n<h2>Success and Thoughts</h2>\n<p>After a few days of tinkering during my spare time I finally got what I was after. I now have a simple command line tool that invokes a list of SET_REPORT calls to the Roccat Kone Air USB receiver. Running this program successfully activates the on-board profiles and their respective button mappings on macOS. </p>\n<p><img title=\"UntitledImage.png\" src=\"https://cdn.uploads.micro.blog/3480/2024/737b480229.png\" alt=\"A screenshot of the Terminal application on macOS invoking my custom program.\" width=\"599\" height=\"415\" border=\"0\" /></p>\n<p>Curiously, doing a single SET_REPORT for any of these inputs is enough to do the job… so I am not sure what that is about. I simply chose to do them all, as that is what the Roccat Swarm software does. Honestly? Totally worth the effort. I’m not exactly sure why this is necessary… and I’m not sure why Roccat engineered the device to require these calls for on-board profile activation, but at least I have it working.</p>\n<p>As an aside, I wanted to try implementing this with DriverKit, but Apple wanted me to pay $100/yr for the privilege. I’ll stick with my command line program and a login script. </p>\n",
 				"date_published": "2024-01-11T22:58:24-05:00",
 				"url": "https://j.manes.blog/2024/01/11/fixing-the-kone.html",
-				"tags": ["Longform"]
+				"tags": ["Longform","Tech","Engineering"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/01/04/installed-a-new.html",
@@ -976,7 +1085,8 @@
 				"content_html": "<p>Installed a new 2.5gbe drop over Christmas break. Looking pretty good. The 2.5gb Ethernet to USB-C adapter came in today and it is amazing.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2024/3e6bdc254e.jpg\" width=\"600\" height=\"450\" alt=\"Photo of my wall where it meets my floor under my desk. There are various tools on the floor. On the wall there is a power outlet to the left. To the right there are markings on the drywall to indicate where the new wall gang should be installed.\"><img src=\"https://cdn.uploads.micro.blog/3480/2024/2cf22534d9.jpg\" width=\"600\" height=\"450\" alt=\"The after photo depicting the same wall area. The wall gang is now installed and an Ethernet faceplate is installed and ready for use. \"></p>\n",
 				"content_text": "Installed a new 2.5gbe drop over Christmas break. Looking pretty good. The 2.5gb Ethernet to USB-C adapter came in today and it is amazing. \n\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/3e6bdc254e.jpg\" width=\"600\" height=\"450\" alt=\"Photo of my wall where it meets my floor under my desk. There are various tools on the floor. On the wall there is a power outlet to the left. To the right there are markings on the drywall to indicate where the new wall gang should be installed.\"><img src=\"https://cdn.uploads.micro.blog/3480/2024/2cf22534d9.jpg\" width=\"600\" height=\"450\" alt=\"The after photo depicting the same wall area. The wall gang is now installed and an Ethernet faceplate is installed and ready for use. \">\n",
 				"date_published": "2024-01-04T01:39:44-05:00",
-				"url": "https://j.manes.blog/2024/01/04/installed-a-new.html"
+				"url": "https://j.manes.blog/2024/01/04/installed-a-new.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/01/03/looking-into-transitioning.html",
@@ -992,7 +1102,8 @@
 				"content_html": "<p>Happy new years, folks! I’m two hours late but parties will do that. 🎉</p>\n",
 				"content_text": "Happy new years, folks! I’m two hours late but parties will do that. 🎉\n",
 				"date_published": "2024-01-01T03:18:12-05:00",
-				"url": "https://j.manes.blog/2024/01/01/happy-new-years.html"
+				"url": "https://j.manes.blog/2024/01/01/happy-new-years.html",
+				"tags": ["Life"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/12/30/roccat-kone-air.html",
@@ -1001,7 +1112,7 @@
 				"content_text": "<p>With a little thinking, I was able to get the <a href=\"https://www.roccat.com/products/kone-air?variant=42180133093534\">Roccat Kone Air</a> mouse to behave as a good macOS citizen. I chose to buy this mouse due to its usage of AA batteries, somewhat muted design, and ergonomics. Configuration did require me to fire up a Parellels Windows 11 VM and install the Roccat software, but after a one-time setup, it is good to go. This is largely doable thanks to the “Easy-Shift[+]” modifier button near the thumb rest in combination with the on-board profile system.</p>\n<p>Here are the mappings I chose in the Roccat software:<br /><br />[Easy-Shift-Button + Left Click] maps to [CTRL + Left Arrow Key]</p>\n<pre>Moves one desktop to the left</pre>\n<p>[Easy-Shift-Button + Right Click] maps to [CTRL + Right Arrow Key]</p>\n<pre>Moves one desktop to the right</pre>\n<p>[Easy-Shift-Button + Middle Click] maps to [CTRL + Up Arrow Key]</p>\n<pre>Mission Control</pre>\n<p>[Easy-Shift-Button + Scroll Up] maps to [Tilt Right]</p>\n<pre>Scrolls right</pre>\n<p>[Easy-Shift-Button + Scroll Down] maps to [Tilt Left]</p>\n<pre>Scrolls left</pre>\n<p>For the forward and backward thumb buttons, I used a piece of software called <a href=\"https://better-mouse.com\">BetterMouse</a> on macOS to map them to forward and backward swipe respectively.</p>\n",
 				"date_published": "2023-12-30T17:36:02-05:00",
 				"url": "https://j.manes.blog/2023/12/30/roccat-kone-air.html",
-				"tags": ["Longform"]
+				"tags": ["Longform","Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/12/23/this-is-an.html",
@@ -1009,7 +1120,8 @@
 				"content_html": "<p>This is an older photo. Taken on a Pixel 3 in 2019. It’s still one of my favorite photos.</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2023/1c51e2c9af.jpg\" width=\"600\" height=\"450\" alt=\"A very early morning photo of my work campus. Long green/yellow grass is in the foreground. The moon is visible in the dark sky. There are buildings further back to the left and right, both constructed with a metallic finish. The building to the left is reflecting the sunrise and appears to glow.\">\n",
 				"content_text": "This is an older photo. Taken on a Pixel 3 in 2019. It’s still one of my favorite photos. \n\n<img src=\"https://cdn.uploads.micro.blog/3480/2023/1c51e2c9af.jpg\" width=\"600\" height=\"450\" alt=\"A very early morning photo of my work campus. Long green/yellow grass is in the foreground. The moon is visible in the dark sky. There are buildings further back to the left and right, both constructed with a metallic finish. The building to the left is reflecting the sunrise and appears to glow.\">\n",
 				"date_published": "2023-12-23T02:12:39-05:00",
-				"url": "https://j.manes.blog/2023/12/23/this-is-an.html"
+				"url": "https://j.manes.blog/2023/12/23/this-is-an.html",
+				"tags": ["Life"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/12/22/noticing-that-there.html",
@@ -1017,7 +1129,8 @@
 				"content_html": "<p>Noticing that there is very good music that only exists on streaming platforms. There is no way to purchase it on Bandcamp or otherwise. That really sucks.</p>\n",
 				"content_text": "Noticing that there is very good music that only exists on streaming platforms. There is no way to purchase it on Bandcamp or otherwise. That really sucks.\n",
 				"date_published": "2023-12-23T00:27:06-05:00",
-				"url": "https://j.manes.blog/2023/12/22/noticing-that-there.html"
+				"url": "https://j.manes.blog/2023/12/22/noticing-that-there.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/12/20/beware-the-pig.html",
@@ -1025,7 +1138,8 @@
 				"content_html": "<p>Beware the pig.</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2023/ed29ae4cdb.jpg\" width=\"600\" height=\"450\" alt=\"My pet guinea pig Lambda laying down with one paw visible. She is staring directly at the camera menacingly. \">\n",
 				"content_text": "Beware the pig.\n\n<img src=\"https://cdn.uploads.micro.blog/3480/2023/ed29ae4cdb.jpg\" width=\"600\" height=\"450\" alt=\"My pet guinea pig Lambda laying down with one paw visible. She is staring directly at the camera menacingly. \">\n",
 				"date_published": "2023-12-21T00:50:18-05:00",
-				"url": "https://j.manes.blog/2023/12/20/beware-the-pig.html"
+				"url": "https://j.manes.blog/2023/12/20/beware-the-pig.html",
+				"tags": ["Guinea Pigs"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/12/19/went-through-a.html",
@@ -1033,7 +1147,8 @@
 				"content_html": "<p>Went through a large email address change today, and it is astounding how many companies cannot do email correctly. A good chunk of the sites I use did not have a way to update an email record.</p>\n",
 				"content_text": "Went through a large email address change today, and it is astounding how many companies cannot do email correctly. A good chunk of the sites I use did not have a way to update an email record. \n",
 				"date_published": "2023-12-20T00:48:22-05:00",
-				"url": "https://j.manes.blog/2023/12/19/went-through-a.html"
+				"url": "https://j.manes.blog/2023/12/19/went-through-a.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/12/14/decided-to-purchase.html",
@@ -1041,7 +1156,8 @@
 				"content_html": "<p>Decided to purchase Sublime Text. I&rsquo;m very late to the game&hellip; so damn late.. but it is once again an attractive option now that VS Code is getting so bloated.</p>\n",
 				"content_text": "Decided to purchase Sublime Text. I'm very late to the game... so damn late.. but it is once again an attractive option now that VS Code is getting so bloated.\n",
 				"date_published": "2023-12-14T23:21:00-05:00",
-				"url": "https://j.manes.blog/2023/12/14/decided-to-purchase.html"
+				"url": "https://j.manes.blog/2023/12/14/decided-to-purchase.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/12/14/another-stressful-week.html",
@@ -1049,7 +1165,8 @@
 				"content_html": "<p>Another stressful week.. I need a break.</p>\n",
 				"content_text": "Another stressful week.. I need a break.\n",
 				"date_published": "2023-12-14T23:02:22-05:00",
-				"url": "https://j.manes.blog/2023/12/14/another-stressful-week.html"
+				"url": "https://j.manes.blog/2023/12/14/another-stressful-week.html",
+				"tags": ["Life"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/12/09/today-was-new.html",
@@ -1057,7 +1174,8 @@
 				"content_html": "<p>Today was “new monitor day” for me. A substantial upgrade from my Dell UltraSharp of 2018. I opted to go for the LG UltraFine 5k. Thanks to its power delivery, I was able to ditch my Dell docking station and three entire cables! Everything is far cleaner now and it is working great.</p>\n<p><img title=\"IMG_5741.jpeg\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5741.jpeg\" alt=\"A photo of my desk from the perspective of the natural sitting position. To the left are my two vertically aligned MacBook Pros (one was provided by my employer). In the middle of the desk is the UltraFine 5K display mounted on a monitor arm. On each side of the monitor are two mid-sized AudioEngine speakers. To the right is a dedicated microphone. HHKB Hybrid keyboard and Logitech G305 mouse are front and center.\" width=\"600\" height=\"450\" border=\"0\" /></p>\n",
 				"content_text": "<p>Today was “new monitor day” for me. A substantial upgrade from my Dell UltraSharp of 2018. I opted to go for the LG UltraFine 5k. Thanks to its power delivery, I was able to ditch my Dell docking station and three entire cables! Everything is far cleaner now and it is working great.</p>\n<p><img title=\"IMG_5741.jpeg\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5741.jpeg\" alt=\"A photo of my desk from the perspective of the natural sitting position. To the left are my two vertically aligned MacBook Pros (one was provided by my employer). In the middle of the desk is the UltraFine 5K display mounted on a monitor arm. On each side of the monitor are two mid-sized AudioEngine speakers. To the right is a dedicated microphone. HHKB Hybrid keyboard and Logitech G305 mouse are front and center.\" width=\"600\" height=\"450\" border=\"0\" /></p>\n",
 				"date_published": "2023-12-10T00:16:33-05:00",
-				"url": "https://j.manes.blog/2023/12/09/today-was-new.html"
+				"url": "https://j.manes.blog/2023/12/09/today-was-new.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/12/05/ive-decided-to.html",
@@ -1065,7 +1183,8 @@
 				"content_html": "<p>I’ve decided to start adopting AA and AAA battery powered perhipheral devices. Specifically so I can leverage Panasonic’s Enloop rechargeable batteries. I am hoping this is a good bet, as I like to keep my peripheral devices for a very long time.</p>\n",
 				"content_text": "I’ve decided to start adopting AA and AAA battery powered perhipheral devices. Specifically so I can leverage Panasonic’s Enloop rechargeable batteries. I am hoping this is a good bet, as I like to keep my peripheral devices for a very long time.\n",
 				"date_published": "2023-12-05T22:51:53-05:00",
-				"url": "https://j.manes.blog/2023/12/05/ive-decided-to.html"
+				"url": "https://j.manes.blog/2023/12/05/ive-decided-to.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/12/04/declaring-this-work.html",
@@ -1082,7 +1201,7 @@
 				"content_text": "<p>I have become endlessly frustrated with the lack of good mice options for the Mac. Most options are immediately off the table due to a requirement on Windows-only drivers and adware. The options that do exist for Mac have a ton of problems.</p>\n<p>For example, some of my favorite choices are the Logitech MX Master / MX Vertical mice, but they have this terrible problem with deteriorating after a few years. The rubber coating decays so quickly and ends up feeling sticky. That is not okay for a $100.00 product. Logitech mice also require the use of their “LogiOptions” application, which requests a ton of system permissions on install. Permission to start on log-in, permission to monitor input from your keyboard (!?).. this is not sane. What has happened to sane perhipheral products?</p>\n",
 				"date_published": "2023-12-03T17:20:06-05:00",
 				"url": "https://j.manes.blog/2023/12/03/where-are-the.html",
-				"tags": ["Longform"]
+				"tags": ["Longform","Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/12/02/got-the-christmas.html",
@@ -1241,7 +1360,7 @@
 				"content_text": "<p>For many years now, I have used Dyson products: two <em>Pure Hot+Cool HP04</em>, one <em>Pure Humidify+Cool PH01</em> and a few of their vacuums. When it comes to the vacuums, I couldn’t be happier with the performance and experience provided. As for the humidfier and heaters, though… it is complicated.</p>\n<p><img title=\"IMG_5476.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/img-5476.png\" alt=\"My nickle/black Dyson Pure Hot+Cool HP04 next to my office wall.\" width=\"450\" height=\"600\" border=\"0\" /></p>\n<p>Originally, I purchased a pair of Pure Hot+Cool HP04 heaters for the winter time. I keep one in my bedroom and one in my office where my pet guinea pigs live. I made a quick assumption during my purchase that you “get what you pay for.” Dyson’s products are attractive and expensive, so I figured they would offer the highest performance. As it turns out, in this case, it isn’t true.</p>\n<h2>These devices are noisey as hell.</h2>\n<p>My first and chief complaint about these devices: they all suffer from build quality defects that lead to noise pollution. I don’t use that term lightly. It is seriously unbearable at times, to the point that I *must* turn the device off for my own sanity. Typically, the issue happens at the lowest speeds. There is some sort of fan oscillation going on that leads to the highest pitch squeeling imagineable. This happens with three of my Dyson fans; this is no fluke. When the fan is set to run above level 4 (out of 10) the squeeling will subside. Still, not ideal. Nearly a deal breaker for the product as a whole, in fact.</p>\n<h2>These devices are not good for air filtration.</h2>\n<p>My second complaint is that the air filtration offered by these machines is horrifically poor. The CADR (clean air delivery rate) rating is laughably low, and cheaper products exist that do the job far better. In fact, strapping MERV 8 rated HVAC filter on to a box fan does a better job. No, I’m not kidding. Check out this <a href=\"https://www.youtube.com/watch?v=0uZKBlwLEFs\">CBC News video</a> for details on that one.</p>\n<p>Not only is the filtration unbearably slow, the filters within the unit cost around $80 to replace as of writing (2023), and they only last about one year before the Dyson app warns about ordering a replacement. In contrast, BlueAir offers a 211+ auto model with a filter that lasts WAY longer with over 4x the CADR. The replacement filter for the BlueAir? It is only $50. As of the time of writing, the BlueAir machine costs a whopping $250 less than what I paid for my Dyson, and it costs less in filter replacements, too. All of this is why my dining room / kitchen area is proudly accompanied by a BlueAir 211+ Auto.</p>\n<h2>The humidfier takes a long time to humidify.</h2>\n<p>My final complaint (whew, as if I could be any more negative) is that the <em>Pure Humidify+Cool PH01</em> takes what feels like forever to humidfy a room of any size. I believe this problem is very much aligned with the CADR problem. These fans simply do not move a lot of air, and that is by design. They are very nice to use as a personal fan, as they are (supposed to be) quiet and focused.</p>\n<p>However, the <em>Pure Humidify+Cool PH01</em> has a benefit I haven’t seen in other humidifiers in that it actually cleans the water before it puts it out into the room. It does this with UV light, which rocks, because typical humidfiers you see on Amazon are utter garbage in this respect. Don’t believe me? Buy a random Amazon humidifier and let it run while it sits next to a smart air filter such as a Dyson or BlueAir. Your air filters will fight for their lives trying to pull the gunk out of the air. With the Dyson PH01, no problems, the air is clean.</p>\n<h2>Somehow, these devices are still better than the alternative.</h2>\n<p>Now here is where things get complicated. These machines all perform a very specific subset of features that you will not find elsewhere. After getting fed up with the compromises, I started looking for alternatives only to find myself at an impasse. I wanted the best possible result in each of the respective areas (do one thing and do it well).</p>\n<p>If I wanted the best possible air filtration system, I could get a BlueAir for my bedroom and for my office. However, these are not heaters. Because of this, I’d also need to buy a set of heaters, and as it turns out, really good space heaters cost really good money. For example, De’Longhi offers a very nice oil-filled radiator style heater for around $170. Ouch! But wait… the BlueAir filter is not a heater, and it is also not a fan. So now a pair of high-quality fans are required. At this point, I’m up to a total of six devices (three for each room) to replace the two Dyson machines that I have. That means three total electrical outlets instead of one, and three times the space (which I do not have). The total cost of these machines added together would be in the same ballpark range as a Dyson. Whoops! No money saving to be found here (this wasn’t the goal, but it would have been nice).</p>\n<p>All of what I have touched on so far doesn’t address the problem of finding a good humidifier that outputs clean air (good luck with that shit, I tried). The integrated IoT (internet-of-things) capability was also not accounted for in my quest for the best, though you likely won’t find anything that works together as seemlessly as Dyson.</p>\n<p>I guess this is essentially where Dyson has the market. It’s a bit strange, but this is a case where the market leader is a jack of all trades, and master of none: It’s not the best fan, it’s not the best heater (or humidifier), and it’s not the best air filter… but it does all three of these things while using very little space, and for a competitive price.</p>\n<p>For now, I’ll be coughing up $80 for an air filter.</p>\n",
 				"date_published": "2023-09-02T21:23:38-05:00",
 				"url": "https://j.manes.blog/2023/09/02/where-dyson-fans.html",
-				"tags": ["Longform"]
+				"tags": ["Longform","Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/09/01/september-is-here.html",
@@ -1258,7 +1377,7 @@
 				"content_text": "<p>I recently let my Discord Nitro subscription expire, and this is a tough one for me. I use Discord quite often, but find paying for it very hard to justify due to its privacy policy and investment structure. It has become a rather ubiquitous tool in recent years, which makes me wonder if it is going to result in yet another Twitter fiasco.</p>\n<p>Generally, I am ok with paying (and donating) for software services. They have to meet some level criteria for me to feel comfortable, though. For example, if the software and/or service is:</p>\n<ul>\n<li>Open Source / Open Platform</li>\n<ul>\n<li>Lemmy (and selective instances)</li>\n<li>Mastodon (and selective instances)</li>\n</ul>\n<li>Proprietary and/or Centralized, but operated in good faith, with a history and face</li>\n<ul>\n<li>Kagi</li>\n<li>MarsEdit</li>\n<li>Micro.blog</li>\n<li>Ivory</li>\n</ul>\n<li>Privacy respecting by design, with mixed open source / proprietary status</li>\n<ul>\n<li>1Password</li>\n<li>Proton Mail</li>\n<li>iCloud (select services with advanced security enabled)</li>\n</ul>\n</ul>\n<p>Discord is a prime example of something that does not quite fit into any of these categories. Discord does not respect privacy. Discord is not Open Source. Discord is not decentralized. Instead, it is held up by a combination of paid users and investors. This is enough to chase me away. I’m waiting for the inevitable sale of the platform and its data to a big tech conglomerate. The other shoe has yet to drop. Let’s just hope it isn’t placed into the hands of another Elon Musk. </p>\n",
 				"date_published": "2023-08-27T16:57:59-05:00",
 				"url": "https://j.manes.blog/2023/08/27/when-to-pay.html",
-				"tags": ["Longform"]
+				"tags": ["Longform","Tech","Micro.blog"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/08/25/i-seem-to.html",
@@ -1298,7 +1417,8 @@
 				"content_html": "<p>A new shelf for the wall. Thanks to <a href=\"https://micro.blog/jean\">@jean</a> for the MB stickers!</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/41a625bf53.jpg\" alt=\"A newly mounted and stylized shelf on a plain white wall. There are three levels to the shelf and it appears to be held up by an old rustic-style pipe that mounts to the wall. On the top shelf: A plush from the Interface series. An model Acura Integra. A snow globe with a golf ball inside. A tiny painting of a Civic Type R. On the middle shelf: A thank you note from Jean at Micro.blog. A Ferrari F40 Hotweels toy in the original packaging. A thank you note from a friend with a doodle of a capybara. A transparent resin block with a model car inside of it. On the bottom shelf: “Cracking the Coding Interview” book. “The mythical Man Month” book. “Introduction to Algorithims” book. A nice complete set of the four “The Art of Computer Programming” books.\" width=\"483\" height=\"600\" /></p>\n",
 				"content_text": "<p>A new shelf for the wall. Thanks to <a href=\"https://micro.blog/jean\">@jean</a> for the MB stickers!</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/41a625bf53.jpg\" alt=\"A newly mounted and stylized shelf on a plain white wall. There are three levels to the shelf and it appears to be held up by an old rustic-style pipe that mounts to the wall. On the top shelf: A plush from the Interface series. An model Acura Integra. A snow globe with a golf ball inside. A tiny painting of a Civic Type R. On the middle shelf: A thank you note from Jean at Micro.blog. A Ferrari F40 Hotweels toy in the original packaging. A thank you note from a friend with a doodle of a capybara. A transparent resin block with a model car inside of it. On the bottom shelf: “Cracking the Coding Interview” book. “The mythical Man Month” book. “Introduction to Algorithims” book. A nice complete set of the four “The Art of Computer Programming” books.\" width=\"483\" height=\"600\" /></p>\n",
 				"date_published": "2023-08-15T22:55:29-05:00",
-				"url": "https://j.manes.blog/2023/08/15/a-new-shelf.html"
+				"url": "https://j.manes.blog/2023/08/15/a-new-shelf.html",
+				"tags": ["Micro.blog"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/08/15/we-are-finally.html",
@@ -1425,11 +1545,11 @@
 			{
 				"id": "http://jmanes.micro.blog/2023/07/06/thoughts-on-metas.html",
 				"title": "Thoughts on Meta's Threads Social Network",
-				"content_html": "<p>I’ve been thinking a little about how Meta’a Threads social network operates; specifically the algorithmic-first feed. </p>\n<p>The algorithmic-first feed is no blunder, it was done intentionally and it was very smart. Is it appealing to most of us who care about this kind of thing? Absolutely not. However, it is appealing to two specific groups that are absolutely required for a behemoth like Meta to bootstatrap themselves for an adjacent market sector: celebrities and brands. </p>\n<p>An algorithmic feed turns a ghost town into a brand new mall. It’s a place where things are obviously happening. This serves a few purposes that ultimately cascade. </p>\n<ol>\n<li>It offers celebrities a platform where they know they will be seen before others, which is good for them.</li>\n<li>It offers brands a platform where they will have a better presence, which is good for them.</li>\n<li>The combination of 1 and 2 provde an entertainment-like experience of infinite content for users, which probably isn’t good for them, but they will consume it and complete the cycle.</li>\n</ol>\n<p>The third point about infinite algorithmic content is likely where folks will start questioning my reasoning. Who wants to get on a “social network” just to browse around and view random garbage? As it turns out, <a href=\"https://www.pewresearch.org/short-reads/2022/03/16/5-facts-about-twitter-lurkers/\">a lot of people</a>. How many hours do people spend mindlessly scrolling TikTok videos made by people they don’t know? I’m going to guess most of them.</p>\n<p>Instagram has slowly been adopting the algorithmic-first feed over the past couple of years and it seems to be working for them. Why <em>wouldn’t</em> Threads also continue down this path? After all, adding a personal feed based on who you follow is the easy part. This functionality could be trivially added by Meta in the future if enough people are interested… but will they be?</p>\n",
-				"content_text": "<p>I’ve been thinking a little about how Meta’a Threads social network operates; specifically the algorithmic-first feed. </p>\n<p>The algorithmic-first feed is no blunder, it was done intentionally and it was very smart. Is it appealing to most of us who care about this kind of thing? Absolutely not. However, it is appealing to two specific groups that are absolutely required for a behemoth like Meta to bootstatrap themselves for an adjacent market sector: celebrities and brands. </p>\n<p>An algorithmic feed turns a ghost town into a brand new mall. It’s a place where things are obviously happening. This serves a few purposes that ultimately cascade. </p>\n<ol>\n<li>It offers celebrities a platform where they know they will be seen before others, which is good for them.</li>\n<li>It offers brands a platform where they will have a better presence, which is good for them.</li>\n<li>The combination of 1 and 2 provde an entertainment-like experience of infinite content for users, which probably isn’t good for them, but they will consume it and complete the cycle.</li>\n</ol>\n<p>The third point about infinite algorithmic content is likely where folks will start questioning my reasoning. Who wants to get on a “social network” just to browse around and view random garbage? As it turns out, <a href=\"https://www.pewresearch.org/short-reads/2022/03/16/5-facts-about-twitter-lurkers/\">a lot of people</a>. How many hours do people spend mindlessly scrolling TikTok videos made by people they don’t know? I’m going to guess most of them.</p>\n<p>Instagram has slowly been adopting the algorithmic-first feed over the past couple of years and it seems to be working for them. Why <em>wouldn’t</em> Threads also continue down this path? After all, adding a personal feed based on who you follow is the easy part. This functionality could be trivially added by Meta in the future if enough people are interested… but will they be?</p>\n",
+				"content_html": "<p>I’ve been thinking a little about how Meta’a Threads social network operates; specifically the algorithmic-first feed. </p>\n<p>The algorithmic-first feed is no blunder, it was done intentionally and it was very smart. Is it appealing to most of us who care about this kind of thing? Absolutely not. However, it is appealing to two specific groups that are absolutely required for a behemoth like Meta to bootstatrap themselves for an adjacent market sector: celebrities and brands. </p>\n<p>An algorithmic feed turns a ghost town into a brand new mall. It’s a place where things are obviously happening. This serves a few purposes that ultimately cascade. </p>\n<ol>\n<li>It offers celebrities a platform where they know they will be seen before others, which is good for them.</li>\n<li>It offers brands a platform where they will have a better presence, which is good for them.</li>\n<li>The combination of 1 and 2 provide an entertainment-like experience of infinite content for users, which probably isn’t good for them, but they will consume it and complete the cycle.</li>\n</ol>\n<p>The third point about infinite algorithmic content is likely where folks will start questioning my reasoning. Who wants to get on a “social network” just to browse around and view random garbage? As it turns out, <a href=\"https://www.pewresearch.org/short-reads/2022/03/16/5-facts-about-twitter-lurkers/\">a lot of people</a>. How many hours do people spend mindlessly scrolling TikTok videos made by people they don’t know? I’m going to guess most of them.</p>\n<p>Instagram has slowly been adopting the algorithmic-first feed over the past couple of years and it seems to be working for them. Why <em>wouldn’t</em> Threads also continue down this path? After all, adding a personal feed based on who you follow is the easy part. This functionality could be trivially added by Meta in the future if enough people are interested… but will they be?</p>\n",
+				"content_text": "<p>I’ve been thinking a little about how Meta’a Threads social network operates; specifically the algorithmic-first feed. </p>\n<p>The algorithmic-first feed is no blunder, it was done intentionally and it was very smart. Is it appealing to most of us who care about this kind of thing? Absolutely not. However, it is appealing to two specific groups that are absolutely required for a behemoth like Meta to bootstatrap themselves for an adjacent market sector: celebrities and brands. </p>\n<p>An algorithmic feed turns a ghost town into a brand new mall. It’s a place where things are obviously happening. This serves a few purposes that ultimately cascade. </p>\n<ol>\n<li>It offers celebrities a platform where they know they will be seen before others, which is good for them.</li>\n<li>It offers brands a platform where they will have a better presence, which is good for them.</li>\n<li>The combination of 1 and 2 provide an entertainment-like experience of infinite content for users, which probably isn’t good for them, but they will consume it and complete the cycle.</li>\n</ol>\n<p>The third point about infinite algorithmic content is likely where folks will start questioning my reasoning. Who wants to get on a “social network” just to browse around and view random garbage? As it turns out, <a href=\"https://www.pewresearch.org/short-reads/2022/03/16/5-facts-about-twitter-lurkers/\">a lot of people</a>. How many hours do people spend mindlessly scrolling TikTok videos made by people they don’t know? I’m going to guess most of them.</p>\n<p>Instagram has slowly been adopting the algorithmic-first feed over the past couple of years and it seems to be working for them. Why <em>wouldn’t</em> Threads also continue down this path? After all, adding a personal feed based on who you follow is the easy part. This functionality could be trivially added by Meta in the future if enough people are interested… but will they be?</p>\n",
 				"date_published": "2023-07-06T09:08:02-05:00",
 				"url": "https://j.manes.blog/2023/07/06/thoughts-on-metas.html",
-				"tags": ["Longform"]
+				"tags": ["Longform","Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/07/05/i-will-never.html",
@@ -1458,11 +1578,11 @@
 			{
 				"id": "http://jmanes.micro.blog/2023/07/02/blogging-in-the.html",
 				"title": "Blogging in the Fediverse",
-				"content_html": "<p>I have been exploring the Fediverse in all of its forms over the past few days. Lemmy instances, Mastodon instances, and the various administrators involved in it all. It is the wild west right now, but in a way that is optimistic and excting.</p>\n<p>I've been thinking about how my blog here on MB fits into the equation, and I think MB serves as a more meaningful \"home base.\" The content I share here is a bit more than a fleeting thought (unlike Mastodon) and it isn't specifically to spark conversation (unlike Lemmy). I think the strength of MB, right now, is that it offers the full-on “Web 1.0” (I am stating this affectionately) blogging experience with the ability to tunnel blogged content to/from the Fediverse. </p>\n",
-				"content_text": "<p>I have been exploring the Fediverse in all of its forms over the past few days. Lemmy instances, Mastodon instances, and the various administrators involved in it all. It is the wild west right now, but in a way that is optimistic and excting.</p>\n<p>I've been thinking about how my blog here on MB fits into the equation, and I think MB serves as a more meaningful \"home base.\" The content I share here is a bit more than a fleeting thought (unlike Mastodon) and it isn't specifically to spark conversation (unlike Lemmy). I think the strength of MB, right now, is that it offers the full-on “Web 1.0” (I am stating this affectionately) blogging experience with the ability to tunnel blogged content to/from the Fediverse. </p>\n",
+				"content_html": "<p>I have been exploring the Fediverse in all of its forms over the past few days. Lemmy instances, Mastodon instances, and the various administrators involved in it all. It is the wild west right now, but in a way that is optimistic and exciting.</p>\n<p>I've been thinking about how my blog here on MB fits into the equation, and I think MB serves as a more meaningful \"home base.\" The content I share here is a bit more than a fleeting thought (unlike Mastodon) and it isn't specifically to spark conversation (unlike Lemmy). I think the strength of MB, right now, is that it offers the full-on “Web 1.0” (I am stating this affectionately) blogging experience with the ability to tunnel blogged content to/from the Fediverse. </p>\n",
+				"content_text": "<p>I have been exploring the Fediverse in all of its forms over the past few days. Lemmy instances, Mastodon instances, and the various administrators involved in it all. It is the wild west right now, but in a way that is optimistic and exciting.</p>\n<p>I've been thinking about how my blog here on MB fits into the equation, and I think MB serves as a more meaningful \"home base.\" The content I share here is a bit more than a fleeting thought (unlike Mastodon) and it isn't specifically to spark conversation (unlike Lemmy). I think the strength of MB, right now, is that it offers the full-on “Web 1.0” (I am stating this affectionately) blogging experience with the ability to tunnel blogged content to/from the Fediverse. </p>\n",
 				"date_published": "2023-07-02T01:23:23-05:00",
 				"url": "https://j.manes.blog/2023/07/02/blogging-in-the.html",
-				"tags": ["Longform"]
+				"tags": ["Longform","Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/06/30/personal-social-media.html",
@@ -1471,7 +1591,7 @@
 				"content_text": "<p>I decided to refine some of my social media usage today. I'm going to be deleting my reddit account due to the 'enshittification' going on there, and instead using <a href=\"https://lemmy.world/u/jmanes\">Lemmy.world</a>. After doing some research into the administrator of this Lemmy instance, I found that they also have a Mastodon instance. So.. I created an account with them on <a href=\"https://mastodon.world/@jmanes\">Mastodon.world</a>. I will primarily be using Micro.blog, Lemmy.world and Mastodon.social from here on out.<br /><br />If anyone else likes the *.world social media sites, the owner has a <a href=\"https://www.patreon.com/mastodonworld\">Patreon</a> to donate to as well.</p>\n",
 				"date_published": "2023-06-30T13:56:12-05:00",
 				"url": "https://j.manes.blog/2023/06/30/personal-social-media.html",
-				"tags": ["Longform"]
+				"tags": ["Longform","Tech","Life","Micro.blog"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/06/25/i-purchased-some.html",
@@ -1497,7 +1617,8 @@
 				"content_html": "<p>It looks like the <a href=\"https://browser.kagi.com\">Orion browser</a> is getting <a href=\"https://orionfeedback.org/d/28-1password-extension-does-not-autofill\">support for 1Password</a> after all! Very excited to try this out once it is ready.</p>\n",
 				"content_text": "<p>It looks like the <a href=\"https://browser.kagi.com\">Orion browser</a> is getting <a href=\"https://orionfeedback.org/d/28-1password-extension-does-not-autofill\">support for 1Password</a> after all! Very excited to try this out once it is ready.</p>\n",
 				"date_published": "2023-06-25T14:41:27-05:00",
-				"url": "https://j.manes.blog/2023/06/25/it-looks-like.html"
+				"url": "https://j.manes.blog/2023/06/25/it-looks-like.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/06/22/thoughts-on-the.html",
@@ -1562,7 +1683,8 @@
 				"content_html": "<p>Micro.blog is so versatile that I think I may just re-direct my landing page to my blog’s about page. One less thing to keep up on.</p>\n",
 				"content_text": "<p>Micro.blog is so versatile that I think I may just re-direct my landing page to my blog’s about page. One less thing to keep up on.</p>\n",
 				"date_published": "2023-06-10T16:29:58-05:00",
-				"url": "https://j.manes.blog/2023/06/10/microblog-is-so.html"
+				"url": "https://j.manes.blog/2023/06/10/microblog-is-so.html",
+				"tags": ["Micro.blog"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/06/10/looking-back-on.html",
@@ -1595,7 +1717,8 @@
 				"content_html": "<p>The Reddit app Apollo being shut down is a tragedy. To me, this app was the only thing that made Reddit bearable to use on iOS. On Android, I use an app called Relay, which I assume is also getting shut down during this mess. To be frank, this is the end of my relationship with Reddit as a social media platform. I will not longer be using it.</p>\n<p>Context: <a href=\"https://www.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits\">Apollo on Reddit</a></p>\n",
 				"content_text": "<p>The Reddit app Apollo being shut down is a tragedy. To me, this app was the only thing that made Reddit bearable to use on iOS. On Android, I use an app called Relay, which I assume is also getting shut down during this mess. To be frank, this is the end of my relationship with Reddit as a social media platform. I will not longer be using it.</p>\n<p>Context: <a href=\"https://www.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits\">Apollo on Reddit</a></p>\n",
 				"date_published": "2023-06-08T13:42:48-05:00",
-				"url": "https://j.manes.blog/2023/06/08/the-reddit-app.html"
+				"url": "https://j.manes.blog/2023/06/08/the-reddit-app.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/06/07/the-air-quality.html",
@@ -1611,7 +1734,8 @@
 				"content_html": "<p>The Vision Pro is sexy aesthetically; I really like the hardware. The application of the hardware is where the plot is lost with me. I don’t think I’d ever use this for anything more than a party trick. Also… it is damn creepy. 🤯 #WWDC23</p>\n",
 				"content_text": "<p>The Vision Pro is sexy aesthetically; I really like the hardware. The application of the hardware is where the plot is lost with me. I don’t think I’d ever use this for anything more than a party trick. Also… it is damn creepy. 🤯 #WWDC23</p>\n",
 				"date_published": "2023-06-05T13:57:06-05:00",
-				"url": "https://j.manes.blog/2023/06/05/the-vision-pro.html"
+				"url": "https://j.manes.blog/2023/06/05/the-vision-pro.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/06/01/rest-in-peace.html",
@@ -1619,7 +1743,8 @@
 				"content_html": "<p>Rest in Peace to my 2019-purchased Bose NC 700s. I woke up to the smell of burning wire and found this in my living room.</p>\n<p><img title=\"IMG_5122.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/8555a27d8a.png\" alt=\"A pair of Bose NC 700 headphones with the charging port smouldering and melted.\" width=\"600\" height=\"450\" border=\"0\" /><img title=\"IMG_5123.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/4ffa403996.png\" alt=\"A Bose USB cable with the port entirely meled and missing the metal portion of the plug.\" width=\"600\" height=\"450\" border=\"0\" /><br /><br />I left them to charge over-night and that was apparently a dangerous move. I knew the battery was going out on these for some time now, but I did not expect it to fail like this!</p>\n",
 				"content_text": "<p>Rest in Peace to my 2019-purchased Bose NC 700s. I woke up to the smell of burning wire and found this in my living room.</p>\n<p><img title=\"IMG_5122.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/8555a27d8a.png\" alt=\"A pair of Bose NC 700 headphones with the charging port smouldering and melted.\" width=\"600\" height=\"450\" border=\"0\" /><img title=\"IMG_5123.png\" src=\"https://cdn.uploads.micro.blog/3480/2023/4ffa403996.png\" alt=\"A Bose USB cable with the port entirely meled and missing the metal portion of the plug.\" width=\"600\" height=\"450\" border=\"0\" /><br /><br />I left them to charge over-night and that was apparently a dangerous move. I knew the battery was going out on these for some time now, but I did not expect it to fail like this!</p>\n",
 				"date_published": "2023-06-01T10:39:47-05:00",
-				"url": "https://j.manes.blog/2023/06/01/rest-in-peace.html"
+				"url": "https://j.manes.blog/2023/06/01/rest-in-peace.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/05/28/the-lack-of.html",
@@ -1627,7 +1752,8 @@
 				"content_html": "<p>The lack of e2e bookmarks on Safari is kind of a bummer. Also it is not great for development work. Apple definitely has other priorities for this browser.</p>\n",
 				"content_text": "The lack of e2e bookmarks on Safari is kind of a bummer. Also it is not great for development work. Apple definitely has other priorities for this browser.\n",
 				"date_published": "2023-05-28T20:10:15-05:00",
-				"url": "https://j.manes.blog/2023/05/28/the-lack-of.html"
+				"url": "https://j.manes.blog/2023/05/28/the-lack-of.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/05/27/stuck-in-a.html",
@@ -1635,7 +1761,8 @@
 				"content_html": "<p>Stuck in a loop of hating every browser right now for different reasons. Firefox is so close to being my main choice... I mean it basically is everywhere other than my mac.. if only it were a little more refined on macOS. ☹️</p>\n",
 				"content_text": "<p>Stuck in a loop of hating every browser right now for different reasons. Firefox is so close to being my main choice... I mean it basically is everywhere other than my mac.. if only it were a little more refined on macOS. ☹️</p>\n",
 				"date_published": "2023-05-27T20:13:24-05:00",
-				"url": "https://j.manes.blog/2023/05/27/stuck-in-a.html"
+				"url": "https://j.manes.blog/2023/05/27/stuck-in-a.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/05/27/diy-home-network.html",
@@ -1693,7 +1820,8 @@
 				"content_html": "<p>Finally got a working version of my new Micro.blog theme up and running. Currently keeping it safe with whites and grays for the colors, but I plan on experimenting soon. I find working with fewer colors to begin with helps me focus on whitespace and structure.</p>\n",
 				"content_text": "<p>Finally got a working version of my new Micro.blog theme up and running. Currently keeping it safe with whites and grays for the colors, but I plan on experimenting soon. I find working with fewer colors to begin with helps me focus on whitespace and structure.</p>\n",
 				"date_published": "2023-05-21T00:54:33-05:00",
-				"url": "https://j.manes.blog/2023/05/21/finally-got-a.html"
+				"url": "https://j.manes.blog/2023/05/21/finally-got-a.html",
+				"tags": ["Micro.blog"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/05/09/here-is-another.html",
@@ -1710,7 +1838,8 @@
 				"content_html": "<p>I just discovered the micro.blog Mac app yesterday&hellip; this entire time I thought it was web only.</p>\n",
 				"content_text": "I just discovered the micro.blog Mac app yesterday... this entire time I thought it was web only. \n",
 				"date_published": "2023-05-09T12:23:11-05:00",
-				"url": "https://j.manes.blog/2023/05/09/i-just-discovered.html"
+				"url": "https://j.manes.blog/2023/05/09/i-just-discovered.html",
+				"tags": ["Tech","Micro.blog"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/05/09/i-learned-recently.html",
@@ -1718,7 +1847,8 @@
 				"content_html": "<p>I learned recently that exactly Zero of my Google smart home devices support DHCPv6. Including my Pixel 7 Pro. What the hell man</p>\n",
 				"content_text": "<p>I learned recently that exactly Zero of my Google smart home devices support DHCPv6. Including my Pixel 7 Pro. What the hell man</p>\n",
 				"date_published": "2023-05-09T00:54:45-05:00",
-				"url": "https://j.manes.blog/2023/05/09/i-learned-recently.html"
+				"url": "https://j.manes.blog/2023/05/09/i-learned-recently.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/05/09/launchpad-a-bad.html",
@@ -1735,7 +1865,8 @@
 				"content_html": "<p>I had enough today, and ditched the Apple Weather app. It is so hilariously bad at what it does. I cannot believe this product was shipped.</p>\n",
 				"content_text": "<p>I had enough today, and ditched the Apple Weather app. It is so hilariously bad at what it does. I cannot believe this product was shipped.</p>\n",
 				"date_published": "2023-05-07T21:22:51-05:00",
-				"url": "https://j.manes.blog/2023/05/07/i-had-enough.html"
+				"url": "https://j.manes.blog/2023/05/07/i-had-enough.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/05/04/i-was-able.html",
@@ -1743,7 +1874,8 @@
 				"content_html": "<p>I was able to catch Skinny Puppy live on their Final Tour. So grateful! 🎵</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/9b6860907b.jpg\" alt=\"\" width=\"600\" height=\"450\" /><img src=\"https://cdn.uploads.micro.blog/3480/2023/658e7b09d9.jpg\" alt=\"\" width=\"600\" height=\"450\" /><img src=\"https://cdn.uploads.micro.blog/3480/2023/9bb82aaa66.jpg\" alt=\"\" width=\"600\" height=\"450\" /><img src=\"https://cdn.uploads.micro.blog/3480/2023/9d238ac0b4.jpg\" alt=\"\" width=\"600\" height=\"450\" /></p>\n",
 				"content_text": "<p>I was able to catch Skinny Puppy live on their Final Tour. So grateful! 🎵</p>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/9b6860907b.jpg\" alt=\"\" width=\"600\" height=\"450\" /><img src=\"https://cdn.uploads.micro.blog/3480/2023/658e7b09d9.jpg\" alt=\"\" width=\"600\" height=\"450\" /><img src=\"https://cdn.uploads.micro.blog/3480/2023/9bb82aaa66.jpg\" alt=\"\" width=\"600\" height=\"450\" /><img src=\"https://cdn.uploads.micro.blog/3480/2023/9d238ac0b4.jpg\" alt=\"\" width=\"600\" height=\"450\" /></p>\n",
 				"date_published": "2023-05-04T12:39:27-05:00",
-				"url": "https://j.manes.blog/2023/05/04/i-was-able.html"
+				"url": "https://j.manes.blog/2023/05/04/i-was-able.html",
+				"tags": ["Life"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/04/30/another-weekend-gone.html",
@@ -1751,7 +1883,8 @@
 				"content_html": "<p>Another weekend gone too fast. I spent a good chunk of it re-working my firewall setup. I finally have IPv6 operational through my ISP!</p>\n",
 				"content_text": "<p>Another weekend gone too fast. I spent a good chunk of it re-working my firewall setup. I finally have IPv6 operational through my ISP!</p>\n",
 				"date_published": "2023-04-30T19:23:26-05:00",
-				"url": "https://j.manes.blog/2023/04/30/another-weekend-gone.html"
+				"url": "https://j.manes.blog/2023/04/30/another-weekend-gone.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/04/24/i-have-a.html",
@@ -1775,7 +1908,8 @@
 				"content_html": "<p>I spent a good chunk of my day attempting to fix issues on the nvidia shield. I used to have it set up for retroarch which would load my games over a network. Apparently newer versions of Android restrict access to those folders now… what a mess. I may need to move to a dedicated machine soon.</p>\n",
 				"content_text": "<p>I spent a good chunk of my day attempting to fix issues on the nvidia shield. I used to have it set up for retroarch which would load my games over a network. Apparently newer versions of Android restrict access to those folders now… what a mess. I may need to move to a dedicated machine soon.</p>\n",
 				"date_published": "2023-04-23T00:31:20-05:00",
-				"url": "https://j.manes.blog/2023/04/23/i-spent-a.html"
+				"url": "https://j.manes.blog/2023/04/23/i-spent-a.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/04/16/javabean-is-angry.html",
@@ -1826,7 +1960,8 @@
 				"content_html": "<p>For anyone that uses HomeKit but has Nest products, you gotta check out Starling. It is crazy good and went far beyond my expectations: <a href=\"https://www.starlinghome.io\">www.starlinghome.io</a></p>\n",
 				"content_text": "<p>For anyone that uses HomeKit but has Nest products, you gotta check out Starling. It is crazy good and went far beyond my expectations: <a href=\"https://www.starlinghome.io\">www.starlinghome.io</a></p>\n",
 				"date_published": "2023-03-31T21:53:18-05:00",
-				"url": "https://j.manes.blog/2023/03/31/for-anyone-that.html"
+				"url": "https://j.manes.blog/2023/03/31/for-anyone-that.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/03/31/this-week-has.html",
@@ -1851,7 +1986,7 @@
 				"content_text": "<p>Software engineering interviews are certainly something, aren’t they? A potential employer reviews your accomplishment, sees the code that you have contributed to open source projects on GitHub, and things seem to be going great. Then, the technical interview appears. It’s all down hill from here.</p>\n<p>Does this sound familiar? I’m sure it does to many of you, and you shouldn’t feel bad about it. <em>The majority of technical interviews as they are given today are garbage.</em> There are some companies that do them well, but most of them do them bad. For this entry, I will be focusing on the companies that do them poorly, and describing why they are so terrible.</p>\n<h3>The technical interview of today is often nothing more than a bastardized I.Q. test.</h3>\n<p>Have you ever noticed that coding interview questions are often needlessly complicated and do not reflect anything that you would ever do on the job? Me too. If you have noticed this, it means you have actually worked in the field. Many of the questions are based around syntax-correctness, memorization of random API method signatures, and very specific algorithm implementation details. This is cute for trivia night, but it means nothing in the context of the job.</p>\n<p><strong>A fun analogy:</strong> For my friends in the arts, let me give you an analogous example question that you might be asked if your technical interview were written by a hiring software engineer.</p>\n<p>“You have a photoshop document with two layers. A base layer that is black, and a top layer that is white. A masking layer is added to the white layer and the white layer is set to 70% opacity. If you were to make a stroke with the brush tool on the masking layer with the color set to black at 50% opacity, what would the resulting color be in the hexadecimal format? It is OK if your answer is off by a few octets.”</p>\n<p>If your first thought here was “who cares about this crap? I could figure it out in two seconds on the job with the color picker tool,” then your mind is in the right place. Indeed, <em>who cares</em>.</p>\n<p>The majority of modern day technical interviews are nothing more than an I.Q. test for candidates under a different name. Which, by the way, was <a href=\"https://micro.blog/archives/546662\">decided by the Supreme Court</a> to be scumbag behavior. They tell you nothing about an individuals ability to do the job well, but they do give you potential hints as to <a href=\"https://micro.blog/archives/546663\">how wealthy that person may have been during their upbringing</a>.</p>\n<p>Ever wonder why there are countless books on how to “crack the coding interview” and training businesses built around these draconian interviews? Now you know. It’s because they have nothing to do with the job. It is extracurricular work. It is an entirely different skillset.</p>\n<p>I’ll leave this one with a hot take, some exceptions apply:</p>\n<p><em>“The engineer that spends their all of their time engineering is not qualified to pass an interview.”</em></p>\n<h3>The technical interview does not pass empathy test, because it was not made for humans</h3>\n<p><img src=\"https://cdn.uploads.micro.blog/3480/2023/9c88850619.gif\" alt=\"\" width=\"600\" height=\"247\" /></p>\n<p>There was an interesting study done by someone <a href=\"https://micro.blog/archives/546697\">way smarter than me</a> that I think applies here. It is called the “Illusion of Transparency” which describes how humans tend to over-estimate how much of their own mental state is known by others. This happens in interviews <em>a lot</em> as it is, and it is even worse during the technical portion for engineers.</p>\n<p>This concept, sometimes referred to as the “curse of knowledge”, seeps deep into the minds of interviewers everywhere. The interviewer that walks into a technical interview with all of the answers cannot “un-know” what they are about to present to you as a test. Their frame of reference is warped, and more often than not, technical interviewers have no desire to be empathetic to those who they are interviewing. To the interviewer it is simple and easy, because they already know the answer going in. The interviewer has the curse of knowledge. This bias can lead an interviewer to see you as a poor candidate despite the test being inhospitable to how humans <em>actually</em> think.</p>\n<p>So why design an interview like this if it sucks so bad? Why ignore all of these biases? Well, it comes down to good ol’ corporate number crunching. These questions are hospitable to corporate timetables, as the fruits of the test can easily be placed into black-and-white boxes for quick assessment. Frankly, in these situations, the individual giving the interview does not have to care. They know the hyper-specific answers. If you also know these answers, you’re in. If you don’t, you’re out. Indeed, interviews like these are designed to benefit <em>corporate schedules</em> at the expense of <em>merit.</em> Remember this at all times.</p>\n<p>Keep in mind that if you were to put a technical interviewer through their own interview process with a different question set of a similar design, there is an exceedingly good chance that they would stumble just as quickly as anyone else. And yes, this would happen to senior engineers, and even high level architects. The best of minds cannot compensate for the worst of tests.</p>\n<p>If during a technical interview you stumble when being asked to point out some simplistic syntax error, or you forget some random API signature, don’t beat yourself up about it. Do not define yourself by a bad test. Keep your head high and keep searching.</p>\n",
 				"date_published": "2023-03-28T02:13:20-05:00",
 				"url": "https://j.manes.blog/2023/03/27/the-folly-of.html",
-				"tags": ["Longform"]
+				"tags": ["Longform","Micro.blog"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/03/27/meetings-meetings-meetings.html",
@@ -1883,7 +2018,8 @@
 				"content_html": "<p>Does anyone else have an issue with the micro.blog iOS app? It never loads my timeline in for me. I am wondering if this is because I enabled Mastodon integration on my account.</p>\n",
 				"content_text": "Does anyone else have an issue with the micro.blog iOS app? It never loads my timeline in for me. I am wondering if this is because I enabled Mastodon integration on my account.\n",
 				"date_published": "2023-03-26T01:26:24-05:00",
-				"url": "https://j.manes.blog/2023/03/26/does-anyone-else.html"
+				"url": "https://j.manes.blog/2023/03/26/does-anyone-else.html",
+				"tags": ["Micro.blog"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/03/25/doublefluffed-at-least.html",
@@ -1900,7 +2036,8 @@
 				"content_html": "<p>That new Framework laptop looks absolutely incredible. Very excited for the future of computing with these folks around!</p>\n",
 				"content_text": "<p>That new Framework laptop looks absolutely incredible. Very excited for the future of computing with these folks around!</p>\n",
 				"date_published": "2023-03-23T18:13:04-05:00",
-				"url": "https://j.manes.blog/2023/03/23/that-new-framework.html"
+				"url": "https://j.manes.blog/2023/03/23/that-new-framework.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2023/03/20/is-there-a.html",
