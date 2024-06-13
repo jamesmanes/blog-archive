@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://jmanes.micro.blog/2024/06/13/the-experiment-of.html",
+				
+				"content_html": "<p>The experiment of changing my wake up time from 8:30 AM to 5:00 AM is a success. Getting up earlier truly is better.</p>\n",
+				"content_text": "The experiment of changing my wake up time from 8:30 AM to 5:00 AM is a success. Getting up earlier truly is better.\n",
+				"date_published": "2024-06-13T05:51:08-05:00",
+				"url": "https://j.manes.blog/2024/06/13/the-experiment-of.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/06/10/i-hope-there.html",
+				
+				"content_html": "<p>I hope there is a way to turn off all of the upcoming OpenAI garbage as it relates to new Siri integrations.</p>\n",
+				"content_text": "I hope there is a way to turn off all of the upcoming OpenAI garbage as it relates to new Siri integrations.\n",
+				"date_published": "2024-06-10T14:06:56-05:00",
+				"url": "https://j.manes.blog/2024/06/10/i-hope-there.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/06/10/the-new-pegasus.html",
+				
+				"content_html": "<p>The new Pegasus 41 by Nike came out and they <em>finally</em> have more colors than plain black in wide sizing. Instant buy.</p>\n",
+				"content_text": "The new Pegasus 41 by Nike came out and they _finally_ have more colors than plain black in wide sizing. Instant buy.\n",
+				"date_published": "2024-06-10T05:53:45-05:00",
+				"url": "https://j.manes.blog/2024/06/10/the-new-pegasus.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/06/10/one-of-my.html",
+				
+				"content_html": "<p>One of my guinea pigs has decided suddenly that the vitamin C cookies I give her daily are not tasty enough, and will no longer eat them. Little jackass.</p>\n",
+				"content_text": "One of my guinea pigs has decided suddenly that the vitamin C cookies I give her daily are not tasty enough, and will no longer eat them. Little jackass.\n",
+				"date_published": "2024-06-10T05:22:18-05:00",
+				"url": "https://j.manes.blog/2024/06/10/one-of-my.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/06/10/attempting-to-reboot.html",
+				
+				"content_html": "<p>Attempting to reboot my sleep schedule on hard mode. Went to bed at midnight and woke up this morning at 4:00.</p>\n",
+				"content_text": "Attempting to reboot my sleep schedule on hard mode. Went to bed at midnight and woke up this morning at 4:00. \n",
+				"date_published": "2024-06-10T04:22:10-05:00",
+				"url": "https://j.manes.blog/2024/06/10/attempting-to-reboot.html"
+			},
+			{
 				"id": "http://jmanes.micro.blog/2024/06/07/so-many-companies.html",
 				
 				"content_html": "<p>So many companies treat their customers like a nuisance for which they must reluctantly provide a product or service. It is utterly bizarre.</p>\n",
@@ -46,7 +86,8 @@
 				"content_html": "<p>Composing an escape plan in the anticipation of Apple adopting OpenAI into its OS/apps. Hopefully they will be in control of where/how the data is used. No point in having &ldquo;advanced security&rdquo; for e2ee enabled if the OS is sitting with the keys and sending info to OpenAI servers.</p>\n",
 				"content_text": "Composing an escape plan in the anticipation of Apple adopting OpenAI into its OS/apps. Hopefully they will be in control of where/how the data is used. No point in having \"advanced security\" for e2ee enabled if the OS is sitting with the keys and sending info to OpenAI servers.\n",
 				"date_published": "2024-05-31T12:51:28-05:00",
-				"url": "https://j.manes.blog/2024/05/31/composing-an-escape.html"
+				"url": "https://j.manes.blog/2024/05/31/composing-an-escape.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/05/31/good-lord-my.html",
@@ -54,7 +95,8 @@
 				"content_html": "<p>Good lord, my teeth are sore. Swapping to that new retainer sucked.</p>\n",
 				"content_text": "Good lord, my teeth are sore. Swapping to that new retainer sucked.\n",
 				"date_published": "2024-05-31T08:54:40-05:00",
-				"url": "https://j.manes.blog/2024/05/31/good-lord-my.html"
+				"url": "https://j.manes.blog/2024/05/31/good-lord-my.html",
+				"tags": ["Life"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/05/30/after-i-had.html",
@@ -62,7 +104,8 @@
 				"content_html": "<p>After I had invisalign completed in December of 2019, I was given four sets of identical retainers. On three of four as of today. They eventually discolor and slowly lose their shape. I guess after 2028 all bets will be off. 🫡</p>\n",
 				"content_text": "After I had invisalign completed in December of 2019, I was given four sets of identical retainers. On three of four as of today. They eventually discolor and slowly lose their shape. I guess after 2028 all bets will be off. 🫡\n",
 				"date_published": "2024-05-30T22:52:57-05:00",
-				"url": "https://j.manes.blog/2024/05/30/after-i-had.html"
+				"url": "https://j.manes.blog/2024/05/30/after-i-had.html",
+				"tags": ["Life"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/05/30/i-assume-trump.html",
