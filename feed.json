@@ -7,12 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://jmanes.micro.blog/2024/06/22/it-was-a.html",
+				
+				"content_html": "<p>It was a good day today.</p>\n<p><img src=\"uploads/2024/img-6441.jpeg\" alt=\"A bowl of freshly made Spicy Kimchi Chicken Ramen from Pho La La in Lee’s Summit, Missouri. The bowl is a golden color with a handle on each side. The ramen is filled to the brim, and the broth is a dark yellow.\" width=\"600\" height=\"450\" /><img src=\"uploads/2024/72911fc473.jpeg\" alt=\"A rear view of my white Integra Type S in a car-wash bay.\" title=\"IMG_6444.jpeg\" border=\"0\" width=\"5712\" height=\"4284\" /></p>\n",
+				"content_text": "It was a good day today. \n\n<img src=\"uploads/2024/img-6441.jpeg\" alt=\"A bowl of freshly made Spicy Kimchi Chicken Ramen from Pho La La in Lee’s Summit, Missouri. The bowl is a golden color with a handle on each side. The ramen is filled to the brim, and the broth is a dark yellow.\" width=\"600\" height=\"450\" /><img src=\"uploads/2024/72911fc473.jpeg\" alt=\"A rear view of my white Integra Type S in a car-wash bay.\" title=\"IMG_6444.jpeg\" border=\"0\" width=\"5712\" height=\"4284\" />\n",
+				"date_published": "2024-06-22T19:03:19-05:00",
+				"url": "https://j.manes.blog/2024/06/22/it-was-a.html",
+				"tags": ["Automotive","Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/06/20/i-cannot-describe.html",
+				
+				"content_html": "<p>I cannot describe how great it is to have your exercise done, coffee made, and breakfast out of the way before 7 A.M.</p>\n",
+				"content_text": "I cannot describe how great it is to have your exercise done, coffee made, and breakfast out of the way before 7 A.M.\n",
+				"date_published": "2024-06-20T10:04:38-05:00",
+				"url": "https://j.manes.blog/2024/06/20/i-cannot-describe.html",
+				"tags": ["Life"]
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/06/18/the-setup-evolution.html",
+				
+				"content_html": "<p>The setup evolution, now with trackball.</p>\n<img src=\"uploads/2024/img-6395.jpeg\" alt=\"My desk in the raised standing position. In the middle is a large LG UltraFine display. To the left is a docked MacBook Pro on a vertical stand with the lid open. On the right is a closed work-supplied MacBook Pro. The keyboard and trackball are visible in the middle of the desk.\" width=\"600\" height=\"450\" />\n",
+				"content_text": "The setup evolution, now with trackball.\n\n<img src=\"uploads/2024/img-6395.jpeg\" alt=\"My desk in the raised standing position. In the middle is a large LG UltraFine display. To the left is a docked MacBook Pro on a vertical stand with the lid open. On the right is a closed work-supplied MacBook Pro. The keyboard and trackball are visible in the middle of the desk.\" width=\"600\" height=\"450\" />\n",
+				"date_published": "2024-06-18T11:29:01-05:00",
+				"url": "https://j.manes.blog/2024/06/18/the-setup-evolution.html",
+				"tags": ["Tech"]
+			},
+			{
 				"id": "http://jmanes.micro.blog/2024/06/17/i-get-to.html",
 				
 				"content_html": "<p>I get to see these little guys on my early morning walks. Another benefit of getting up early. I believe these are Eastern Cottontail rabbits.</p>\n<p><img src=\"uploads/2024/img-6422.jpeg\" alt=\"Two rabbits enjoying the grass in the morning sunlight. The rabbits themselves are a bit blurry in the photo as they were moving quickly.\" width=\"600\" height=\"450\" /><img src=\"uploads/2024/img-6423.jpeg\" alt=\"A rather large rabbit blending in with some bushes near a house.\" width=\"600\" height=\"450\" /></p>\n",
 				"content_text": "I get to see these little guys on my early morning walks. Another benefit of getting up early. I believe these are Eastern Cottontail rabbits.\n\n<img src=\"uploads/2024/img-6422.jpeg\" alt=\"Two rabbits enjoying the grass in the morning sunlight. The rabbits themselves are a bit blurry in the photo as they were moving quickly.\" width=\"600\" height=\"450\" /><img src=\"uploads/2024/img-6423.jpeg\" alt=\"A rather large rabbit blending in with some bushes near a house.\" width=\"600\" height=\"450\" />\n",
 				"date_published": "2024-06-17T08:15:01-05:00",
-				"url": "https://j.manes.blog/2024/06/17/i-get-to.html"
+				"url": "https://j.manes.blog/2024/06/17/i-get-to.html",
+				"tags": ["Life"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/06/16/spare-bronze-rim.html",
@@ -56,7 +84,8 @@
 				"content_html": "<p>I ordered a trackball mouse for the first time in my life and I already love it.</p>\n",
 				"content_text": "I ordered a trackball mouse for the first time in my life and I already love it.\n",
 				"date_published": "2024-06-14T10:26:58-05:00",
-				"url": "https://j.manes.blog/2024/06/14/i-ordered-a.html"
+				"url": "https://j.manes.blog/2024/06/14/i-ordered-a.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/06/13/former-head-of.html",
@@ -98,7 +127,8 @@
 				"content_html": "<p>I hope there is a way to turn off all of the upcoming OpenAI garbage as it relates to new Siri integrations.</p>\n",
 				"content_text": "I hope there is a way to turn off all of the upcoming OpenAI garbage as it relates to new Siri integrations.\n",
 				"date_published": "2024-06-10T14:06:56-05:00",
-				"url": "https://j.manes.blog/2024/06/10/i-hope-there.html"
+				"url": "https://j.manes.blog/2024/06/10/i-hope-there.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/06/10/the-new-pegasus.html",
