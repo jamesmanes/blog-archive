@@ -7,26 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://jmanes.micro.blog/2024/08/10/nfl-preseason-starts.html",
+				
+				"content_html": "<p>NFL Preseason starts today! So ready for football season.</p>\n",
+				"content_text": "NFL Preseason starts today! So ready for football season. \n",
+				"date_published": "2024-08-10T13:08:48-05:00",
+				"url": "https://j.manes.blog/2024/08/10/nfl-preseason-starts.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/08/04/deleted-my-bluesky.html",
+				
+				"content_html": "<p>Deleted my Bluesky account again. I don’t get caught up in flame wars and shit so it basically went unused. Might as well federate content via fediverse and just stick to that.</p>\n",
+				"content_text": "Deleted my Bluesky account again. I don’t get caught up in flame wars and shit so it basically went unused. Might as well federate content via fediverse and just stick to that. \n",
+				"date_published": "2024-08-04T12:12:15-05:00",
+				"url": "https://j.manes.blog/2024/08/04/deleted-my-bluesky.html"
+			},
+			{
 				"id": "http://jmanes.micro.blog/2024/08/04/bought-myself-something.html",
 				
-				"content_html": "<p>Bought myself something nice: Maui Jim sunglasses.</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/541072e0fc.jpg\" width=\"600\" height=\"450\" alt=\"A pair of Maui Jim sunglasses with bright blue reflective lenses.\">\n",
-				"content_text": "Bought myself something nice: Maui Jim sunglasses. \n\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/541072e0fc.jpg\" width=\"600\" height=\"450\" alt=\"A pair of Maui Jim sunglasses with bright blue reflective lenses.\">\n",
+				"content_html": "<p>Bought myself something nice: Maui Jim sunglasses.</p>\n<img src=\"uploads/2024/541072e0fc.jpg\" width=\"600\" height=\"450\" alt=\"A pair of Maui Jim sunglasses with bright blue reflective lenses.\">\n",
+				"content_text": "Bought myself something nice: Maui Jim sunglasses. \n\n<img src=\"uploads/2024/541072e0fc.jpg\" width=\"600\" height=\"450\" alt=\"A pair of Maui Jim sunglasses with bright blue reflective lenses.\">\n",
 				"date_published": "2024-08-04T00:28:09-05:00",
 				"url": "https://j.manes.blog/2024/08/04/bought-myself-something.html"
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/07/30/this-little-guy.html",
 				
-				"content_html": "<p>This little guy couldn’t take the heat today… was passed out in that position for three hours.</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/c55cc985ab.jpg\" width=\"600\" height=\"529\" alt=\"A squirrel draped over a tree branch sleeping. Its feet and tail are hanging freely on one side of the branch, and its head hanging freely on the other. \">\n",
-				"content_text": "This little guy couldn’t take the heat today… was passed out in that position for three hours.\n\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/c55cc985ab.jpg\" width=\"600\" height=\"529\" alt=\"A squirrel draped over a tree branch sleeping. Its feet and tail are hanging freely on one side of the branch, and its head hanging freely on the other. \">\n",
+				"content_html": "<p>This little guy couldn’t take the heat today… was passed out in that position for three hours.</p>\n<img src=\"uploads/2024/c55cc985ab.jpg\" width=\"600\" height=\"529\" alt=\"A squirrel draped over a tree branch sleeping. Its feet and tail are hanging freely on one side of the branch, and its head hanging freely on the other. \">\n",
+				"content_text": "This little guy couldn’t take the heat today… was passed out in that position for three hours.\n\n<img src=\"uploads/2024/c55cc985ab.jpg\" width=\"600\" height=\"529\" alt=\"A squirrel draped over a tree branch sleeping. Its feet and tail are hanging freely on one side of the branch, and its head hanging freely on the other. \">\n",
 				"date_published": "2024-07-30T19:20:53-05:00",
 				"url": "https://j.manes.blog/2024/07/30/this-little-guy.html"
 			},
 			{
 				"id": "http://jmanes.micro.blog/2024/07/28/feast-day-for.html",
 				
-				"content_html": "<p>Feast day for the ladies.</p>\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/ad865118f2.jpg\" width=\"600\" height=\"450\" alt=\"My three guinea pigs surrounding a big pile of chopped lettuce, carrots, bell pepper, and parsley. They are all sitting on a soft gray blanket that is used exclusively for guinea pig floor time.\">\n",
-				"content_text": "Feast day for the ladies.\n\n<img src=\"https://cdn.uploads.micro.blog/3480/2024/ad865118f2.jpg\" width=\"600\" height=\"450\" alt=\"My three guinea pigs surrounding a big pile of chopped lettuce, carrots, bell pepper, and parsley. They are all sitting on a soft gray blanket that is used exclusively for guinea pig floor time.\">\n",
+				"content_html": "<p>Feast day for the ladies.</p>\n<img src=\"uploads/2024/ad865118f2.jpg\" width=\"600\" height=\"450\" alt=\"My three guinea pigs surrounding a big pile of chopped lettuce, carrots, bell pepper, and parsley. They are all sitting on a soft gray blanket that is used exclusively for guinea pig floor time.\">\n",
+				"content_text": "Feast day for the ladies.\n\n<img src=\"uploads/2024/ad865118f2.jpg\" width=\"600\" height=\"450\" alt=\"My three guinea pigs surrounding a big pile of chopped lettuce, carrots, bell pepper, and parsley. They are all sitting on a soft gray blanket that is used exclusively for guinea pig floor time.\">\n",
 				"date_published": "2024-07-28T17:38:30-05:00",
 				"url": "https://j.manes.blog/2024/07/28/feast-day-for.html",
 				"tags": ["Guinea Pigs"]
