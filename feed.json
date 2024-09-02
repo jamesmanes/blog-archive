@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://jmanes.micro.blog/2024/09/02/trip-to-jersey.html",
+				
+				"content_html": "<p>Trip to Jersey City.</p>\n<img src=\"uploads/2024/2396b52974.jpg\" width=\"600\" height=\"450\" alt=\"A street view of the Jersey city skyline at night. It’s very busy on the streets. \">\n",
+				"content_text": "Trip to Jersey City.\n\n<img src=\"uploads/2024/2396b52974.jpg\" width=\"600\" height=\"450\" alt=\"A street view of the Jersey city skyline at night. It’s very busy on the streets. \">\n",
+				"date_published": "2024-09-02T12:14:26-05:00",
+				"url": "https://j.manes.blog/2024/09/02/trip-to-jersey.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/08/23/went-and-saw.html",
+				
+				"content_html": "<p>Went and saw the Royals game this week. A friend of mine had tickets to the Diamond Club seating area. Insanely good seats.</p>\n<img src=\"uploads/2024/59270474f4.jpg\" width=\"600\" height=\"450\" alt=\"The Royal’s baseball stadium as seen from seating behind home plate.\">\n",
+				"content_text": "Went and saw the Royals game this week. A friend of mine had tickets to the Diamond Club seating area. Insanely good seats.\n\n<img src=\"uploads/2024/59270474f4.jpg\" width=\"600\" height=\"450\" alt=\"The Royal’s baseball stadium as seen from seating behind home plate.\">\n",
+				"date_published": "2024-08-23T19:47:51-05:00",
+				"url": "https://j.manes.blog/2024/08/23/went-and-saw.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/08/23/i-have-an.html",
+				
+				"content_html": "<p>I have an unfinished basement that looks utterly depressing and horrifying so I decided to turn a part of it into a home gym. This + dieting has been treating me well; I’m down about 12lb in 6 weeks.</p>\n<img src=\"uploads/2024/9e66749f70.jpg\" width=\"450\" height=\"600\" alt=\"An old Bowflex set up in my basement along with a bench and various kettle bells and dumbbells. \">\n",
+				"content_text": "I have an unfinished basement that looks utterly depressing and horrifying so I decided to turn a part of it into a home gym. This + dieting has been treating me well; I’m down about 12lb in 6 weeks. \n\n<img src=\"uploads/2024/9e66749f70.jpg\" width=\"450\" height=\"600\" alt=\"An old Bowflex set up in my basement along with a bench and various kettle bells and dumbbells. \">\n",
+				"date_published": "2024-08-23T18:04:59-05:00",
+				"url": "https://j.manes.blog/2024/08/23/i-have-an.html"
+			},
+			{
 				"id": "http://jmanes.micro.blog/2024/08/23/i-havent-posted.html",
 				
 				"content_html": "<p>I haven&rsquo;t posted much here lately in the past few weeks. For whatever reason I do not feel an urge to. I&rsquo;m taking a trip to Jersey City and Philadelphia next week, so maybe I&rsquo;ll post some photos then.</p>\n",
