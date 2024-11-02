@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jmanes.micro.blog/2024/11/02/no-context.html",
+				
+				"content_html": "<p>No context.</p>\n<img src=\"uploads/2024/038c69b6fa.jpg\" width=\"337\" height=\"600\" alt=\"Me kneeling by an outdoor throne in dark red lighting. Lit candles are in front of me. Behind me are gothic metal gates. \">\n",
+				"content_text": "No context.\n\n<img src=\"uploads/2024/038c69b6fa.jpg\" width=\"337\" height=\"600\" alt=\"Me kneeling by an outdoor throne in dark red lighting. Lit candles are in front of me. Behind me are gothic metal gates. \">\n",
+				"date_published": "2024-11-02T00:01:19-05:00",
+				"url": "https://j.manes.blog/2024/11/02/no-context.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2024/10/27/i-have-to.html",
+				
+				"content_html": "<p>I have to conduct five back-to-back interviews next week.. on a single day. Wish me luck. I may lose my sanity.</p>\n",
+				"content_text": "I have to conduct five back-to-back interviews next week.. on a single day. Wish me luck. I may lose my sanity.\n",
+				"date_published": "2024-10-27T18:07:47-05:00",
+				"url": "https://j.manes.blog/2024/10/27/i-have-to.html"
+			},
+			{
 				"id": "http://jmanes.micro.blog/2024/10/24/im-about-of.html",
 				
 				"content_html": "<p>I&rsquo;m about 1/3 of the way through Silent Hill 2 for PS5. It is fantastic and true to the original thus far. I&rsquo;ll probably finish it up this weekend.</p>\n",
