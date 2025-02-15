@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jmanes.micro.blog/2025/02/14/222231.html",
+				
+				"content_html": "<img src=\"uploads/2025/de0ed4f1b0.jpg\" width=\"600\" height=\"298\" alt=\"The Kansas City Missouri skyline as viewed from my hotel window. The city is lit up red against a cloudy night sky. \">\n",
+				"content_text": "<img src=\"uploads/2025/de0ed4f1b0.jpg\" width=\"600\" height=\"298\" alt=\"The Kansas City Missouri skyline as viewed from my hotel window. The city is lit up red against a cloudy night sky. \">\n",
+				"date_published": "2025-02-14T22:22:31-06:00",
+				"url": "https://james.manes.blog/2025/02/14/222231.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2025/01/19/another-year-another-chiefs-vs.html",
+				
+				"content_html": "<p>Another year, another Chiefs v.s. Bills showdown. It will likely be more exciting than the Super Bowl itself.</p>\n",
+				"content_text": "Another year, another Chiefs v.s. Bills showdown. It will likely be more exciting than the Super Bowl itself. \n",
+				"date_published": "2025-01-19T20:45:02-06:00",
+				"url": "https://james.manes.blog/2025/01/19/another-year-another-chiefs-vs.html"
+			},
+			{
 				"id": "http://jmanes.micro.blog/2025/01/18/gut-wrenching-way-to-end.html",
 				
 				"content_html": "<p>Gut wrenching way to end the season for the Lions. That was rough.</p>\n",
