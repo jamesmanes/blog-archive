@@ -7,6 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://jmanes.micro.blog/2025/02/22/it-is-no-longer-dark.html",
+				
+				"content_html": "<p>It is no longer dark at 5:00 P.M. which means my suffering is coming to an end.</p>\n",
+				"content_text": "It is no longer dark at 5:00 P.M. which means my suffering is coming to an end.\n",
+				"date_published": "2025-02-22T17:32:46-06:00",
+				"url": "https://james.manes.blog/2025/02/22/it-is-no-longer-dark.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2025/02/17/the-app-im-using-doesnt.html",
+				
+				"content_html": "<p>The app I’m using doesn’t seem to support adding alt text… will make sure to post photos using a different app in the future.</p>\n",
+				"content_text": "The app I’m using doesn’t seem to support adding alt text… will make sure to post photos using a different app in the future. \n",
+				"date_published": "2025-02-17T15:45:21-06:00",
+				"url": "https://james.manes.blog/2025/02/17/the-app-im-using-doesnt.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2025/02/17/i-purchased-this-lovely-kettle.html",
+				
+				"content_html": "<p>I purchased this lovely kettle last week and I do not regret it. The colors are perfect.</p>\n<p><img src=\"https://james.manes.blog/uploads/2025/cb3b12d1e1.jpg\" alt=\"\"></p>\n",
+				"content_text": "I purchased this lovely kettle last week and I do not regret it. The colors are perfect. \n\n![](https://james.manes.blog/uploads/2025/cb3b12d1e1.jpg)\n",
+				"date_published": "2025-02-17T15:42:00-06:00",
+				"url": "https://james.manes.blog/2025/02/17/i-purchased-this-lovely-kettle.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2025/02/16/it-is-very-bizarre-how.html",
+				
+				"content_html": "<p>It is very bizarre how strongly my body has decided to latch on to a very specific weight. I’ve been lifting weights consistently for eight months and I’m stronger now than I have ever been, and it shows, yet the weight is the same. I guess trading fat for muscle at 1:1 ratio?</p>\n",
+				"content_text": "It is very bizarre how strongly my body has decided to latch on to a very specific weight. I’ve been lifting weights consistently for eight months and I’m stronger now than I have ever been, and it shows, yet the weight is the same. I guess trading fat for muscle at 1:1 ratio?\n",
+				"date_published": "2025-02-16T21:34:45-06:00",
+				"url": "https://james.manes.blog/2025/02/16/it-is-very-bizarre-how.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2025/02/16/entering-my-mid-s-has.html",
+				
+				"content_html": "<p>Entering my mid 30s has me looking around at fiber supplement and retinol and other bull shit</p>\n",
+				"content_text": "Entering my mid 30s has me looking around at fiber supplement and retinol and other bull shit\n",
+				"date_published": "2025-02-16T21:04:49-06:00",
+				"url": "https://james.manes.blog/2025/02/16/entering-my-mid-s-has.html"
+			},
+			{
+				"id": "http://jmanes.micro.blog/2025/02/15/passwords-safari-extension-icon.html",
+				"title": "1Password's Safari Extension Icon",
+				"content_html": "<p>Let&rsquo;s talk about the 1Password extension icon for Safari and UI hygiene. Currently, it is in a sorry state of affairs, and has been for <a href=\"https://www.1password.community/discussions/1password/add-options-to-change-1password-for-safaris-icon/118641/\">over three years</a>.</p>\n<img src=\"uploads/2025/screenshot-2025-02-15-at-2.46.09pm.png\" alt=\"\" title=\"Screenshot 2025-02-15 at 2.46.09 PM.png\" border=\"0\" width=\"456\" height=\"300\" />\n<p>As you can see it does not look as it should. It looks bad. Rather than conforming, it sticks out like a sore thumb. The other two icons visible in the screenshot are for <a href=\"https://underpassapp.com/StopTheMadness/features-mac.html\">StopTheMadness</a> and <a href=\"https://1blocker.com\">1Blocker</a> respectively; two apps made by developers that understand UI hygiene.</p>\n<p>So, how does this happen in the first place? 1Password, after all, is one of the best password managers on the market. They had their start on Apple&rsquo;s platform and used to be tailored tightly to Apple UI/UX. I have a few guesses for what is going on here.</p>\n<p>My first guess is that this is purely a marketing decision. Someone higher up has decided that keeping the icon consistent (ugly) while on a browser toolbar is good for &ldquo;brand integrity and recognition&rdquo; or some similar nonsense. This is typically a mindset that is perpetuated by companies more concerned with marketing than creating good products; it is the top down &ldquo;because I said so&rdquo; approach to meeting user wants and needs.</p>\n<p>My second guess is that this issue has been swept to the end of an infinite backlog never to be addressed. Typically this will be explained away with platitudes such as &ldquo;we have higher priority items to address.&rdquo;</p>\n<p>Neither of these scenarios are valid excuses for poor UI hygiene. It is like knowing somebody who doesn&rsquo;t brush their teeth. Are they avoiding basic hygiene because they think it makes them quirky and helps them stand out?&hellip; Mission accomplished, I suppose, in the worst possible sense. Or maybe they think brushing their teeth is low priority, thus a waste of their precious time. I&rsquo;m not sure which scenario is worse, but neither are good.</p>\n",
+				"content_text": "Let's talk about the 1Password extension icon for Safari and UI hygiene. Currently, it is in a sorry state of affairs, and has been for [over three years](https://www.1password.community/discussions/1password/add-options-to-change-1password-for-safaris-icon/118641/).\n\n<img src=\"uploads/2025/screenshot-2025-02-15-at-2.46.09pm.png\" alt=\"\" title=\"Screenshot 2025-02-15 at 2.46.09 PM.png\" border=\"0\" width=\"456\" height=\"300\" />\n\nAs you can see it does not look as it should. It looks bad. Rather than conforming, it sticks out like a sore thumb. The other two icons visible in the screenshot are for [StopTheMadness](https://underpassapp.com/StopTheMadness/features-mac.html) and [1Blocker](https://1blocker.com) respectively; two apps made by developers that understand UI hygiene. \n\nSo, how does this happen in the first place? 1Password, after all, is one of the best password managers on the market. They had their start on Apple's platform and used to be tailored tightly to Apple UI/UX. I have a few guesses for what is going on here.\n\nMy first guess is that this is purely a marketing decision. Someone higher up has decided that keeping the icon consistent (ugly) while on a browser toolbar is good for \"brand integrity and recognition\" or some similar nonsense. This is typically a mindset that is perpetuated by companies more concerned with marketing than creating good products; it is the top down \"because I said so\" approach to meeting user wants and needs.\n\nMy second guess is that this issue has been swept to the end of an infinite backlog never to be addressed. Typically this will be explained away with platitudes such as \"we have higher priority items to address.\"\n\nNeither of these scenarios are valid excuses for poor UI hygiene. It is like knowing somebody who doesn't brush their teeth. Are they avoiding basic hygiene because they think it makes them quirky and helps them stand out?... Mission accomplished, I suppose, in the worst possible sense. Or maybe they think brushing their teeth is low priority, thus a waste of their precious time. I'm not sure which scenario is worse, but neither are good.\n",
+				"date_published": "2025-02-15T15:25:19-06:00",
+				"url": "https://james.manes.blog/2025/02/15/passwords-safari-extension-icon.html",
+				"tags": ["Longform","Tech"]
+			},
+			{
 				"id": "http://jmanes.micro.blog/2025/02/14/222231.html",
 				
 				"content_html": "<img src=\"uploads/2025/de0ed4f1b0.jpg\" width=\"600\" height=\"298\" alt=\"The Kansas City Missouri skyline as viewed from my hotel window. The city is lit up red against a cloudy night sky. \">\n",
